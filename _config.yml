@@ -1,2 +1,4 @@
 name: Josephine Rhee, struggling
 markdown: kramdown
+
+theme: jekyll-theme-architect

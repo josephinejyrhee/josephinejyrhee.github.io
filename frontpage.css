@@ -1,0 +1,70 @@
+@font-face {
+	font-family: Shorthalt;
+	src: url('Shorthalt.ttf');
+} 
+
+h1, h2, p{
+	font-weight: normal;
+	line-height: 1.1em;
+	margin: 0 0 0 0;
+	text-align: center;
+	color: #424242;
+}
+h1{
+	font-size: 2em;
+}
+h2{
+	font-size: 10em;
+	font-family: Shorthalt;
+}
+
+/* you can structure your code's white space so that it is as readable for when you come back in the future or for other people to read and edit quickly */
+
+body{
+	width: 100%;
+	background-color: #f9f8f8;
+}
+
+div {
+	width: 600px;
+	height: 235px;
+	background-color: #f9f8f8;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+	div:hover h1{
+		color: #8b8b8b;
+	}
+	div:hover h2{
+		color: #8b8b8b;
+	}
+	div:hover p{
+		color: #8b8b8b;
+	}
+
+
+/*html {
+	position: relative;
+	min-height: 100%;
+}
+#footer{
+	border-top: 3px #ccc dotted;
+	border-bottom: 3px #ccc dotted;
+	margin-bottom: 10px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	overflow:hidden;
+
+}
+	#footer p{
+		text-align: center;
+		text-transform: uppercase;
+		font-size: 75%;
+		color: grey;
+	}*/

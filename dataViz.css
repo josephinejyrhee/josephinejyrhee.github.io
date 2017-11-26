@@ -47,10 +47,8 @@ body{
 /*	width: 100%;
 	margin: 0;*/
 	background: #f9f8f8;
-	border:1px solid red;
-	height: 100%;
-
-}
+/*	border:1px solid red;
+*/}
 /* you can put your code all in one line like above */
 #header{
 	margin: 0 auto;

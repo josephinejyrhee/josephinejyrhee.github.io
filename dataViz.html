@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>Josephine Rhee</title>
+	<meta name="author" content="Josephine Rhee">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- FYI this is an HTML comment, it will be ignored by the browser -->
+	<!-- load the d3 library locally -->
+	<!-- we could load the non-minified version, plain old "d3.js", for debugging purposes instead if desired -->
+	<script src="./lib/d3.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="frontpage.js"></script>
+	<link rel="stylesheet" href="dataViz.css" type="text/css"></link>
+</head>
+
+
+<body>
+<!-- webpage content goes here in the body -->
+	<div id="page">
+		<div id="header">
+			<h1>Josephine Rhee</h1>
+			<div id="nav">
+				<ul>
+					<li><a href="/about.html" class="link">About</a></li>
+					<li><a href="/projects.html" class="active-link">Projects</a></li>
+					<li><a href="/resume/" class="link">Resume</a></li>
+					<li><a href="/photography/" class="link">Photography</a></li>
+					<li><a href="/contact/" class="link">Contact</a></li>
+				</ul>   
+			</div>
+		</div>
+		<div id="content">
+			<div class='entry'>
+				<h2>Choropleth Map //  <b>d3-geo, d3-scale, TopoJSON, CSV</b></h2>
+				<div class="top" id="choropleth_map_graph">
+					
+				</div>
+				<div class="bottom" id="choropleth_map_text">
+					<p>Created a map visualizing the number of drug overdose deaths in 2015 per 100,000 people based on every county in the U.S.</p>
+					<p>Took death rate data from a CSV file, geospatial data from a TopoJSON file generated using QGIS, and color scales from d3 to create a gradient depicting the various overdose rates.</p>
+				</div>
+				<h2>Bubble Chart // <b>d3-force, d3-scale, CSV</b></h2>
+				<div class="top" id="bubble_chart_graph">
+					<script src="main.js"></script>
+				</div>
+				<div class="bottom" id="bubble_chart_text">
+					<p>Created a bubble chart visualizing the average GDP per country by joining two datasets based on abbreviated country codes.</p>
+					<p>d3-force was used to create a force layout that spread from the center and each bubble's size and color was made to correspond with the average GDP of the specified country.</p>
+					<p>A tooltip was created to display the full country name and the average GDP next to the cursor when the cursor hovers over a country's bubble.</p>
+				</div>
+				<h2>Transitioning Scatterplot // <b>d3-scale, CSV</b></h2>
+				<div class="top" id="scatterplot_graph">
+					
+				</div>
+				<div class="bottom" id="scatterplot_text">
+					<p>Created a transitioning scatterplot given a dataset of various car specifications (MPG, cylinders, displacement, horsepower, weight, acceleration, year, origin, and name).</p>
+					<p>Selected variables (acceleration and displacement) for each axis and changed the y-axis variable to displacement after 3 seconds and the x-axis variable to weight after 6 seconds.</p>
+					<p>For each transition, the change in the x-scale, y-scale, axis labels, and the dots were animated using d3.transition() and the color of each dot was assigned after every update based on the cars' country of origin.</p>
+				</div>
+				<h2>Interactive Line Chart // <b>d3-selection, d3-array, JSON</b></h2>
+				<div class="top" id="line_chart_graph">
+					
+				</div>
+				<div class="bottom" id="line_chart_text">
+					<p>Created a line chart depicting the predicted height in feet of tides in San Francisco, CA.</p>
+					<p>Parsed the date, time, and prediction to readable formats and created a filled line chart to depict the actual rise and fall of tides.</p>
+					<p>A tooltip was created to display the date, time, and height of the tides in an empty white space based on where on the x-axis the cursor was located.</p>
+				</div>
+			</div>
+		</div>
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank" class="link">Josephine Rhee</a>
+			</p>
+		</div>
+	</div>
+</body>

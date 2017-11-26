@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>Josephine Rhee</title>
+	<meta name="author" content="Josephine Rhee">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- FYI this is an HTML comment, it will be ignored by the browser -->
+	<!-- load the d3 library locally -->
+	<!-- we could load the non-minified version, plain old "d3.js", for debugging purposes instead if desired -->
+	<script src="./lib/d3.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="frontpage.js"></script>
+	<link rel="stylesheet" href="projects.css" type="text/css"></link>
+</head>
+
+
+<body>
+<!-- webpage content goes here in the body -->
+	<div id="page">
+		<div id="header">
+			<h1>Josephine Rhee</h1>
+			<div id="nav">
+				<ul>
+					<li><a href="/about.html" class="link">About</a></li>
+					<li><a href="/projects.html" class="active-link">Projects</a></li>
+					<li><a href="/resume/" class="link">Resume</a></li>
+					<li><a href="/photography/" class="link">Photography</a></li>
+					<li><a href="/contact/" class="link">Contact</a></li>
+				</ul>   
+			</div>
+		</div>
+		<div id="content">
+			<div class='entry'>
+				<div class="columnLeft" id="gitlet_pic">
+<!-- 					<img src="profile.png" alt="Profile Picture" id="profile-picture">
+ -->			</div>
+				<div class="columnRight" id="gitlet_desc">
+					<h2>Gitlet //  <b>Java</b></h2>
+					<p>Gitlet is a mini version control system that essentially acts as a back up system for files. Much like Git, Gitlet is able to commit, checkout, log, remove, reset, merge, and push, and pull files saved on the computer.</p>
+					<p>The program uses object serialization to save and recover files from inside a hidden folder and allows the user to keep a record of changes that they may wish to come back to anytime.</p>
+					<p>Gitlet was tested using JUnit Testing.</p>
+				</div>
+				<div class="columnRight" id="sliding_blocks_puzzle">
+					<h2>Sliding Blocks Puzzle // <b>Java</b></h2>
+					<p>Given a tray filled with rectangular blocks, Sliding Blocks Puzzle iterates through a tree of possible moves to return a list of moves that will make the given puzzle configuration match the given goal configuration.</p>
+					<p>Given the large number of possible moves, the program uses heuristics and priority queues to traverse through the tree in order to avoid repetitive moves and to reduce search time.</p>
+				</div>
+				<div class="columnRight" id="data_visualization">
+					<a href="/dataViz.html" class="link"><h2>Data Visualization // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></h2></a>
+					<p>Created various interactive data visualizations on the web using D3.js.</p>
+					<p>Read, parsed, and visualized data in various formats (CSV, JSON, and XML) within a web browser environment.</p>
+				</div>
+			</div>
+		</div>
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank" class="link">Josephine Rhee</a>
+			</p>
+		</div>
+	</div>
+</body>

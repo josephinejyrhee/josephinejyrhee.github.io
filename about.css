@@ -13,15 +13,12 @@ h1{
 	margin: 0 0 0 0;
 	text-align: center;
 	color: #424242;
-}
-	h1:hover{
-		color: 424242;
-	}
-
-h1{
 	font-size: 8em;
 	font-family: Shorthalt;
 }
+/*	h1:hover{
+		color: #8b8b8b;
+	}*/
 
 ul {
 	list-style-type: none;

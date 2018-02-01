@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>11: Geospatial Viz with D3</title>
+  <meta name="author" content="your name here">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FYI this is an HTML comment, it will be ignored by the browser -->
+  <!-- load the d3 library locally -->
+  <!-- we could load the non-minified version, plain old "d3.js", for debugging purposes instead if desired -->
+  <script src="./lib/d3.min.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <!-- plugin to make making legends easy -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
+
+  <!-- Our CSS goes within the <style> tag -->
+  <!-- Like JS, we could also link to an external CSS file using the <link /> tag -->
+  <style>
+    /* here's how we write a comment in CSS */
+    body {
+      margin:0;
+      padding: 0;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .legend rect {
+      stroke: #999;
+      stroke-widthh: 0.7px;
+    }
+
+    .legend text {
+      font-family: sans-serif;
+      font-size: 11px;
+    }
+  </style>
+
+</head>
+
+<!-- all visible HTML goes within the <body> tag -->
+<body>
+  <!-- TO DO: add script tags for your main.js file -->
+  <script src="main.js"></script>
+</body>

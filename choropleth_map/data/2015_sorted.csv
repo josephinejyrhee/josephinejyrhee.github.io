@@ -1,0 +1,3141 @@
+FIPS,Year,State,ST,FIPS State,County,Population,Rate
+1001,2015,Alabama,AL,1,"Autauga County, AL",55347,10.1-12
+1003,2015,Alabama,AL,1,"Baldwin County, AL",203709,20.1-22
+1005,2015,Alabama,AL,1,"Barbour County, AL",26489,6.1-8
+1007,2015,Alabama,AL,1,"Bibb County, AL",22583,14.1-16
+1009,2015,Alabama,AL,1,"Blount County, AL",57673,16.1-18
+1011,2015,Alabama,AL,1,"Bullock County, AL",10696,8.1-10
+1013,2015,Alabama,AL,1,"Butler County, AL",20154,8.1-10
+1015,2015,Alabama,AL,1,"Calhoun County, AL",115620,12.1-14
+1017,2015,Alabama,AL,1,"Chambers County, AL",34123,12.1-14
+1019,2015,Alabama,AL,1,"Cherokee County, AL",25859,16.1-18
+1021,2015,Alabama,AL,1,"Chilton County, AL",43943,18.1-20
+1023,2015,Alabama,AL,1,"Choctaw County, AL",13170,10.1-12
+1025,2015,Alabama,AL,1,"Clarke County, AL",24675,8.1-10
+1027,2015,Alabama,AL,1,"Clay County, AL",13555,10.1-12
+1029,2015,Alabama,AL,1,"Cleburne County, AL",15018,16.1-18
+1031,2015,Alabama,AL,1,"Coffee County, AL",51211,8.1-10
+1033,2015,Alabama,AL,1,"Colbert County, AL",54354,8.1-10
+1035,2015,Alabama,AL,1,"Conecuh County, AL",12672,18.1-20
+1037,2015,Alabama,AL,1,"Coosa County, AL",10724,12.1-14
+1039,2015,Alabama,AL,1,"Covington County, AL",37835,8.1-10
+1041,2015,Alabama,AL,1,"Crenshaw County, AL",13963,12.1-14
+1043,2015,Alabama,AL,1,"Cullman County, AL",82005,10.1-12
+1045,2015,Alabama,AL,1,"Dale County, AL",49565,12.1-14
+1047,2015,Alabama,AL,1,"Dallas County, AL",41131,8.1-10
+1049,2015,Alabama,AL,1,"DeKalb County, AL",71130,12.1-14
+1051,2015,Alabama,AL,1,"Elmore County, AL",81468,6.1-8
+1053,2015,Alabama,AL,1,"Escambia County, AL",37789,22.1-24
+1055,2015,Alabama,AL,1,"Etowah County, AL",103057,16.1-18
+1057,2015,Alabama,AL,1,"Fayette County, AL",16759,16.1-18
+1059,2015,Alabama,AL,1,"Franklin County, AL",31696,18.1-20
+1061,2015,Alabama,AL,1,"Geneva County, AL",26777,10.1-12
+1063,2015,Alabama,AL,1,"Greene County, AL",8479,8.1-10
+1065,2015,Alabama,AL,1,"Hale County, AL",15068,6.1-8
+1067,2015,Alabama,AL,1,"Henry County, AL",17221,10.1-12
+1069,2015,Alabama,AL,1,"Houston County, AL",104173,10.1-12
+1071,2015,Alabama,AL,1,"Jackson County, AL",52419,10.1-12
+1073,2015,Alabama,AL,1,"Jefferson County, AL",660367,16.1-18
+1075,2015,Alabama,AL,1,"Lamar County, AL",13886,14.1-16
+1077,2015,Alabama,AL,1,"Lauderdale County, AL",92596,10.1-12
+1079,2015,Alabama,AL,1,"Lawrence County, AL",33115,14.1-16
+1081,2015,Alabama,AL,1,"Lee County, AL",156993,6.1-8
+1083,2015,Alabama,AL,1,"Limestone County, AL",91663,8.1-10
+1085,2015,Alabama,AL,1,"Lowndes County, AL",10458,6.1-8
+1087,2015,Alabama,AL,1,"Macon County, AL",19105,8.1-10
+1089,2015,Alabama,AL,1,"Madison County, AL",353089,8.1-10
+1091,2015,Alabama,AL,1,"Marengo County, AL",20028,6.1-8
+1093,2015,Alabama,AL,1,"Marion County, AL",30168,8.1-10
+1095,2015,Alabama,AL,1,"Marshall County, AL",94725,12.1-14
+1097,2015,Alabama,AL,1,"Mobile County, AL",415395,16.1-18
+1099,2015,Alabama,AL,1,"Monroe County, AL",21673,10.1-12
+1101,2015,Alabama,AL,1,"Montgomery County, AL",226519,6.1-8
+1103,2015,Alabama,AL,1,"Morgan County, AL",119565,14.1-16
+1105,2015,Alabama,AL,1,"Perry County, AL",9652,8.1-10
+1107,2015,Alabama,AL,1,"Pickens County, AL",20864,14.1-16
+1109,2015,Alabama,AL,1,"Pike County, AL",33046,8.1-10
+1111,2015,Alabama,AL,1,"Randolph County, AL",22696,14.1-16
+1113,2015,Alabama,AL,1,"Russell County, AL",59660,12.1-14
+1115,2015,Alabama,AL,1,"St. Clair County, AL",87074,16.1-18
+1117,2015,Alabama,AL,1,"Shelby County, AL",208713,12.1-14
+1119,2015,Alabama,AL,1,"Sumter County, AL",13103,6.1-8
+1121,2015,Alabama,AL,1,"Talladega County, AL",80862,10.1-12
+1123,2015,Alabama,AL,1,"Tallapoosa County, AL",40844,8.1-10
+1125,2015,Alabama,AL,1,"Tuscaloosa County, AL",203976,14.1-16
+1127,2015,Alabama,AL,1,"Walker County, AL",65294,26.1-28
+1129,2015,Alabama,AL,1,"Washington County, AL",16804,6.1-8
+1131,2015,Alabama,AL,1,"Wilcox County, AL",11059,8.1-10
+1133,2015,Alabama,AL,1,"Winston County, AL",23877,12.1-14
+2013,2015,Alaska,AK,2,"Aleutians East Borough, AK",3341,14.1-16
+2016,2015,Alaska,AK,2,"Aleutians West Census Area, AK",5702,18.1-20
+2020,2015,Alaska,AK,2,"Anchorage Borough, AK",298695,20.1-22
+2050,2015,Alaska,AK,2,"Bethel Census Area, AK",17946,10.1-12
+2060,2015,Alaska,AK,2,"Bristol Bay Borough, AK",892,20.1-22
+2068,2015,Alaska,AK,2,"Denali Borough, AK",1919,10.1-12
+2070,2015,Alaska,AK,2,"Dillingham Census Area, AK",4997,20.1-22
+2090,2015,Alaska,AK,2,"Fairbanks North Star Borough, AK",99631,14.1-16
+2100,2015,Alaska,AK,2,"Haines Borough, AK",2534,22.1-24
+2110,2015,Alaska,AK,2,"Juneau Borough, AK",32756,16.1-18
+2122,2015,Alaska,AK,2,"Kenai Peninsula Borough, AK",58059,24.1-26
+2130,2015,Alaska,AK,2,"Ketchikan Gateway Borough, AK",13709,16.1-18
+2150,2015,Alaska,AK,2,"Kodiak Island Borough, AK",13889,16.1-18
+2164,2015,Alaska,AK,2,"Lake and Peninsula Borough, AK",1563,6.1-8
+2170,2015,Alaska,AK,2,"Matanuska-Susitna Borough, AK",101095,22.1-24
+2180,2015,Alaska,AK,2,"Nome Census Area, AK",9846,16.1-18
+2185,2015,Alaska,AK,2,"North Slope Borough, AK",9687,8.1-10
+2188,2015,Alaska,AK,2,"Northwest Arctic Borough, AK",7752,8.1-10
+2201,2015,Alaska,AK,2,"Prince of Wales-Outer Ketchikan Census Area, AK",6341,14.1-16
+2220,2015,Alaska,AK,2,"Sitka Borough, AK",8863,18.1-20
+2232,2015,Alaska,AK,2,"Skagway-Hoonah-Angoon Census Area, AK",2133,10.1-12
+2240,2015,Alaska,AK,2,"Southeast Fairbanks Census Area, AK",6839,12.1-14
+2261,2015,Alaska,AK,2,"Valdez-Cordova Census Area, AK",9362,16.1-18
+2270,2015,Alaska,AK,2,"Wade Hampton Census Area, AK",8119,10.1-12
+2280,2015,Alaska,AK,2,"Wrangell-Petersburg Census Area, AK",3177,>30
+2282,2015,Alaska,AK,2,"Yakutat Borough, AK",613,0-2
+2290,2015,Alaska,AK,2,"Yukon-Koyukuk Census Area, AK",5533,20.1-22
+4001,2015,Arizona,AZ,4,"Apache County, AZ",71474,12.1-14
+4003,2015,Arizona,AZ,4,"Cochise County, AZ",126427,20.1-22
+4005,2015,Arizona,AZ,4,"Coconino County, AZ",139097,16.1-18
+4007,2015,Arizona,AZ,4,"Gila County, AZ",53159,>30
+4009,2015,Arizona,AZ,4,"Graham County, AZ",37666,20.1-22
+4011,2015,Arizona,AZ,4,"Greenlee County, AZ",9529,20.1-22
+4012,2015,Arizona,AZ,4,"La Paz County, AZ",20152,>30
+4013,2015,Arizona,AZ,4,"Maricopa County, AZ",4167947,22.1-24
+4015,2015,Arizona,AZ,4,"Mohave County, AZ",204737,26.1-28
+4017,2015,Arizona,AZ,4,"Navajo County, AZ",108277,22.1-24
+4019,2015,Arizona,AZ,4,"Pima County, AZ",1010025,>30
+4021,2015,Arizona,AZ,4,"Pinal County, AZ",406584,18.1-20
+4023,2015,Arizona,AZ,4,"Santa Cruz County, AZ",46461,12.1-14
+4025,2015,Arizona,AZ,4,"Yavapai County, AZ",222255,28.1-30
+4027,2015,Arizona,AZ,4,"Yuma County, AZ",204275,14.1-16
+5001,2015,Arkansas,AR,5,"Arkansas County, AR",18433,10.1-12
+5003,2015,Arkansas,AR,5,"Ashley County, AR",20838,14.1-16
+5005,2015,Arkansas,AR,5,"Baxter County, AR",41053,24.1-26
+5007,2015,Arkansas,AR,5,"Benton County, AR",249672,12.1-14
+5009,2015,Arkansas,AR,5,"Boone County, AR",37222,16.1-18
+5011,2015,Arkansas,AR,5,"Bradley County, AR",11094,12.1-14
+5013,2015,Arkansas,AR,5,"Calhoun County, AR",5229,18.1-20
+5015,2015,Arkansas,AR,5,"Carroll County, AR",27704,20.1-22
+5017,2015,Arkansas,AR,5,"Chicot County, AR",11027,16.1-18
+5019,2015,Arkansas,AR,5,"Clark County, AR",22633,8.1-10
+5021,2015,Arkansas,AR,5,"Clay County, AR",15109,14.1-16
+5023,2015,Arkansas,AR,5,"Cleburne County, AR",25467,14.1-16
+5025,2015,Arkansas,AR,5,"Cleveland County, AR",8311,12.1-14
+5027,2015,Arkansas,AR,5,"Columbia County, AR",24114,10.1-12
+5029,2015,Arkansas,AR,5,"Conway County, AR",21019,18.1-20
+5031,2015,Arkansas,AR,5,"Craighead County, AR",104354,16.1-18
+5033,2015,Arkansas,AR,5,"Crawford County, AR",61703,20.1-22
+5035,2015,Arkansas,AR,5,"Crittenden County, AR",48963,10.1-12
+5037,2015,Arkansas,AR,5,"Cross County, AR",17284,14.1-16
+5039,2015,Arkansas,AR,5,"Dallas County, AR",7604,8.1-10
+5041,2015,Arkansas,AR,5,"Desha County, AR",11965,14.1-16
+5043,2015,Arkansas,AR,5,"Drew County, AR",18778,14.1-16
+5045,2015,Arkansas,AR,5,"Faulkner County, AR",121552,12.1-14
+5047,2015,Arkansas,AR,5,"Franklin County, AR",17702,22.1-24
+5049,2015,Arkansas,AR,5,"Fulton County, AR",12204,24.1-26
+5051,2015,Arkansas,AR,5,"Garland County, AR",97177,24.1-26
+5053,2015,Arkansas,AR,5,"Grant County, AR",18102,12.1-14
+5055,2015,Arkansas,AR,5,"Greene County, AR",44196,20.1-22
+5057,2015,Arkansas,AR,5,"Hempstead County, AR",22084,8.1-10
+5059,2015,Arkansas,AR,5,"Hot Spring County, AR",33426,12.1-14
+5061,2015,Arkansas,AR,5,"Howard County, AR",13300,10.1-12
+5063,2015,Arkansas,AR,5,"Independence County, AR",37052,12.1-14
+5065,2015,Arkansas,AR,5,"Izard County, AR",13445,24.1-26
+5067,2015,Arkansas,AR,5,"Jackson County, AR",17338,14.1-16
+5069,2015,Arkansas,AR,5,"Jefferson County, AR",71565,6.1-8
+5071,2015,Arkansas,AR,5,"Johnson County, AR",26141,14.1-16
+5073,2015,Arkansas,AR,5,"Lafayette County, AR",6996,10.1-12
+5075,2015,Arkansas,AR,5,"Lawrence County, AR",16779,16.1-18
+5077,2015,Arkansas,AR,5,"Lee County, AR",9650,10.1-12
+5079,2015,Arkansas,AR,5,"Lincoln County, AR",13820,8.1-10
+5081,2015,Arkansas,AR,5,"Little River County, AR",12472,14.1-16
+5083,2015,Arkansas,AR,5,"Logan County, AR",21714,18.1-20
+5085,2015,Arkansas,AR,5,"Lonoke County, AR",71645,10.1-12
+5087,2015,Arkansas,AR,5,"Madison County, AR",15767,10.1-12
+5089,2015,Arkansas,AR,5,"Marion County, AR",16185,20.1-22
+5091,2015,Arkansas,AR,5,"Miller County, AR",43908,8.1-10
+5093,2015,Arkansas,AR,5,"Mississippi County, AR",43738,10.1-12
+5095,2015,Arkansas,AR,5,"Monroe County, AR",7399,14.1-16
+5097,2015,Arkansas,AR,5,"Montgomery County, AR",8970,18.1-20
+5099,2015,Arkansas,AR,5,"Nevada County, AR",8558,12.1-14
+5101,2015,Arkansas,AR,5,"Newton County, AR",7913,24.1-26
+5103,2015,Arkansas,AR,5,"Ouachita County, AR",24358,12.1-14
+5105,2015,Arkansas,AR,5,"Perry County, AR",10189,16.1-18
+5107,2015,Arkansas,AR,5,"Phillips County, AR",19513,12.1-14
+5109,2015,Arkansas,AR,5,"Pike County, AR",10824,16.1-18
+5111,2015,Arkansas,AR,5,"Poinsett County, AR",24040,18.1-20
+5113,2015,Arkansas,AR,5,"Polk County, AR",20216,18.1-20
+5115,2015,Arkansas,AR,5,"Pope County, AR",63390,10.1-12
+5117,2015,Arkansas,AR,5,"Prairie County, AR",8291,14.1-16
+5119,2015,Arkansas,AR,5,"Pulaski County, AR",392664,14.1-16
+5121,2015,Arkansas,AR,5,"Randolph County, AR",17469,16.1-18
+5123,2015,Arkansas,AR,5,"St. Francis County, AR",26589,10.1-12
+5125,2015,Arkansas,AR,5,"Saline County, AR",117460,14.1-16
+5127,2015,Arkansas,AR,5,"Scott County, AR",10513,20.1-22
+5129,2015,Arkansas,AR,5,"Searcy County, AR",7869,20.1-22
+5131,2015,Arkansas,AR,5,"Sebastian County, AR",127780,20.1-22
+5133,2015,Arkansas,AR,5,"Sevier County, AR",17290,14.1-16
+5135,2015,Arkansas,AR,5,"Sharp County, AR",16912,26.1-28
+5137,2015,Arkansas,AR,5,"Stone County, AR",12456,18.1-20
+5139,2015,Arkansas,AR,5,"Union County, AR",40144,14.1-16
+5141,2015,Arkansas,AR,5,"Van Buren County, AR",16771,12.1-14
+5143,2015,Arkansas,AR,5,"Washington County, AR",225477,10.1-12
+5145,2015,Arkansas,AR,5,"White County, AR",79161,12.1-14
+5147,2015,Arkansas,AR,5,"Woodruff County, AR",6741,18.1-20
+5149,2015,Arkansas,AR,5,"Yell County, AR",21713,14.1-16
+6001,2015,California,CA,6,"Alameda County, CA",1638215,12.1-14
+6003,2015,California,CA,6,"Alpine County, CA",1110,4.1-6
+6005,2015,California,CA,6,"Amador County, CA",37001,22.1-24
+6007,2015,California,CA,6,"Butte County, CA",225411,28.1-30
+6009,2015,California,CA,6,"Calaveras County, CA",44828,20.1-22
+6011,2015,California,CA,6,"Colusa County, CA",21482,10.1-12
+6013,2015,California,CA,6,"Contra Costa County, CA",1126745,12.1-14
+6015,2015,California,CA,6,"Del Norte County, CA",27254,20.1-22
+6017,2015,California,CA,6,"El Dorado County, CA",184452,20.1-22
+6019,2015,California,CA,6,"Fresno County, CA",974861,14.1-16
+6021,2015,California,CA,6,"Glenn County, CA",28017,20.1-22
+6023,2015,California,CA,6,"Humboldt County, CA",135727,>30
+6025,2015,California,CA,6,"Imperial County, CA",180191,12.1-14
+6027,2015,California,CA,6,"Inyo County, CA",18260,14.1-16
+6029,2015,California,CA,6,"Kern County, CA",882176,24.1-26
+6031,2015,California,CA,6,"Kings County, CA",150965,10.1-12
+6033,2015,California,CA,6,"Lake County, CA",64591,>30
+6035,2015,California,CA,6,"Lassen County, CA",31345,26.1-28
+6037,2015,California,CA,6,"Los Angeles County, CA",10170292,16.1-18
+6039,2015,California,CA,6,"Madera County, CA",154998,14.1-16
+6041,2015,California,CA,6,"Marin County, CA",261221,14.1-16
+6043,2015,California,CA,6,"Mariposa County, CA",17531,22.1-24
+6045,2015,California,CA,6,"Mendocino County, CA",87649,22.1-24
+6047,2015,California,CA,6,"Merced County, CA",268455,12.1-14
+6049,2015,California,CA,6,"Modoc County, CA",8965,>30
+6051,2015,California,CA,6,"Mono County, CA",13909,8.1-10
+6053,2015,California,CA,6,"Monterey County, CA",433898,14.1-16
+6055,2015,California,CA,6,"Napa County, CA",142456,10.1-12
+6057,2015,California,CA,6,"Nevada County, CA",98877,18.1-20
+6059,2015,California,CA,6,"Orange County, CA",3169776,12.1-14
+6061,2015,California,CA,6,"Placer County, CA",375391,14.1-16
+6063,2015,California,CA,6,"Plumas County, CA",18409,28.1-30
+6065,2015,California,CA,6,"Riverside County, CA",2361026,14.1-16
+6067,2015,California,CA,6,"Sacramento County, CA",1501335,16.1-18
+6069,2015,California,CA,6,"San Benito County, CA",58792,10.1-12
+6071,2015,California,CA,6,"San Bernardino County, CA",2128133,8.1-10
+6073,2015,California,CA,6,"San Diego County, CA",3299521,14.1-16
+6075,2015,California,CA,6,"San Francisco County, CA",864816,24.1-26
+6077,2015,California,CA,6,"San Joaquin County, CA",726106,18.1-20
+6079,2015,California,CA,6,"San Luis Obispo County, CA",281401,16.1-18
+6081,2015,California,CA,6,"San Mateo County, CA",765135,10.1-12
+6083,2015,California,CA,6,"Santa Barbara County, CA",444769,16.1-18
+6085,2015,California,CA,6,"Santa Clara County, CA",1918044,8.1-10
+6087,2015,California,CA,6,"Santa Cruz County, CA",274146,16.1-18
+6089,2015,California,CA,6,"Shasta County, CA",179533,>30
+6091,2015,California,CA,6,"Sierra County, CA",2967,26.1-28
+6093,2015,California,CA,6,"Siskiyou County, CA",43554,22.1-24
+6095,2015,California,CA,6,"Solano County, CA",436092,12.1-14
+6097,2015,California,CA,6,"Sonoma County, CA",502146,14.1-16
+6099,2015,California,CA,6,"Stanislaus County, CA",538388,22.1-24
+6101,2015,California,CA,6,"Sutter County, CA",96463,12.1-14
+6103,2015,California,CA,6,"Tehama County, CA",63308,14.1-16
+6105,2015,California,CA,6,"Trinity County, CA",13069,22.1-24
+6107,2015,California,CA,6,"Tulare County, CA",459863,12.1-14
+6109,2015,California,CA,6,"Tuolumne County, CA",53709,28.1-30
+6111,2015,California,CA,6,"Ventura County, CA",850536,14.1-16
+6113,2015,California,CA,6,"Yolo County, CA",213016,10.1-12
+6115,2015,California,CA,6,"Yuba County, CA",74492,8.1-10
+8001,2015,Colorado,CO,8,"Adams County, CO",491337,22.1-24
+8003,2015,Colorado,CO,8,"Alamosa County, CO",16496,24.1-26
+8005,2015,Colorado,CO,8,"Arapahoe County, CO",631096,18.1-20
+8007,2015,Colorado,CO,8,"Archuleta County, CO",12352,20.1-22
+8009,2015,Colorado,CO,8,"Baca County, CO",3615,24.1-26
+8011,2015,Colorado,CO,8,"Bent County, CO",5830,22.1-24
+8013,2015,Colorado,CO,8,"Boulder County, CO",319372,16.1-18
+8014,2015,Colorado,CO,8,"Broomfield County, CO",65065,14.1-16
+8015,2015,Colorado,CO,8,"Chaffee County, CO",18658,18.1-20
+8017,2015,Colorado,CO,8,"Cheyenne County, CO",1829,4.1-6
+8019,2015,Colorado,CO,8,"Clear Creek County, CO",9303,22.1-24
+8021,2015,Colorado,CO,8,"Conejos County, CO",8130,28.1-30
+8023,2015,Colorado,CO,8,"Costilla County, CO",3584,>30
+8025,2015,Colorado,CO,8,"Crowley County, CO",5562,20.1-22
+8027,2015,Colorado,CO,8,"Custer County, CO",4445,26.1-28
+8029,2015,Colorado,CO,8,"Delta County, CO",29979,18.1-20
+8031,2015,Colorado,CO,8,"Denver County, CO",682545,>30
+8033,2015,Colorado,CO,8,"Dolores County, CO",1978,20.1-22
+8035,2015,Colorado,CO,8,"Douglas County, CO",322387,10.1-12
+8037,2015,Colorado,CO,8,"Eagle County, CO",53605,8.1-10
+8039,2015,Colorado,CO,8,"Elbert County, CO",24735,12.1-14
+8041,2015,Colorado,CO,8,"El Paso County, CO",674471,20.1-22
+8043,2015,Colorado,CO,8,"Fremont County, CO",46692,18.1-20
+8045,2015,Colorado,CO,8,"Garfield County, CO",58095,12.1-14
+8047,2015,Colorado,CO,8,"Gilpin County, CO",5828,22.1-24
+8049,2015,Colorado,CO,8,"Grand County, CO",14615,14.1-16
+8051,2015,Colorado,CO,8,"Gunnison County, CO",16067,14.1-16
+8053,2015,Colorado,CO,8,"Hinsdale County, CO",774,14.1-16
+8055,2015,Colorado,CO,8,"Huerfano County, CO",6492,>30
+8057,2015,Colorado,CO,8,"Jackson County, CO",1356,>30
+8059,2015,Colorado,CO,8,"Jefferson County, CO",565524,16.1-18
+8061,2015,Colorado,CO,8,"Kiowa County, CO",1423,12.1-14
+8063,2015,Colorado,CO,8,"Kit Carson County, CO",7758,18.1-20
+8065,2015,Colorado,CO,8,"Lake County, CO",7485,20.1-22
+8067,2015,Colorado,CO,8,"La Plata County, CO",54688,14.1-16
+8069,2015,Colorado,CO,8,"Larimer County, CO",333577,16.1-18
+8071,2015,Colorado,CO,8,"Las Animas County, CO",14058,>30
+8073,2015,Colorado,CO,8,"Lincoln County, CO",5557,18.1-20
+8075,2015,Colorado,CO,8,"Logan County, CO",22036,16.1-18
+8077,2015,Colorado,CO,8,"Mesa County, CO",148513,16.1-18
+8079,2015,Colorado,CO,8,"Mineral County, CO",726,6.1-8
+8081,2015,Colorado,CO,8,"Moffat County, CO",12937,16.1-18
+8083,2015,Colorado,CO,8,"Montezuma County, CO",26168,14.1-16
+8085,2015,Colorado,CO,8,"Montrose County, CO",40946,10.1-12
+8087,2015,Colorado,CO,8,"Morgan County, CO",28360,12.1-14
+8089,2015,Colorado,CO,8,"Otero County, CO",18343,18.1-20
+8091,2015,Colorado,CO,8,"Ouray County, CO",4691,20.1-22
+8093,2015,Colorado,CO,8,"Park County, CO",16510,10.1-12
+8095,2015,Colorado,CO,8,"Phillips County, CO",4349,20.1-22
+8097,2015,Colorado,CO,8,"Pitkin County, CO",17787,14.1-16
+8099,2015,Colorado,CO,8,"Prowers County, CO",11954,16.1-18
+8101,2015,Colorado,CO,8,"Pueblo County, CO",163591,26.1-28
+8103,2015,Colorado,CO,8,"Rio Blanco County, CO",6571,16.1-18
+8105,2015,Colorado,CO,8,"Rio Grande County, CO",11543,26.1-28
+8107,2015,Colorado,CO,8,"Routt County, CO",24130,10.1-12
+8109,2015,Colorado,CO,8,"Saguache County, CO",6251,20.1-22
+8111,2015,Colorado,CO,8,"San Juan County, CO",701,12.1-14
+8113,2015,Colorado,CO,8,"San Miguel County, CO",7879,16.1-18
+8115,2015,Colorado,CO,8,"Sedgwick County, CO",2399,>30
+8117,2015,Colorado,CO,8,"Summit County, CO",30257,12.1-14
+8119,2015,Colorado,CO,8,"Teller County, CO",23385,18.1-20
+8121,2015,Colorado,CO,8,"Washington County, CO",4864,10.1-12
+8123,2015,Colorado,CO,8,"Weld County, CO",285174,12.1-14
+8125,2015,Colorado,CO,8,"Yuma County, CO",10146,10.1-12
+9001,2015,Connecticut,CT,9,"Fairfield County, CT",948053,12.1-14
+9003,2015,Connecticut,CT,9,"Hartford County, CT",895841,18.1-20
+9005,2015,Connecticut,CT,9,"Litchfield County, CT",183603,18.1-20
+9007,2015,Connecticut,CT,9,"Middlesex County, CT",164063,16.1-18
+9009,2015,Connecticut,CT,9,"New Haven County, CT",859470,20.1-22
+9011,2015,Connecticut,CT,9,"New London County, CT",271863,18.1-20
+9013,2015,Connecticut,CT,9,"Tolland County, CT",151420,12.1-14
+9015,2015,Connecticut,CT,9,"Windham County, CT",116573,18.1-20
+10001,2015,Delaware,DE,10,"Kent County, DE",173533,14.1-16
+10003,2015,Delaware,DE,10,"New Castle County, DE",556779,18.1-20
+10005,2015,Delaware,DE,10,"Sussex County, DE",215622,16.1-18
+11001,2015,District of Columbia,DC,11,"District of Columbia, DC",672228,20.1-22
+12001,2015,Florida,FL,12,"Alachua County, FL",259964,14.1-16
+12003,2015,Florida,FL,12,"Baker County, FL",27420,22.1-24
+12005,2015,Florida,FL,12,"Bay County, FL",181635,20.1-22
+12007,2015,Florida,FL,12,"Bradford County, FL",26928,24.1-26
+12009,2015,Florida,FL,12,"Brevard County, FL",568088,>30
+12011,2015,Florida,FL,12,"Broward County, FL",1896425,20.1-22
+12013,2015,Florida,FL,12,"Calhoun County, FL",14462,16.1-18
+12015,2015,Florida,FL,12,"Charlotte County, FL",173115,12.1-14
+12017,2015,Florida,FL,12,"Citrus County, FL",141058,>30
+12019,2015,Florida,FL,12,"Clay County, FL",203967,20.1-22
+12021,2015,Florida,FL,12,"Collier County, FL",357305,20.1-22
+12023,2015,Florida,FL,12,"Columbia County, FL",68348,20.1-22
+12027,2015,Florida,FL,12,"DeSoto County, FL",35458,10.1-12
+12029,2015,Florida,FL,12,"Dixie County, FL",16203,>30
+12031,2015,Florida,FL,12,"Duval County, FL",913010,20.1-22
+12033,2015,Florida,FL,12,"Escambia County, FL",311003,18.1-20
+12035,2015,Florida,FL,12,"Flagler County, FL",105392,14.1-16
+12037,2015,Florida,FL,12,"Franklin County, FL",11761,24.1-26
+12039,2015,Florida,FL,12,"Gadsden County, FL",46036,6.1-8
+12041,2015,Florida,FL,12,"Gilchrist County, FL",17199,18.1-20
+12043,2015,Florida,FL,12,"Glades County, FL",13670,18.1-20
+12045,2015,Florida,FL,12,"Gulf County, FL",15871,18.1-20
+12047,2015,Florida,FL,12,"Hamilton County, FL",14295,12.1-14
+12049,2015,Florida,FL,12,"Hardee County, FL",27502,8.1-10
+12051,2015,Florida,FL,12,"Hendry County, FL",39119,14.1-16
+12053,2015,Florida,FL,12,"Hernando County, FL",178439,>30
+12055,2015,Florida,FL,12,"Highlands County, FL",99491,20.1-22
+12057,2015,Florida,FL,12,"Hillsborough County, FL",1349050,20.1-22
+12059,2015,Florida,FL,12,"Holmes County, FL",19324,18.1-20
+12061,2015,Florida,FL,12,"Indian River County, FL",147919,22.1-24
+12063,2015,Florida,FL,12,"Jackson County, FL",48599,8.1-10
+12065,2015,Florida,FL,12,"Jefferson County, FL",14081,10.1-12
+12067,2015,Florida,FL,12,"Lafayette County, FL",8663,20.1-22
+12069,2015,Florida,FL,12,"Lake County, FL",325875,16.1-18
+12071,2015,Florida,FL,12,"Lee County, FL",701982,24.1-26
+12073,2015,Florida,FL,12,"Leon County, FL",286272,8.1-10
+12075,2015,Florida,FL,12,"Levy County, FL",39832,22.1-24
+12077,2015,Florida,FL,12,"Liberty County, FL",8331,8.1-10
+12079,2015,Florida,FL,12,"Madison County, FL",18408,10.1-12
+12081,2015,Florida,FL,12,"Manatee County, FL",363369,28.1-30
+12083,2015,Florida,FL,12,"Marion County, FL",343254,22.1-24
+12085,2015,Florida,FL,12,"Martin County, FL",156283,24.1-26
+12086,2015,Florida,FL,12,"Miami-Dade County, FL",2693117,8.1-10
+12087,2015,Florida,FL,12,"Monroe County, FL",77482,26.1-28
+12089,2015,Florida,FL,12,"Nassau County, FL",78444,22.1-24
+12091,2015,Florida,FL,12,"Okaloosa County, FL",198664,16.1-18
+12093,2015,Florida,FL,12,"Okeechobee County, FL",39469,28.1-30
+12095,2015,Florida,FL,12,"Orange County, FL",1288126,16.1-18
+12097,2015,Florida,FL,12,"Osceola County, FL",323993,14.1-16
+12099,2015,Florida,FL,12,"Palm Beach County, FL",1422789,26.1-28
+12101,2015,Florida,FL,12,"Pasco County, FL",497909,>30
+12103,2015,Florida,FL,12,"Pinellas County, FL",949827,>30
+12105,2015,Florida,FL,12,"Polk County, FL",650092,18.1-20
+12107,2015,Florida,FL,12,"Putnam County, FL",72023,16.1-18
+12109,2015,Florida,FL,12,"St. Johns County, FL",226640,10.1-12
+12111,2015,Florida,FL,12,"St. Lucie County, FL",298563,24.1-26
+12113,2015,Florida,FL,12,"Santa Rosa County, FL",167040,20.1-22
+12115,2015,Florida,FL,12,"Sarasota County, FL",405549,>30
+12117,2015,Florida,FL,12,"Seminole County, FL",449144,16.1-18
+12119,2015,Florida,FL,12,"Sumter County, FL",118891,14.1-16
+12121,2015,Florida,FL,12,"Suwannee County, FL",43760,20.1-22
+12123,2015,Florida,FL,12,"Taylor County, FL",22493,14.1-16
+12125,2015,Florida,FL,12,"Union County, FL",15234,12.1-14
+12127,2015,Florida,FL,12,"Volusia County, FL",517887,24.1-26
+12129,2015,Florida,FL,12,"Wakulla County, FL",31535,14.1-16
+12131,2015,Florida,FL,12,"Walton County, FL",63508,20.1-22
+12133,2015,Florida,FL,12,"Washington County, FL",24687,16.1-18
+13001,2015,Georgia,GA,13,"Appling County, GA",18454,14.1-16
+13003,2015,Georgia,GA,13,"Atkinson County, GA",8398,18.1-20
+13005,2015,Georgia,GA,13,"Bacon County, GA",11299,20.1-22
+13007,2015,Georgia,GA,13,"Baker County, GA",3180,10.1-12
+13009,2015,Georgia,GA,13,"Baldwin County, GA",45459,6.1-8
+13011,2015,Georgia,GA,13,"Banks County, GA",18495,18.1-20
+13013,2015,Georgia,GA,13,"Barrow County, GA",75370,16.1-18
+13015,2015,Georgia,GA,13,"Bartow County, GA",102747,18.1-20
+13017,2015,Georgia,GA,13,"Ben Hill County, GA",17403,6.1-8
+13019,2015,Georgia,GA,13,"Berrien County, GA",18963,10.1-12
+13021,2015,Georgia,GA,13,"Bibb County, GA",153721,14.1-16
+13023,2015,Georgia,GA,13,"Bleckley County, GA",12243,18.1-20
+13025,2015,Georgia,GA,13,"Brantley County, GA",18455,22.1-24
+13027,2015,Georgia,GA,13,"Brooks County, GA",15658,6.1-8
+13029,2015,Georgia,GA,13,"Bryan County, GA",35137,10.1-12
+13031,2015,Georgia,GA,13,"Bulloch County, GA",72651,8.1-10
+13033,2015,Georgia,GA,13,"Burke County, GA",22745,8.1-10
+13035,2015,Georgia,GA,13,"Butts County, GA",23593,16.1-18
+13037,2015,Georgia,GA,13,"Calhoun County, GA",6479,8.1-10
+13039,2015,Georgia,GA,13,"Camden County, GA",52102,12.1-14
+13043,2015,Georgia,GA,13,"Candler County, GA",10886,18.1-20
+13045,2015,Georgia,GA,13,"Carroll County, GA",114545,20.1-22
+13047,2015,Georgia,GA,13,"Catoosa County, GA",66050,20.1-22
+13049,2015,Georgia,GA,13,"Charlton County, GA",12965,14.1-16
+13051,2015,Georgia,GA,13,"Chatham County, GA",286956,10.1-12
+13053,2015,Georgia,GA,13,"Chattahoochee County, GA",11368,10.1-12
+13055,2015,Georgia,GA,13,"Chattooga County, GA",24922,18.1-20
+13057,2015,Georgia,GA,13,"Cherokee County, GA",235900,14.1-16
+13059,2015,Georgia,GA,13,"Clarke County, GA",123912,10.1-12
+13061,2015,Georgia,GA,13,"Clay County, GA",3141,20.1-22
+13063,2015,Georgia,GA,13,"Clayton County, GA",273955,10.1-12
+13065,2015,Georgia,GA,13,"Clinch County, GA",6893,16.1-18
+13067,2015,Georgia,GA,13,"Cobb County, GA",741334,12.1-14
+13069,2015,Georgia,GA,13,"Coffee County, GA",43108,12.1-14
+13071,2015,Georgia,GA,13,"Colquitt County, GA",45844,12.1-14
+13073,2015,Georgia,GA,13,"Columbia County, GA",144052,10.1-12
+13075,2015,Georgia,GA,13,"Cook County, GA",17124,12.1-14
+13077,2015,Georgia,GA,13,"Coweta County, GA",138427,12.1-14
+13079,2015,Georgia,GA,13,"Crawford County, GA",12388,14.1-16
+13081,2015,Georgia,GA,13,"Crisp County, GA",22881,10.1-12
+13083,2015,Georgia,GA,13,"Dade County, GA",16264,16.1-18
+13085,2015,Georgia,GA,13,"Dawson County, GA",23312,16.1-18
+13087,2015,Georgia,GA,13,"Decatur County, GA",27174,8.1-10
+13089,2015,Georgia,GA,13,"DeKalb County, GA",734871,8.1-10
+13091,2015,Georgia,GA,13,"Dodge County, GA",20882,18.1-20
+13093,2015,Georgia,GA,13,"Dooly County, GA",14035,10.1-12
+13095,2015,Georgia,GA,13,"Dougherty County, GA",91332,8.1-10
+13097,2015,Georgia,GA,13,"Douglas County, GA",140733,12.1-14
+13099,2015,Georgia,GA,13,"Early County, GA",10575,8.1-10
+13101,2015,Georgia,GA,13,"Echols County, GA",4040,12.1-14
+13103,2015,Georgia,GA,13,"Effingham County, GA",57106,10.1-12
+13105,2015,Georgia,GA,13,"Elbert County, GA",19364,20.1-22
+13107,2015,Georgia,GA,13,"Emanuel County, GA",22708,10.1-12
+13109,2015,Georgia,GA,13,"Evans County, GA",10787,12.1-14
+13111,2015,Georgia,GA,13,"Fannin County, GA",24303,>30
+13113,2015,Georgia,GA,13,"Fayette County, GA",110714,12.1-14
+13115,2015,Georgia,GA,13,"Floyd County, GA",96504,18.1-20
+13117,2015,Georgia,GA,13,"Forsyth County, GA",212438,12.1-14
+13119,2015,Georgia,GA,13,"Franklin County, GA",22311,24.1-26
+13121,2015,Georgia,GA,13,"Fulton County, GA",1010562,14.1-16
+13123,2015,Georgia,GA,13,"Gilmer County, GA",29400,20.1-22
+13125,2015,Georgia,GA,13,"Glascock County, GA",3065,22.1-24
+13127,2015,Georgia,GA,13,"Glynn County, GA",83579,14.1-16
+13129,2015,Georgia,GA,13,"Gordon County, GA",56574,16.1-18
+13131,2015,Georgia,GA,13,"Grady County, GA",25205,8.1-10
+13133,2015,Georgia,GA,13,"Greene County, GA",16710,10.1-12
+13135,2015,Georgia,GA,13,"Gwinnett County, GA",895823,8.1-10
+13137,2015,Georgia,GA,13,"Habersham County, GA",43996,12.1-14
+13139,2015,Georgia,GA,13,"Hall County, GA",193535,14.1-16
+13141,2015,Georgia,GA,13,"Hancock County, GA",8551,8.1-10
+13143,2015,Georgia,GA,13,"Haralson County, GA",28854,26.1-28
+13145,2015,Georgia,GA,13,"Harris County, GA",33381,8.1-10
+13147,2015,Georgia,GA,13,"Hart County, GA",25534,18.1-20
+13149,2015,Georgia,GA,13,"Heard County, GA",11539,18.1-20
+13151,2015,Georgia,GA,13,"Henry County, GA",217739,12.1-14
+13153,2015,Georgia,GA,13,"Houston County, GA",150033,8.1-10
+13155,2015,Georgia,GA,13,"Irwin County, GA",9245,10.1-12
+13157,2015,Georgia,GA,13,"Jackson County, GA",63360,20.1-22
+13159,2015,Georgia,GA,13,"Jasper County, GA",13635,14.1-16
+13161,2015,Georgia,GA,13,"Jeff Davis County, GA",14920,22.1-24
+13163,2015,Georgia,GA,13,"Jefferson County, GA",16106,12.1-14
+13165,2015,Georgia,GA,13,"Jenkins County, GA",8957,16.1-18
+13167,2015,Georgia,GA,13,"Johnson County, GA",9656,12.1-14
+13169,2015,Georgia,GA,13,"Jones County, GA",28494,16.1-18
+13171,2015,Georgia,GA,13,"Lamar County, GA",18201,18.1-20
+13173,2015,Georgia,GA,13,"Lanier County, GA",10312,8.1-10
+13175,2015,Georgia,GA,13,"Laurens County, GA",47731,14.1-16
+13177,2015,Georgia,GA,13,"Lee County, GA",29202,8.1-10
+13179,2015,Georgia,GA,13,"Liberty County, GA",62467,8.1-10
+13181,2015,Georgia,GA,13,"Lincoln County, GA",7673,16.1-18
+13183,2015,Georgia,GA,13,"Long County, GA",17731,12.1-14
+13185,2015,Georgia,GA,13,"Lowndes County, GA",112865,6.1-8
+13187,2015,Georgia,GA,13,"Lumpkin County, GA",31408,14.1-16
+13189,2015,Georgia,GA,13,"McDuffie County, GA",21540,10.1-12
+13191,2015,Georgia,GA,13,"McIntosh County, GA",13969,14.1-16
+13193,2015,Georgia,GA,13,"Macon County, GA",13632,10.1-12
+13195,2015,Georgia,GA,13,"Madison County, GA",28441,20.1-22
+13197,2015,Georgia,GA,13,"Marion County, GA",8761,8.1-10
+13199,2015,Georgia,GA,13,"Meriwether County, GA",21190,14.1-16
+13201,2015,Georgia,GA,13,"Miller County, GA",5854,12.1-14
+13205,2015,Georgia,GA,13,"Mitchell County, GA",22574,10.1-12
+13207,2015,Georgia,GA,13,"Monroe County, GA",27103,12.1-14
+13209,2015,Georgia,GA,13,"Montgomery County, GA",8951,14.1-16
+13211,2015,Georgia,GA,13,"Morgan County, GA",18046,8.1-10
+13213,2015,Georgia,GA,13,"Murray County, GA",39565,24.1-26
+13215,2015,Georgia,GA,13,"Muscogee County, GA",200579,10.1-12
+13217,2015,Georgia,GA,13,"Newton County, GA",105473,10.1-12
+13219,2015,Georgia,GA,13,"Oconee County, GA",35965,10.1-12
+13221,2015,Georgia,GA,13,"Oglethorpe County, GA",14871,14.1-16
+13223,2015,Georgia,GA,13,"Paulding County, GA",152238,16.1-18
+13225,2015,Georgia,GA,13,"Peach County, GA",26720,16.1-18
+13227,2015,Georgia,GA,13,"Pickens County, GA",30309,18.1-20
+13229,2015,Georgia,GA,13,"Pierce County, GA",19103,18.1-20
+13231,2015,Georgia,GA,13,"Pike County, GA",17941,10.1-12
+13233,2015,Georgia,GA,13,"Polk County, GA",41524,24.1-26
+13235,2015,Georgia,GA,13,"Pulaski County, GA",11396,12.1-14
+13237,2015,Georgia,GA,13,"Putnam County, GA",21353,14.1-16
+13239,2015,Georgia,GA,13,"Quitman County, GA",2302,20.1-22
+13241,2015,Georgia,GA,13,"Rabun County, GA",16281,26.1-28
+13243,2015,Georgia,GA,13,"Randolph County, GA",7193,4.1-6
+13245,2015,Georgia,GA,13,"Richmond County, GA",201793,14.1-16
+13247,2015,Georgia,GA,13,"Rockdale County, GA",88856,14.1-16
+13249,2015,Georgia,GA,13,"Schley County, GA",5168,8.1-10
+13251,2015,Georgia,GA,13,"Screven County, GA",14162,12.1-14
+13253,2015,Georgia,GA,13,"Seminole County, GA",8647,14.1-16
+13255,2015,Georgia,GA,13,"Spalding County, GA",64051,14.1-16
+13257,2015,Georgia,GA,13,"Stephens County, GA",25586,20.1-22
+13259,2015,Georgia,GA,13,"Stewart County, GA",5851,14.1-16
+13261,2015,Georgia,GA,13,"Sumter County, GA",30779,4.1-6
+13263,2015,Georgia,GA,13,"Talbot County, GA",6337,18.1-20
+13265,2015,Georgia,GA,13,"Taliaferro County, GA",1639,14.1-16
+13267,2015,Georgia,GA,13,"Tattnall County, GA",25229,14.1-16
+13269,2015,Georgia,GA,13,"Taylor County, GA",8330,18.1-20
+13271,2015,Georgia,GA,13,"Telfair County, GA",16400,12.1-14
+13273,2015,Georgia,GA,13,"Terrell County, GA",9113,6.1-8
+13275,2015,Georgia,GA,13,"Thomas County, GA",45063,6.1-8
+13277,2015,Georgia,GA,13,"Tift County, GA",40764,6.1-8
+13279,2015,Georgia,GA,13,"Toombs County, GA",27241,10.1-12
+13281,2015,Georgia,GA,13,"Towns County, GA",11182,>30
+13283,2015,Georgia,GA,13,"Treutlen County, GA",6785,6.1-8
+13285,2015,Georgia,GA,13,"Troup County, GA",69763,12.1-14
+13287,2015,Georgia,GA,13,"Turner County, GA",8214,12.1-14
+13289,2015,Georgia,GA,13,"Twiggs County, GA",8390,14.1-16
+13291,2015,Georgia,GA,13,"Union County, GA",22267,18.1-20
+13293,2015,Georgia,GA,13,"Upson County, GA",26368,14.1-16
+13295,2015,Georgia,GA,13,"Walker County, GA",68066,18.1-20
+13297,2015,Georgia,GA,13,"Walton County, GA",88399,14.1-16
+13299,2015,Georgia,GA,13,"Ware County, GA",35370,14.1-16
+13301,2015,Georgia,GA,13,"Warren County, GA",5460,16.1-18
+13303,2015,Georgia,GA,13,"Washington County, GA",20816,12.1-14
+13305,2015,Georgia,GA,13,"Wayne County, GA",29534,22.1-24
+13307,2015,Georgia,GA,13,"Webster County, GA",2648,10.1-12
+13309,2015,Georgia,GA,13,"Wheeler County, GA",7903,14.1-16
+13311,2015,Georgia,GA,13,"White County, GA",28319,20.1-22
+13313,2015,Georgia,GA,13,"Whitfield County, GA",104216,16.1-18
+13315,2015,Georgia,GA,13,"Wilcox County, GA",8857,10.1-12
+13317,2015,Georgia,GA,13,"Wilkes County, GA",9867,14.1-16
+13319,2015,Georgia,GA,13,"Wilkinson County, GA",9155,20.1-22
+13321,2015,Georgia,GA,13,"Worth County, GA",20699,10.1-12
+15001,2015,Hawaii,HI,15,"Hawaii County, HI",196428,16.1-18
+15003,2015,Hawaii,HI,15,"Honolulu County, HI",998714,12.1-14
+15005,2015,Hawaii,HI,15,"Kalawao County, HI",89,24.1-26
+15007,2015,Hawaii,HI,15,"Kauai County, HI",71735,10.1-12
+15009,2015,Hawaii,HI,15,"Maui County, HI",164637,8.1-10
+16001,2015,Idaho,ID,16,"Ada County, ID",434211,16.1-18
+16003,2015,Idaho,ID,16,"Adams County, ID",3843,16.1-18
+16005,2015,Idaho,ID,16,"Bannock County, ID",83744,20.1-22
+16007,2015,Idaho,ID,16,"Bear Lake County, ID",5922,>30
+16009,2015,Idaho,ID,16,"Benewah County, ID",9052,26.1-28
+16011,2015,Idaho,ID,16,"Bingham County, ID",44990,14.1-16
+16013,2015,Idaho,ID,16,"Blaine County, ID",21592,10.1-12
+16015,2015,Idaho,ID,16,"Boise County, ID",7058,28.1-30
+16017,2015,Idaho,ID,16,"Bonner County, ID",41859,12.1-14
+16019,2015,Idaho,ID,16,"Bonneville County, ID",110089,20.1-22
+16021,2015,Idaho,ID,16,"Boundary County, ID",11318,26.1-28
+16023,2015,Idaho,ID,16,"Butte County, ID",2501,18.1-20
+16025,2015,Idaho,ID,16,"Camas County, ID",1066,8.1-10
+16027,2015,Idaho,ID,16,"Canyon County, ID",207478,10.1-12
+16029,2015,Idaho,ID,16,"Caribou County, ID",6770,20.1-22
+16031,2015,Idaho,ID,16,"Cassia County, ID",23506,12.1-14
+16033,2015,Idaho,ID,16,"Clark County, ID",880,0-2
+16035,2015,Idaho,ID,16,"Clearwater County, ID",8496,18.1-20
+16037,2015,Idaho,ID,16,"Custer County, ID",4087,20.1-22
+16039,2015,Idaho,ID,16,"Elmore County, ID",25876,10.1-12
+16041,2015,Idaho,ID,16,"Franklin County, ID",13074,16.1-18
+16043,2015,Idaho,ID,16,"Fremont County, ID",12819,12.1-14
+16045,2015,Idaho,ID,16,"Gem County, ID",16852,16.1-18
+16047,2015,Idaho,ID,16,"Gooding County, ID",15284,14.1-16
+16049,2015,Idaho,ID,16,"Idaho County, ID",16272,10.1-12
+16051,2015,Idaho,ID,16,"Jefferson County, ID",27157,12.1-14
+16053,2015,Idaho,ID,16,"Jerome County, ID",22814,12.1-14
+16055,2015,Idaho,ID,16,"Kootenai County, ID",150346,12.1-14
+16057,2015,Idaho,ID,16,"Latah County, ID",38778,8.1-10
+16059,2015,Idaho,ID,16,"Lemhi County, ID",7735,24.1-26
+16061,2015,Idaho,ID,16,"Lewis County, ID",3789,24.1-26
+16063,2015,Idaho,ID,16,"Lincoln County, ID",5297,12.1-14
+16065,2015,Idaho,ID,16,"Madison County, ID",38273,6.1-8
+16067,2015,Idaho,ID,16,"Minidoka County, ID",20461,18.1-20
+16069,2015,Idaho,ID,16,"Nez Perce County, ID",40048,16.1-18
+16071,2015,Idaho,ID,16,"Oneida County, ID",4281,18.1-20
+16073,2015,Idaho,ID,16,"Owyhee County, ID",11310,16.1-18
+16075,2015,Idaho,ID,16,"Payette County, ID",22896,16.1-18
+16077,2015,Idaho,ID,16,"Power County, ID",7648,14.1-16
+16079,2015,Idaho,ID,16,"Shoshone County, ID",12432,28.1-30
+16081,2015,Idaho,ID,16,"Teton County, ID",10564,14.1-16
+16083,2015,Idaho,ID,16,"Twin Falls County, ID",82375,12.1-14
+16085,2015,Idaho,ID,16,"Valley County, ID",10103,18.1-20
+16087,2015,Idaho,ID,16,"Washington County, ID",9984,14.1-16
+17001,2015,Illinois,IL,17,"Adams County, IL",67013,10.1-12
+17003,2015,Illinois,IL,17,"Alexander County, IL",6780,10.1-12
+17005,2015,Illinois,IL,17,"Bond County, IL",16950,8.1-10
+17007,2015,Illinois,IL,17,"Boone County, IL",53585,10.1-12
+17009,2015,Illinois,IL,17,"Brown County, IL",6829,8.1-10
+17011,2015,Illinois,IL,17,"Bureau County, IL",33587,16.1-18
+17013,2015,Illinois,IL,17,"Calhoun County, IL",4899,12.1-14
+17015,2015,Illinois,IL,17,"Carroll County, IL",14616,10.1-12
+17017,2015,Illinois,IL,17,"Cass County, IL",12847,10.1-12
+17019,2015,Illinois,IL,17,"Champaign County, IL",208861,12.1-14
+17021,2015,Illinois,IL,17,"Christian County, IL",33642,12.1-14
+17023,2015,Illinois,IL,17,"Clark County, IL",15979,20.1-22
+17025,2015,Illinois,IL,17,"Clay County, IL",13428,10.1-12
+17027,2015,Illinois,IL,17,"Clinton County, IL",37786,6.1-8
+17029,2015,Illinois,IL,17,"Coles County, IL",52521,10.1-12
+17031,2015,Illinois,IL,17,"Cook County, IL",5238216,16.1-18
+17033,2015,Illinois,IL,17,"Crawford County, IL",19414,12.1-14
+17035,2015,Illinois,IL,17,"Cumberland County, IL",10898,8.1-10
+17037,2015,Illinois,IL,17,"DeKalb County, IL",104352,8.1-10
+17039,2015,Illinois,IL,17,"De Witt County, IL",16247,18.1-20
+17041,2015,Illinois,IL,17,"Douglas County, IL",19823,8.1-10
+17043,2015,Illinois,IL,17,"DuPage County, IL",933736,12.1-14
+17045,2015,Illinois,IL,17,"Edgar County, IL",17664,12.1-14
+17047,2015,Illinois,IL,17,"Edwards County, IL",6534,22.1-24
+17049,2015,Illinois,IL,17,"Effingham County, IL",34371,10.1-12
+17051,2015,Illinois,IL,17,"Fayette County, IL",22043,14.1-16
+17053,2015,Illinois,IL,17,"Ford County, IL",13736,14.1-16
+17055,2015,Illinois,IL,17,"Franklin County, IL",39485,20.1-22
+17057,2015,Illinois,IL,17,"Fulton County, IL",35699,10.1-12
+17059,2015,Illinois,IL,17,"Gallatin County, IL",5265,22.1-24
+17061,2015,Illinois,IL,17,"Greene County, IL",13241,14.1-16
+17063,2015,Illinois,IL,17,"Grundy County, IL",50541,16.1-18
+17065,2015,Illinois,IL,17,"Hamilton County, IL",8200,6.1-8
+17067,2015,Illinois,IL,17,"Hancock County, IL",18543,8.1-10
+17069,2015,Illinois,IL,17,"Hardin County, IL",4135,>30
+17071,2015,Illinois,IL,17,"Henderson County, IL",6995,8.1-10
+17073,2015,Illinois,IL,17,"Henry County, IL",49489,6.1-8
+17075,2015,Illinois,IL,17,"Iroquois County, IL",28672,14.1-16
+17077,2015,Illinois,IL,17,"Jackson County, IL",59362,12.1-14
+17079,2015,Illinois,IL,17,"Jasper County, IL",9607,10.1-12
+17081,2015,Illinois,IL,17,"Jefferson County, IL",38353,12.1-14
+17083,2015,Illinois,IL,17,"Jersey County, IL",22372,18.1-20
+17085,2015,Illinois,IL,17,"Jo Daviess County, IL",22086,10.1-12
+17087,2015,Illinois,IL,17,"Johnson County, IL",12762,12.1-14
+17089,2015,Illinois,IL,17,"Kane County, IL",530847,10.1-12
+17091,2015,Illinois,IL,17,"Kankakee County, IL",110879,16.1-18
+17093,2015,Illinois,IL,17,"Kendall County, IL",123355,10.1-12
+17095,2015,Illinois,IL,17,"Knox County, IL",51441,12.1-14
+17097,2015,Illinois,IL,17,"Lake County, IL",703910,14.1-16
+17099,2015,Illinois,IL,17,"La Salle County, IL",111333,20.1-22
+17101,2015,Illinois,IL,17,"Lawrence County, IL",16491,16.1-18
+17103,2015,Illinois,IL,17,"Lee County, IL",34584,14.1-16
+17105,2015,Illinois,IL,17,"Livingston County, IL",36671,16.1-18
+17107,2015,Illinois,IL,17,"Logan County, IL",29494,8.1-10
+17109,2015,Illinois,IL,17,"McDonough County, IL",31333,6.1-8
+17111,2015,Illinois,IL,17,"McHenry County, IL",307343,12.1-14
+17113,2015,Illinois,IL,17,"McLean County, IL",173166,10.1-12
+17115,2015,Illinois,IL,17,"Macon County, IL",107303,10.1-12
+17117,2015,Illinois,IL,17,"Macoupin County, IL",46045,8.1-10
+17119,2015,Illinois,IL,17,"Madison County, IL",266209,20.1-22
+17121,2015,Illinois,IL,17,"Marion County, IL",38339,20.1-22
+17123,2015,Illinois,IL,17,"Marshall County, IL",11982,14.1-16
+17125,2015,Illinois,IL,17,"Mason County, IL",13701,14.1-16
+17127,2015,Illinois,IL,17,"Massac County, IL",14766,22.1-24
+17129,2015,Illinois,IL,17,"Menard County, IL",12444,10.1-12
+17131,2015,Illinois,IL,17,"Mercer County, IL",15858,10.1-12
+17133,2015,Illinois,IL,17,"Monroe County, IL",33879,10.1-12
+17135,2015,Illinois,IL,17,"Montgomery County, IL",28898,12.1-14
+17137,2015,Illinois,IL,17,"Morgan County, IL",34828,10.1-12
+17139,2015,Illinois,IL,17,"Moultrie County, IL",14931,8.1-10
+17141,2015,Illinois,IL,17,"Ogle County, IL",51659,8.1-10
+17143,2015,Illinois,IL,17,"Peoria County, IL",186221,14.1-16
+17145,2015,Illinois,IL,17,"Perry County, IL",21543,12.1-14
+17147,2015,Illinois,IL,17,"Piatt County, IL",16387,6.1-8
+17149,2015,Illinois,IL,17,"Pike County, IL",15989,10.1-12
+17151,2015,Illinois,IL,17,"Pope County, IL",4226,28.1-30
+17153,2015,Illinois,IL,17,"Pulaski County, IL",5678,14.1-16
+17155,2015,Illinois,IL,17,"Putnam County, IL",5644,16.1-18
+17157,2015,Illinois,IL,17,"Randolph County, IL",32852,12.1-14
+17159,2015,Illinois,IL,17,"Richland County, IL",16029,16.1-18
+17161,2015,Illinois,IL,17,"Rock Island County, IL",146133,8.1-10
+17163,2015,Illinois,IL,17,"St. Clair County, IL",264052,12.1-14
+17165,2015,Illinois,IL,17,"Saline County, IL",24548,26.1-28
+17167,2015,Illinois,IL,17,"Sangamon County, IL",198712,12.1-14
+17169,2015,Illinois,IL,17,"Schuyler County, IL",7032,10.1-12
+17171,2015,Illinois,IL,17,"Scott County, IL",5092,14.1-16
+17173,2015,Illinois,IL,17,"Shelby County, IL",21775,12.1-14
+17175,2015,Illinois,IL,17,"Stark County, IL",5788,8.1-10
+17177,2015,Illinois,IL,17,"Stephenson County, IL",45749,10.1-12
+17179,2015,Illinois,IL,17,"Tazewell County, IL",134800,14.1-16
+17181,2015,Illinois,IL,17,"Union County, IL",17408,14.1-16
+17183,2015,Illinois,IL,17,"Vermilion County, IL",79282,18.1-20
+17185,2015,Illinois,IL,17,"Wabash County, IL",11542,10.1-12
+17187,2015,Illinois,IL,17,"Warren County, IL",17527,8.1-10
+17189,2015,Illinois,IL,17,"Washington County, IL",14270,12.1-14
+17191,2015,Illinois,IL,17,"Wayne County, IL",16423,10.1-12
+17193,2015,Illinois,IL,17,"White County, IL",14327,16.1-18
+17195,2015,Illinois,IL,17,"Whiteside County, IL",57079,8.1-10
+17197,2015,Illinois,IL,17,"Will County, IL",687263,12.1-14
+17199,2015,Illinois,IL,17,"Williamson County, IL",67466,14.1-16
+17201,2015,Illinois,IL,17,"Winnebago County, IL",287078,22.1-24
+17203,2015,Illinois,IL,17,"Woodford County, IL",39227,8.1-10
+18001,2015,Indiana,IN,18,"Adams County, IN",34980,10.1-12
+18003,2015,Indiana,IN,18,"Allen County, IN",368450,10.1-12
+18005,2015,Indiana,IN,18,"Bartholomew County, IN",81162,16.1-18
+18007,2015,Indiana,IN,18,"Benton County, IN",8681,18.1-20
+18009,2015,Indiana,IN,18,"Blackford County, IN",12298,26.1-28
+18011,2015,Indiana,IN,18,"Boone County, IN",63344,10.1-12
+18013,2015,Indiana,IN,18,"Brown County, IN",14977,18.1-20
+18015,2015,Indiana,IN,18,"Carroll County, IN",19856,12.1-14
+18017,2015,Indiana,IN,18,"Cass County, IN",37979,6.1-8
+18019,2015,Indiana,IN,18,"Clark County, IN",115371,18.1-20
+18021,2015,Indiana,IN,18,"Clay County, IN",26503,14.1-16
+18023,2015,Indiana,IN,18,"Clinton County, IN",32609,16.1-18
+18025,2015,Indiana,IN,18,"Crawford County, IN",10483,22.1-24
+18027,2015,Indiana,IN,18,"Daviess County, IN",32906,12.1-14
+18029,2015,Indiana,IN,18,"Dearborn County, IN",49455,18.1-20
+18031,2015,Indiana,IN,18,"Decatur County, IN",26521,16.1-18
+18033,2015,Indiana,IN,18,"De Kalb County, IN",42589,12.1-14
+18035,2015,Indiana,IN,18,"Delaware County, IN",116852,20.1-22
+18037,2015,Indiana,IN,18,"Dubois County, IN",42461,8.1-10
+18039,2015,Indiana,IN,18,"Elkhart County, IN",203474,8.1-10
+18041,2015,Indiana,IN,18,"Fayette County, IN",23434,24.1-26
+18043,2015,Indiana,IN,18,"Floyd County, IN",76778,16.1-18
+18045,2015,Indiana,IN,18,"Fountain County, IN",16591,12.1-14
+18047,2015,Indiana,IN,18,"Franklin County, IN",22872,20.1-22
+18049,2015,Indiana,IN,18,"Fulton County, IN",20315,12.1-14
+18051,2015,Indiana,IN,18,"Gibson County, IN",33775,10.1-12
+18053,2015,Indiana,IN,18,"Grant County, IN",67979,20.1-22
+18055,2015,Indiana,IN,18,"Greene County, IN",32441,18.1-20
+18057,2015,Indiana,IN,18,"Hamilton County, IN",309697,8.1-10
+18059,2015,Indiana,IN,18,"Hancock County, IN",72520,16.1-18
+18061,2015,Indiana,IN,18,"Harrison County, IN",39578,10.1-12
+18063,2015,Indiana,IN,18,"Hendricks County, IN",158192,10.1-12
+18065,2015,Indiana,IN,18,"Henry County, IN",48985,28.1-30
+18067,2015,Indiana,IN,18,"Howard County, IN",82556,24.1-26
+18069,2015,Indiana,IN,18,"Huntington County, IN",36630,14.1-16
+18071,2015,Indiana,IN,18,"Jackson County, IN",44069,16.1-18
+18073,2015,Indiana,IN,18,"Jasper County, IN",33470,12.1-14
+18075,2015,Indiana,IN,18,"Jay County, IN",21121,16.1-18
+18077,2015,Indiana,IN,18,"Jefferson County, IN",32416,12.1-14
+18079,2015,Indiana,IN,18,"Jennings County, IN",27897,18.1-20
+18081,2015,Indiana,IN,18,"Johnson County, IN",149633,14.1-16
+18083,2015,Indiana,IN,18,"Knox County, IN",37927,14.1-16
+18085,2015,Indiana,IN,18,"Kosciusko County, IN",78620,10.1-12
+18087,2015,Indiana,IN,18,"Lagrange County, IN",38809,4.1-6
+18089,2015,Indiana,IN,18,"Lake County, IN",487865,6.1-8
+18091,2015,Indiana,IN,18,"La Porte County, IN",110884,12.1-14
+18093,2015,Indiana,IN,18,"Lawrence County, IN",45495,14.1-16
+18095,2015,Indiana,IN,18,"Madison County, IN",129723,28.1-30
+18097,2015,Indiana,IN,18,"Marion County, IN",939020,18.1-20
+18099,2015,Indiana,IN,18,"Marshall County, IN",46857,10.1-12
+18101,2015,Indiana,IN,18,"Martin County, IN",10226,12.1-14
+18103,2015,Indiana,IN,18,"Miami County, IN",35862,10.1-12
+18105,2015,Indiana,IN,18,"Monroe County, IN",144705,16.1-18
+18107,2015,Indiana,IN,18,"Montgomery County, IN",38227,18.1-20
+18109,2015,Indiana,IN,18,"Morgan County, IN",69648,18.1-20
+18111,2015,Indiana,IN,18,"Newton County, IN",14008,14.1-16
+18113,2015,Indiana,IN,18,"Noble County, IN",47733,10.1-12
+18115,2015,Indiana,IN,18,"Ohio County, IN",5938,24.1-26
+18117,2015,Indiana,IN,18,"Orange County, IN",19605,12.1-14
+18119,2015,Indiana,IN,18,"Owen County, IN",20872,14.1-16
+18121,2015,Indiana,IN,18,"Parke County, IN",16901,12.1-14
+18123,2015,Indiana,IN,18,"Perry County, IN",19347,12.1-14
+18125,2015,Indiana,IN,18,"Pike County, IN",12594,12.1-14
+18127,2015,Indiana,IN,18,"Porter County, IN",167688,14.1-16
+18129,2015,Indiana,IN,18,"Posey County, IN",25512,10.1-12
+18131,2015,Indiana,IN,18,"Pulaski County, IN",12889,20.1-22
+18133,2015,Indiana,IN,18,"Putnam County, IN",37585,10.1-12
+18135,2015,Indiana,IN,18,"Randolph County, IN",25172,14.1-16
+18137,2015,Indiana,IN,18,"Ripley County, IN",28701,16.1-18
+18139,2015,Indiana,IN,18,"Rush County, IN",16672,14.1-16
+18141,2015,Indiana,IN,18,"St. Joseph County, IN",268441,12.1-14
+18143,2015,Indiana,IN,18,"Scott County, IN",23744,>30
+18145,2015,Indiana,IN,18,"Shelby County, IN",44478,16.1-18
+18147,2015,Indiana,IN,18,"Spencer County, IN",20715,12.1-14
+18149,2015,Indiana,IN,18,"Starke County, IN",22958,>30
+18151,2015,Indiana,IN,18,"Steuben County, IN",34372,8.1-10
+18153,2015,Indiana,IN,18,"Sullivan County, IN",20928,22.1-24
+18155,2015,Indiana,IN,18,"Switzerland County, IN",10524,22.1-24
+18157,2015,Indiana,IN,18,"Tippecanoe County, IN",185826,14.1-16
+18159,2015,Indiana,IN,18,"Tipton County, IN",15267,20.1-22
+18161,2015,Indiana,IN,18,"Union County, IN",7182,24.1-26
+18163,2015,Indiana,IN,18,"Vanderburgh County, IN",181877,22.1-24
+18165,2015,Indiana,IN,18,"Vermillion County, IN",15692,16.1-18
+18167,2015,Indiana,IN,18,"Vigo County, IN",107896,16.1-18
+18169,2015,Indiana,IN,18,"Wabash County, IN",32138,20.1-22
+18171,2015,Indiana,IN,18,"Warren County, IN",8269,14.1-16
+18173,2015,Indiana,IN,18,"Warrick County, IN",61897,8.1-10
+18175,2015,Indiana,IN,18,"Washington County, IN",27827,16.1-18
+18177,2015,Indiana,IN,18,"Wayne County, IN",67001,22.1-24
+18179,2015,Indiana,IN,18,"Wells County, IN",27964,12.1-14
+18181,2015,Indiana,IN,18,"White County, IN",24293,14.1-16
+18183,2015,Indiana,IN,18,"Whitley County, IN",33406,10.1-12
+19001,2015,Iowa,IA,19,"Adair County, IA",7228,10.1-12
+19003,2015,Iowa,IA,19,"Adams County, IA",3796,12.1-14
+19005,2015,Iowa,IA,19,"Allamakee County, IA",13886,8.1-10
+19007,2015,Iowa,IA,19,"Appanoose County, IA",12529,16.1-18
+19009,2015,Iowa,IA,19,"Audubon County, IA",5773,4.1-6
+19011,2015,Iowa,IA,19,"Benton County, IA",25658,6.1-8
+19013,2015,Iowa,IA,19,"Black Hawk County, IA",133455,6.1-8
+19015,2015,Iowa,IA,19,"Boone County, IA",26643,8.1-10
+19017,2015,Iowa,IA,19,"Bremer County, IA",24722,8.1-10
+19019,2015,Iowa,IA,19,"Buchanan County, IA",21062,6.1-8
+19021,2015,Iowa,IA,19,"Buena Vista County, IA",20493,6.1-8
+19023,2015,Iowa,IA,19,"Butler County, IA",14915,6.1-8
+19025,2015,Iowa,IA,19,"Calhoun County, IA",9818,4.1-6
+19027,2015,Iowa,IA,19,"Carroll County, IA",20498,8.1-10
+19029,2015,Iowa,IA,19,"Cass County, IA",13427,10.1-12
+19031,2015,Iowa,IA,19,"Cedar County, IA",18340,10.1-12
+19033,2015,Iowa,IA,19,"Cerro Gordo County, IA",43017,8.1-10
+19035,2015,Iowa,IA,19,"Cherokee County, IA",11574,4.1-6
+19037,2015,Iowa,IA,19,"Chickasaw County, IA",12097,8.1-10
+19039,2015,Iowa,IA,19,"Clarke County, IA",9259,10.1-12
+19041,2015,Iowa,IA,19,"Clay County, IA",16507,4.1-6
+19043,2015,Iowa,IA,19,"Clayton County, IA",17644,10.1-12
+19045,2015,Iowa,IA,19,"Clinton County, IA",47768,8.1-10
+19047,2015,Iowa,IA,19,"Crawford County, IA",17094,8.1-10
+19049,2015,Iowa,IA,19,"Dallas County, IA",80133,4.1-6
+19051,2015,Iowa,IA,19,"Davis County, IA",8769,8.1-10
+19053,2015,Iowa,IA,19,"Decatur County, IA",8220,10.1-12
+19055,2015,Iowa,IA,19,"Delaware County, IA",17403,6.1-8
+19057,2015,Iowa,IA,19,"Des Moines County, IA",40055,10.1-12
+19059,2015,Iowa,IA,19,"Dickinson County, IA",17111,8.1-10
+19061,2015,Iowa,IA,19,"Dubuque County, IA",97125,6.1-8
+19063,2015,Iowa,IA,19,"Emmet County, IA",9769,4.1-6
+19065,2015,Iowa,IA,19,"Fayette County, IA",20257,8.1-10
+19067,2015,Iowa,IA,19,"Floyd County, IA",15960,8.1-10
+19069,2015,Iowa,IA,19,"Franklin County, IA",10295,4.1-6
+19071,2015,Iowa,IA,19,"Fremont County, IA",6906,14.1-16
+19073,2015,Iowa,IA,19,"Greene County, IA",9027,10.1-12
+19075,2015,Iowa,IA,19,"Grundy County, IA",12435,6.1-8
+19077,2015,Iowa,IA,19,"Guthrie County, IA",10676,8.1-10
+19079,2015,Iowa,IA,19,"Hamilton County, IA",15190,6.1-8
+19081,2015,Iowa,IA,19,"Hancock County, IA",10974,4.1-6
+19083,2015,Iowa,IA,19,"Hardin County, IA",17367,6.1-8
+19085,2015,Iowa,IA,19,"Harrison County, IA",14265,12.1-14
+19087,2015,Iowa,IA,19,"Henry County, IA",19950,8.1-10
+19089,2015,Iowa,IA,19,"Howard County, IA",9410,6.1-8
+19091,2015,Iowa,IA,19,"Humboldt County, IA",9555,8.1-10
+19093,2015,Iowa,IA,19,"Ida County, IA",7028,12.1-14
+19095,2015,Iowa,IA,19,"Iowa County, IA",16401,10.1-12
+19097,2015,Iowa,IA,19,"Jackson County, IA",19444,10.1-12
+19099,2015,Iowa,IA,19,"Jasper County, IA",36827,10.1-12
+19101,2015,Iowa,IA,19,"Jefferson County, IA",17555,12.1-14
+19103,2015,Iowa,IA,19,"Johnson County, IA",144251,8.1-10
+19105,2015,Iowa,IA,19,"Jones County, IA",20466,6.1-8
+19107,2015,Iowa,IA,19,"Keokuk County, IA",10163,8.1-10
+19109,2015,Iowa,IA,19,"Kossuth County, IA",15165,6.1-8
+19111,2015,Iowa,IA,19,"Lee County, IA",35089,12.1-14
+19113,2015,Iowa,IA,19,"Linn County, IA",219916,10.1-12
+19115,2015,Iowa,IA,19,"Louisa County, IA",11185,12.1-14
+19117,2015,Iowa,IA,19,"Lucas County, IA",8682,10.1-12
+19119,2015,Iowa,IA,19,"Lyon County, IA",11745,6.1-8
+19121,2015,Iowa,IA,19,"Madison County, IA",15753,6.1-8
+19123,2015,Iowa,IA,19,"Mahaska County, IA",22324,12.1-14
+19125,2015,Iowa,IA,19,"Marion County, IA",33294,8.1-10
+19127,2015,Iowa,IA,19,"Marshall County, IA",40746,6.1-8
+19129,2015,Iowa,IA,19,"Mills County, IA",14844,8.1-10
+19131,2015,Iowa,IA,19,"Mitchell County, IA",10832,6.1-8
+19133,2015,Iowa,IA,19,"Monona County, IA",8979,14.1-16
+19135,2015,Iowa,IA,19,"Monroe County, IA",7973,10.1-12
+19137,2015,Iowa,IA,19,"Montgomery County, IA",10234,18.1-20
+19139,2015,Iowa,IA,19,"Muscatine County, IA",43011,6.1-8
+19141,2015,Iowa,IA,19,"O'Brien County, IA",13984,6.1-8
+19143,2015,Iowa,IA,19,"Osceola County, IA",6154,8.1-10
+19145,2015,Iowa,IA,19,"Page County, IA",15527,8.1-10
+19147,2015,Iowa,IA,19,"Palo Alto County, IA",9133,6.1-8
+19149,2015,Iowa,IA,19,"Plymouth County, IA",24800,4.1-6
+19151,2015,Iowa,IA,19,"Pocahontas County, IA",7008,6.1-8
+19153,2015,Iowa,IA,19,"Polk County, IA",467711,10.1-12
+19155,2015,Iowa,IA,19,"Pottawattamie County, IA",93671,12.1-14
+19157,2015,Iowa,IA,19,"Poweshiek County, IA",18550,8.1-10
+19159,2015,Iowa,IA,19,"Ringgold County, IA",5068,12.1-14
+19161,2015,Iowa,IA,19,"Sac County, IA",10021,10.1-12
+19163,2015,Iowa,IA,19,"Scott County, IA",172126,14.1-16
+19165,2015,Iowa,IA,19,"Shelby County, IA",11927,8.1-10
+19167,2015,Iowa,IA,19,"Sioux County, IA",34937,2.1-4
+19169,2015,Iowa,IA,19,"Story County, IA",96021,4.1-6
+19171,2015,Iowa,IA,19,"Tama County, IA",17337,10.1-12
+19173,2015,Iowa,IA,19,"Taylor County, IA",6205,8.1-10
+19175,2015,Iowa,IA,19,"Union County, IA",12469,12.1-14
+19177,2015,Iowa,IA,19,"Van Buren County, IA",7344,12.1-14
+19179,2015,Iowa,IA,19,"Wapello County, IA",35173,8.1-10
+19181,2015,Iowa,IA,19,"Warren County, IA",48626,6.1-8
+19183,2015,Iowa,IA,19,"Washington County, IA",22247,8.1-10
+19185,2015,Iowa,IA,19,"Wayne County, IA",6385,12.1-14
+19187,2015,Iowa,IA,19,"Webster County, IA",37071,12.1-14
+19189,2015,Iowa,IA,19,"Winnebago County, IA",10609,8.1-10
+19191,2015,Iowa,IA,19,"Winneshiek County, IA",20709,6.1-8
+19193,2015,Iowa,IA,19,"Woodbury County, IA",102782,10.1-12
+19195,2015,Iowa,IA,19,"Worth County, IA",7569,14.1-16
+19197,2015,Iowa,IA,19,"Wright County, IA",12773,8.1-10
+20001,2015,Kansas,KS,20,"Allen County, KS",12717,20.1-22
+20003,2015,Kansas,KS,20,"Anderson County, KS",7808,16.1-18
+20005,2015,Kansas,KS,20,"Atchison County, KS",16398,12.1-14
+20007,2015,Kansas,KS,20,"Barber County, KS",4823,22.1-24
+20009,2015,Kansas,KS,20,"Barton County, KS",27103,8.1-10
+20011,2015,Kansas,KS,20,"Bourbon County, KS",14712,18.1-20
+20013,2015,Kansas,KS,20,"Brown County, KS",9776,18.1-20
+20015,2015,Kansas,KS,20,"Butler County, KS",66741,14.1-16
+20017,2015,Kansas,KS,20,"Chase County, KS",2679,6.1-8
+20019,2015,Kansas,KS,20,"Chautauqua County, KS",3402,22.1-24
+20021,2015,Kansas,KS,20,"Cherokee County, KS",20533,18.1-20
+20023,2015,Kansas,KS,20,"Cheyenne County, KS",2679,6.1-8
+20025,2015,Kansas,KS,20,"Clark County, KS",2096,16.1-18
+20027,2015,Kansas,KS,20,"Clay County, KS",8347,18.1-20
+20029,2015,Kansas,KS,20,"Cloud County, KS",9219,10.1-12
+20031,2015,Kansas,KS,20,"Coffey County, KS",8384,16.1-18
+20033,2015,Kansas,KS,20,"Comanche County, KS",1843,6.1-8
+20035,2015,Kansas,KS,20,"Cowley County, KS",35788,14.1-16
+20037,2015,Kansas,KS,20,"Crawford County, KS",39217,14.1-16
+20039,2015,Kansas,KS,20,"Decatur County, KS",2932,10.1-12
+20041,2015,Kansas,KS,20,"Dickinson County, KS",19303,8.1-10
+20043,2015,Kansas,KS,20,"Doniphan County, KS",7797,10.1-12
+20045,2015,Kansas,KS,20,"Douglas County, KS",118053,10.1-12
+20047,2015,Kansas,KS,20,"Edwards County, KS",2968,6.1-8
+20049,2015,Kansas,KS,20,"Elk County, KS",2605,26.1-28
+20051,2015,Kansas,KS,20,"Ellis County, KS",29029,6.1-8
+20053,2015,Kansas,KS,20,"Ellsworth County, KS",6343,14.1-16
+20055,2015,Kansas,KS,20,"Finney County, KS",37118,6.1-8
+20057,2015,Kansas,KS,20,"Ford County, KS",34536,6.1-8
+20059,2015,Kansas,KS,20,"Franklin County, KS",25609,12.1-14
+20061,2015,Kansas,KS,20,"Geary County, KS",37030,12.1-14
+20063,2015,Kansas,KS,20,"Gove County, KS",2640,4.1-6
+20065,2015,Kansas,KS,20,"Graham County, KS",2591,14.1-16
+20067,2015,Kansas,KS,20,"Grant County, KS",7733,4.1-6
+20069,2015,Kansas,KS,20,"Gray County, KS",6133,8.1-10
+20071,2015,Kansas,KS,20,"Greeley County, KS",1330,10.1-12
+20073,2015,Kansas,KS,20,"Greenwood County, KS",6244,>30
+20075,2015,Kansas,KS,20,"Hamilton County, KS",2474,16.1-18
+20077,2015,Kansas,KS,20,"Harper County, KS",5817,26.1-28
+20079,2015,Kansas,KS,20,"Harvey County, KS",35073,10.1-12
+20081,2015,Kansas,KS,20,"Haskell County, KS",4064,4.1-6
+20083,2015,Kansas,KS,20,"Hodgeman County, KS",1893,2.1-4
+20085,2015,Kansas,KS,20,"Jackson County, KS",13338,6.1-8
+20087,2015,Kansas,KS,20,"Jefferson County, KS",18930,10.1-12
+20089,2015,Kansas,KS,20,"Jewell County, KS",2970,12.1-14
+20091,2015,Kansas,KS,20,"Johnson County, KS",580159,10.1-12
+20093,2015,Kansas,KS,20,"Kearny County, KS",3956,4.1-6
+20095,2015,Kansas,KS,20,"Kingman County, KS",7687,14.1-16
+20097,2015,Kansas,KS,20,"Kiowa County, KS",2564,8.1-10
+20099,2015,Kansas,KS,20,"Labette County, KS",20803,14.1-16
+20101,2015,Kansas,KS,20,"Lane County, KS",1670,2.1-4
+20103,2015,Kansas,KS,20,"Leavenworth County, KS",79315,12.1-14
+20105,2015,Kansas,KS,20,"Lincoln County, KS",3105,8.1-10
+20107,2015,Kansas,KS,20,"Linn County, KS",9536,16.1-18
+20109,2015,Kansas,KS,20,"Logan County, KS",2825,14.1-16
+20111,2015,Kansas,KS,20,"Lyon County, KS",33339,8.1-10
+20113,2015,Kansas,KS,20,"McPherson County, KS",28941,8.1-10
+20115,2015,Kansas,KS,20,"Marion County, KS",12103,10.1-12
+20117,2015,Kansas,KS,20,"Marshall County, KS",9936,10.1-12
+20119,2015,Kansas,KS,20,"Meade County, KS",4330,4.1-6
+20121,2015,Kansas,KS,20,"Miami County, KS",32553,12.1-14
+20123,2015,Kansas,KS,20,"Mitchell County, KS",6282,8.1-10
+20125,2015,Kansas,KS,20,"Montgomery County, KS",33314,20.1-22
+20127,2015,Kansas,KS,20,"Morris County, KS",5645,12.1-14
+20129,2015,Kansas,KS,20,"Morton County, KS",3007,12.1-14
+20131,2015,Kansas,KS,20,"Nemaha County, KS",10227,6.1-8
+20133,2015,Kansas,KS,20,"Neosho County, KS",16346,14.1-16
+20135,2015,Kansas,KS,20,"Ness County, KS",3005,6.1-8
+20137,2015,Kansas,KS,20,"Norton County, KS",5550,8.1-10
+20139,2015,Kansas,KS,20,"Osage County, KS",15847,16.1-18
+20141,2015,Kansas,KS,20,"Osborne County, KS",3683,14.1-16
+20143,2015,Kansas,KS,20,"Ottawa County, KS",5975,8.1-10
+20145,2015,Kansas,KS,20,"Pawnee County, KS",6838,10.1-12
+20147,2015,Kansas,KS,20,"Phillips County, KS",5428,2.1-4
+20149,2015,Kansas,KS,20,"Pottawatomie County, KS",23298,10.1-12
+20151,2015,Kansas,KS,20,"Pratt County, KS",9691,12.1-14
+20153,2015,Kansas,KS,20,"Rawlins County, KS",2506,2.1-4
+20155,2015,Kansas,KS,20,"Reno County, KS",63718,10.1-12
+20157,2015,Kansas,KS,20,"Republic County, KS",4725,12.1-14
+20159,2015,Kansas,KS,20,"Rice County, KS",9977,14.1-16
+20161,2015,Kansas,KS,20,"Riley County, KS",75247,8.1-10
+20163,2015,Kansas,KS,20,"Rooks County, KS",5174,10.1-12
+20165,2015,Kansas,KS,20,"Rush County, KS",3130,10.1-12
+20167,2015,Kansas,KS,20,"Russell County, KS",7039,16.1-18
+20169,2015,Kansas,KS,20,"Saline County, KS",55691,10.1-12
+20171,2015,Kansas,KS,20,"Scott County, KS",4964,4.1-6
+20173,2015,Kansas,KS,20,"Sedgwick County, KS",511574,18.1-20
+20175,2015,Kansas,KS,20,"Seward County, KS",23152,6.1-8
+20177,2015,Kansas,KS,20,"Shawnee County, KS",178725,16.1-18
+20179,2015,Kansas,KS,20,"Sheridan County, KS",2512,2.1-4
+20181,2015,Kansas,KS,20,"Sherman County, KS",5983,16.1-18
+20183,2015,Kansas,KS,20,"Smith County, KS",3704,10.1-12
+20185,2015,Kansas,KS,20,"Stafford County, KS",4236,14.1-16
+20187,2015,Kansas,KS,20,"Stanton County, KS",2072,6.1-8
+20189,2015,Kansas,KS,20,"Stevens County, KS",5806,4.1-6
+20191,2015,Kansas,KS,20,"Sumner County, KS",23535,16.1-18
+20193,2015,Kansas,KS,20,"Thomas County, KS",7904,12.1-14
+20195,2015,Kansas,KS,20,"Trego County, KS",2927,16.1-18
+20197,2015,Kansas,KS,20,"Wabaunsee County, KS",6951,12.1-14
+20199,2015,Kansas,KS,20,"Wallace County, KS",1518,0-2
+20201,2015,Kansas,KS,20,"Washington County, KS",5598,8.1-10
+20203,2015,Kansas,KS,20,"Wichita County, KS",2157,4.1-6
+20205,2015,Kansas,KS,20,"Wilson County, KS",8856,24.1-26
+20207,2015,Kansas,KS,20,"Woodson County, KS",3115,>30
+20209,2015,Kansas,KS,20,"Wyandotte County, KS",163369,12.1-14
+21001,2015,Kentucky,KY,21,"Adair County, KY",19027,18.1-20
+21003,2015,Kentucky,KY,21,"Allen County, KY",20640,16.1-18
+21005,2015,Kentucky,KY,21,"Anderson County, KY",21979,20.1-22
+21007,2015,Kentucky,KY,21,"Ballard County, KY",8212,20.1-22
+21009,2015,Kentucky,KY,21,"Barren County, KY",43570,12.1-14
+21011,2015,Kentucky,KY,21,"Bath County, KY",12228,>30
+21013,2015,Kentucky,KY,21,"Bell County, KY",27337,>30
+21015,2015,Kentucky,KY,21,"Boone County, KY",127712,20.1-22
+21017,2015,Kentucky,KY,21,"Bourbon County, KY",20116,20.1-22
+21019,2015,Kentucky,KY,21,"Boyd County, KY",48325,>30
+21021,2015,Kentucky,KY,21,"Boyle County, KY",29809,18.1-20
+21023,2015,Kentucky,KY,21,"Bracken County, KY",8321,18.1-20
+21025,2015,Kentucky,KY,21,"Breathitt County, KY",13484,>30
+21027,2015,Kentucky,KY,21,"Breckinridge County, KY",20018,18.1-20
+21029,2015,Kentucky,KY,21,"Bullitt County, KY",78702,14.1-16
+21031,2015,Kentucky,KY,21,"Butler County, KY",12938,24.1-26
+21033,2015,Kentucky,KY,21,"Caldwell County, KY",12681,16.1-18
+21035,2015,Kentucky,KY,21,"Calloway County, KY",38343,12.1-14
+21037,2015,Kentucky,KY,21,"Campbell County, KY",92066,>30
+21039,2015,Kentucky,KY,21,"Carlisle County, KY",4874,18.1-20
+21041,2015,Kentucky,KY,21,"Carroll County, KY",10699,28.1-30
+21043,2015,Kentucky,KY,21,"Carter County, KY",27158,28.1-30
+21045,2015,Kentucky,KY,21,"Casey County, KY",15808,24.1-26
+21047,2015,Kentucky,KY,21,"Christian County, KY",73309,8.1-10
+21049,2015,Kentucky,KY,21,"Clark County, KY",35757,>30
+21051,2015,Kentucky,KY,21,"Clay County, KY",21013,>30
+21053,2015,Kentucky,KY,21,"Clinton County, KY",10174,>30
+21055,2015,Kentucky,KY,21,"Crittenden County, KY",9183,26.1-28
+21057,2015,Kentucky,KY,21,"Cumberland County, KY",6759,>30
+21059,2015,Kentucky,KY,21,"Daviess County, KY",99259,16.1-18
+21061,2015,Kentucky,KY,21,"Edmonson County, KY",12007,20.1-22
+21063,2015,Kentucky,KY,21,"Elliott County, KY",7648,>30
+21065,2015,Kentucky,KY,21,"Estill County, KY",14375,>30
+21067,2015,Kentucky,KY,21,"Fayette County, KY",314488,20.1-22
+21069,2015,Kentucky,KY,21,"Fleming County, KY",14637,22.1-24
+21071,2015,Kentucky,KY,21,"Floyd County, KY",37756,>30
+21073,2015,Kentucky,KY,21,"Franklin County, KY",50375,14.1-16
+21075,2015,Kentucky,KY,21,"Fulton County, KY",6238,18.1-20
+21077,2015,Kentucky,KY,21,"Gallatin County, KY",8636,>30
+21079,2015,Kentucky,KY,21,"Garrard County, KY",17237,20.1-22
+21081,2015,Kentucky,KY,21,"Grant County, KY",24757,>30
+21083,2015,Kentucky,KY,21,"Graves County, KY",37421,14.1-16
+21085,2015,Kentucky,KY,21,"Grayson County, KY",26221,28.1-30
+21087,2015,Kentucky,KY,21,"Green County, KY",11010,14.1-16
+21089,2015,Kentucky,KY,21,"Greenup County, KY",36068,28.1-30
+21091,2015,Kentucky,KY,21,"Hancock County, KY",8692,12.1-14
+21093,2015,Kentucky,KY,21,"Hardin County, KY",106439,12.1-14
+21095,2015,Kentucky,KY,21,"Harlan County, KY",27703,>30
+21097,2015,Kentucky,KY,21,"Harrison County, KY",18763,20.1-22
+21099,2015,Kentucky,KY,21,"Hart County, KY",18454,18.1-20
+21101,2015,Kentucky,KY,21,"Henderson County, KY",46407,14.1-16
+21103,2015,Kentucky,KY,21,"Henry County, KY",15620,16.1-18
+21105,2015,Kentucky,KY,21,"Hickman County, KY",4612,24.1-26
+21107,2015,Kentucky,KY,21,"Hopkins County, KY",46222,16.1-18
+21109,2015,Kentucky,KY,21,"Jackson County, KY",13352,18.1-20
+21111,2015,Kentucky,KY,21,"Jefferson County, KY",763623,20.1-22
+21113,2015,Kentucky,KY,21,"Jessamine County, KY",51961,22.1-24
+21115,2015,Kentucky,KY,21,"Johnson County, KY",23175,>30
+21117,2015,Kentucky,KY,21,"Kenton County, KY",165012,>30
+21119,2015,Kentucky,KY,21,"Knott County, KY",15693,>30
+21121,2015,Kentucky,KY,21,"Knox County, KY",31730,>30
+21123,2015,Kentucky,KY,21,"Larue County, KY",14241,14.1-16
+21125,2015,Kentucky,KY,21,"Laurel County, KY",60094,24.1-26
+21127,2015,Kentucky,KY,21,"Lawrence County, KY",15745,>30
+21129,2015,Kentucky,KY,21,"Lee County, KY",6752,>30
+21131,2015,Kentucky,KY,21,"Leslie County, KY",10711,>30
+21133,2015,Kentucky,KY,21,"Letcher County, KY",23123,>30
+21135,2015,Kentucky,KY,21,"Lewis County, KY",13682,22.1-24
+21137,2015,Kentucky,KY,21,"Lincoln County, KY",24463,22.1-24
+21139,2015,Kentucky,KY,21,"Livingston County, KY",9316,28.1-30
+21141,2015,Kentucky,KY,21,"Logan County, KY",26910,14.1-16
+21143,2015,Kentucky,KY,21,"Lyon County, KY",8306,16.1-18
+21145,2015,Kentucky,KY,21,"McCracken County, KY",65018,20.1-22
+21147,2015,Kentucky,KY,21,"McCreary County, KY",17878,22.1-24
+21149,2015,Kentucky,KY,21,"McLean County, KY",9512,22.1-24
+21151,2015,Kentucky,KY,21,"Madison County, KY",87824,18.1-20
+21153,2015,Kentucky,KY,21,"Magoffin County, KY",12808,>30
+21155,2015,Kentucky,KY,21,"Marion County, KY",19365,18.1-20
+21157,2015,Kentucky,KY,21,"Marshall County, KY",31101,24.1-26
+21159,2015,Kentucky,KY,21,"Martin County, KY",12307,>30
+21161,2015,Kentucky,KY,21,"Mason County, KY",17099,18.1-20
+21163,2015,Kentucky,KY,21,"Meade County, KY",27924,12.1-14
+21165,2015,Kentucky,KY,21,"Menifee County, KY",6358,>30
+21167,2015,Kentucky,KY,21,"Mercer County, KY",21407,24.1-26
+21169,2015,Kentucky,KY,21,"Metcalfe County, KY",9909,16.1-18
+21171,2015,Kentucky,KY,21,"Monroe County, KY",10667,26.1-28
+21173,2015,Kentucky,KY,21,"Montgomery County, KY",27608,20.1-22
+21175,2015,Kentucky,KY,21,"Morgan County, KY",13275,18.1-20
+21177,2015,Kentucky,KY,21,"Muhlenberg County, KY",31183,22.1-24
+21179,2015,Kentucky,KY,21,"Nelson County, KY",45126,12.1-14
+21181,2015,Kentucky,KY,21,"Nicholas County, KY",7131,26.1-28
+21183,2015,Kentucky,KY,21,"Ohio County, KY",24216,20.1-22
+21185,2015,Kentucky,KY,21,"Oldham County, KY",64875,10.1-12
+21187,2015,Kentucky,KY,21,"Owen County, KY",10730,24.1-26
+21189,2015,Kentucky,KY,21,"Owsley County, KY",4461,>30
+21191,2015,Kentucky,KY,21,"Pendleton County, KY",14408,24.1-26
+21193,2015,Kentucky,KY,21,"Perry County, KY",27565,>30
+21195,2015,Kentucky,KY,21,"Pike County, KY",61792,>30
+21197,2015,Kentucky,KY,21,"Powell County, KY",12269,>30
+21199,2015,Kentucky,KY,21,"Pulaski County, KY",63782,22.1-24
+21201,2015,Kentucky,KY,21,"Robertson County, KY",2138,22.1-24
+21203,2015,Kentucky,KY,21,"Rockcastle County, KY",16942,28.1-30
+21205,2015,Kentucky,KY,21,"Rowan County, KY",23892,22.1-24
+21207,2015,Kentucky,KY,21,"Russell County, KY",17662,>30
+21209,2015,Kentucky,KY,21,"Scott County, KY",52420,12.1-14
+21211,2015,Kentucky,KY,21,"Shelby County, KY",45632,6.1-8
+21213,2015,Kentucky,KY,21,"Simpson County, KY",18006,16.1-18
+21215,2015,Kentucky,KY,21,"Spencer County, KY",17894,14.1-16
+21217,2015,Kentucky,KY,21,"Taylor County, KY",25420,24.1-26
+21219,2015,Kentucky,KY,21,"Todd County, KY",12531,18.1-20
+21221,2015,Kentucky,KY,21,"Trigg County, KY",14233,16.1-18
+21223,2015,Kentucky,KY,21,"Trimble County, KY",8769,20.1-22
+21225,2015,Kentucky,KY,21,"Union County, KY",15050,28.1-30
+21227,2015,Kentucky,KY,21,"Warren County, KY",122851,12.1-14
+21229,2015,Kentucky,KY,21,"Washington County, KY",12063,14.1-16
+21231,2015,Kentucky,KY,21,"Wayne County, KY",20464,18.1-20
+21233,2015,Kentucky,KY,21,"Webster County, KY",13170,18.1-20
+21235,2015,Kentucky,KY,21,"Whitley County, KY",36129,>30
+21237,2015,Kentucky,KY,21,"Wolfe County, KY",7259,>30
+21239,2015,Kentucky,KY,21,"Woodford County, KY",25793,22.1-24
+22001,2015,Louisiana,LA,22,"Acadia Parish, LA",62577,20.1-22
+22003,2015,Louisiana,LA,22,"Allen Parish, LA",25683,14.1-16
+22005,2015,Louisiana,LA,22,"Ascension Parish, LA",119455,14.1-16
+22007,2015,Louisiana,LA,22,"Assumption Parish, LA",22842,10.1-12
+22009,2015,Louisiana,LA,22,"Avoyelles Parish, LA",41103,14.1-16
+22011,2015,Louisiana,LA,22,"Beauregard Parish, LA",36462,14.1-16
+22013,2015,Louisiana,LA,22,"Bienville Parish, LA",13786,14.1-16
+22015,2015,Louisiana,LA,22,"Bossier Parish, LA",125175,12.1-14
+22017,2015,Louisiana,LA,22,"Caddo Parish, LA",251460,14.1-16
+22019,2015,Louisiana,LA,22,"Calcasieu Parish, LA",198788,20.1-22
+22021,2015,Louisiana,LA,22,"Caldwell Parish, LA",9993,14.1-16
+22023,2015,Louisiana,LA,22,"Cameron Parish, LA",6817,22.1-24
+22025,2015,Louisiana,LA,22,"Catahoula Parish, LA",10147,18.1-20
+22027,2015,Louisiana,LA,22,"Claiborne Parish, LA",16295,12.1-14
+22029,2015,Louisiana,LA,22,"Concordia Parish, LA",20142,12.1-14
+22031,2015,Louisiana,LA,22,"De Soto Parish, LA",27052,12.1-14
+22033,2015,Louisiana,LA,22,"East Baton Rouge Parish, LA",446753,10.1-12
+22035,2015,Louisiana,LA,22,"East Carroll Parish, LA",7307,10.1-12
+22037,2015,Louisiana,LA,22,"East Feliciana Parish, LA",19696,8.1-10
+22039,2015,Louisiana,LA,22,"Evangeline Parish, LA",33743,20.1-22
+22041,2015,Louisiana,LA,22,"Franklin Parish, LA",20410,10.1-12
+22043,2015,Louisiana,LA,22,"Grant Parish, LA",22343,14.1-16
+22045,2015,Louisiana,LA,22,"Iberia Parish, LA",74103,10.1-12
+22047,2015,Louisiana,LA,22,"Iberville Parish, LA",33095,10.1-12
+22049,2015,Louisiana,LA,22,"Jackson Parish, LA",15858,12.1-14
+22051,2015,Louisiana,LA,22,"Jefferson Parish, LA",436275,28.1-30
+22053,2015,Louisiana,LA,22,"Jefferson Davis Parish, LA",31439,18.1-20
+22055,2015,Louisiana,LA,22,"Lafayette Parish, LA",240098,16.1-18
+22057,2015,Louisiana,LA,22,"Lafourche Parish, LA",98325,14.1-16
+22059,2015,Louisiana,LA,22,"La Salle Parish, LA",14974,20.1-22
+22061,2015,Louisiana,LA,22,"Lincoln Parish, LA",47774,8.1-10
+22063,2015,Louisiana,LA,22,"Livingston Parish, LA",137788,26.1-28
+22065,2015,Louisiana,LA,22,"Madison Parish, LA",11514,10.1-12
+22067,2015,Louisiana,LA,22,"Morehouse Parish, LA",26395,12.1-14
+22069,2015,Louisiana,LA,22,"Natchitoches Parish, LA",39179,10.1-12
+22071,2015,Louisiana,LA,22,"Orleans Parish, LA",389617,14.1-16
+22073,2015,Louisiana,LA,22,"Ouachita Parish, LA",156761,12.1-14
+22075,2015,Louisiana,LA,22,"Plaquemines Parish, LA",23495,20.1-22
+22077,2015,Louisiana,LA,22,"Pointe Coupee Parish, LA",22251,12.1-14
+22079,2015,Louisiana,LA,22,"Rapides Parish, LA",132141,10.1-12
+22081,2015,Louisiana,LA,22,"Red River Parish, LA",8593,12.1-14
+22083,2015,Louisiana,LA,22,"Richland Parish, LA",20523,4.1-6
+22085,2015,Louisiana,LA,22,"Sabine Parish, LA",24186,12.1-14
+22087,2015,Louisiana,LA,22,"St. Bernard Parish, LA",45408,>30
+22089,2015,Louisiana,LA,22,"St. Charles Parish, LA",52812,18.1-20
+22091,2015,Louisiana,LA,22,"St. Helena Parish, LA",10567,22.1-24
+22093,2015,Louisiana,LA,22,"St. James Parish, LA",21567,8.1-10
+22095,2015,Louisiana,LA,22,"St. John the Baptist Parish, LA",43626,14.1-16
+22097,2015,Louisiana,LA,22,"St. Landry Parish, LA",83848,20.1-22
+22099,2015,Louisiana,LA,22,"St. Martin Parish, LA",53835,10.1-12
+22101,2015,Louisiana,LA,22,"St. Mary Parish, LA",52810,16.1-18
+22103,2015,Louisiana,LA,22,"St. Tammany Parish, LA",250088,28.1-30
+22105,2015,Louisiana,LA,22,"Tangipahoa Parish, LA",128755,20.1-22
+22107,2015,Louisiana,LA,22,"Tensas Parish, LA",4740,18.1-20
+22109,2015,Louisiana,LA,22,"Terrebonne Parish, LA",113972,18.1-20
+22111,2015,Louisiana,LA,22,"Union Parish, LA",22477,10.1-12
+22113,2015,Louisiana,LA,22,"Vermilion Parish, LA",59875,10.1-12
+22115,2015,Louisiana,LA,22,"Vernon Parish, LA",50803,8.1-10
+22117,2015,Louisiana,LA,22,"Washington Parish, LA",46371,24.1-26
+22119,2015,Louisiana,LA,22,"Webster Parish, LA",40021,16.1-18
+22121,2015,Louisiana,LA,22,"West Baton Rouge Parish, LA",25490,16.1-18
+22123,2015,Louisiana,LA,22,"West Carroll Parish, LA",11293,12.1-14
+22125,2015,Louisiana,LA,22,"West Feliciana Parish, LA",15385,10.1-12
+22127,2015,Louisiana,LA,22,"Winn Parish, LA",14568,20.1-22
+23001,2015,Maine,ME,23,"Androscoggin County, ME",107233,12.1-14
+23003,2015,Maine,ME,23,"Aroostook County, ME",68628,10.1-12
+23005,2015,Maine,ME,23,"Cumberland County, ME",289977,18.1-20
+23007,2015,Maine,ME,23,"Franklin County, ME",29991,12.1-14
+23009,2015,Maine,ME,23,"Hancock County, ME",54659,14.1-16
+23011,2015,Maine,ME,23,"Kennebec County, ME",119980,16.1-18
+23013,2015,Maine,ME,23,"Knox County, ME",39855,20.1-22
+23015,2015,Maine,ME,23,"Lincoln County, ME",33969,14.1-16
+23017,2015,Maine,ME,23,"Oxford County, ME",57202,12.1-14
+23019,2015,Maine,ME,23,"Penobscot County, ME",152692,18.1-20
+23021,2015,Maine,ME,23,"Piscataquis County, ME",16931,16.1-18
+23023,2015,Maine,ME,23,"Sagadahoc County, ME",35149,10.1-12
+23025,2015,Maine,ME,23,"Somerset County, ME",51113,14.1-16
+23027,2015,Maine,ME,23,"Waldo County, ME",39155,14.1-16
+23029,2015,Maine,ME,23,"Washington County, ME",31625,22.1-24
+23031,2015,Maine,ME,23,"York County, ME",201169,16.1-18
+24001,2015,Maryland,MD,24,"Allegany County, MD",72528,20.1-22
+24003,2015,Maryland,MD,24,"Anne Arundel County, MD",564195,18.1-20
+24005,2015,Maryland,MD,24,"Baltimore County, MD",831128,24.1-26
+24009,2015,Maryland,MD,24,"Calvert County, MD",90595,16.1-18
+24011,2015,Maryland,MD,24,"Caroline County, MD",32579,16.1-18
+24013,2015,Maryland,MD,24,"Carroll County, MD",167627,20.1-22
+24015,2015,Maryland,MD,24,"Cecil County, MD",102382,28.1-30
+24017,2015,Maryland,MD,24,"Charles County, MD",156118,12.1-14
+24019,2015,Maryland,MD,24,"Dorchester County, MD",32384,16.1-18
+24021,2015,Maryland,MD,24,"Frederick County, MD",245322,12.1-14
+24023,2015,Maryland,MD,24,"Garrett County, MD",29460,10.1-12
+24025,2015,Maryland,MD,24,"Harford County, MD",250290,20.1-22
+24027,2015,Maryland,MD,24,"Howard County, MD",313414,10.1-12
+24029,2015,Maryland,MD,24,"Kent County, MD",19787,16.1-18
+24031,2015,Maryland,MD,24,"Montgomery County, MD",1040116,6.1-8
+24033,2015,Maryland,MD,24,"Prince George's County, MD",909535,8.1-10
+24035,2015,Maryland,MD,24,"Queen Anne's County, MD",48904,16.1-18
+24037,2015,Maryland,MD,24,"St. Mary's County, MD",111413,12.1-14
+24039,2015,Maryland,MD,24,"Somerset County, MD",25768,18.1-20
+24041,2015,Maryland,MD,24,"Talbot County, MD",37512,14.1-16
+24043,2015,Maryland,MD,24,"Washington County, MD",149585,16.1-18
+24045,2015,Maryland,MD,24,"Wicomico County, MD",102370,14.1-16
+24047,2015,Maryland,MD,24,"Worcester County, MD",51540,22.1-24
+24510,2015,Maryland,MD,24,"Baltimore city, MD",621849,>30
+25001,2015,Massachusetts,MA,25,"Barnstable County, MA",214333,24.1-26
+25003,2015,Massachusetts,MA,25,"Berkshire County, MA",127828,18.1-20
+25005,2015,Massachusetts,MA,25,"Bristol County, MA",556772,26.1-28
+25007,2015,Massachusetts,MA,25,"Dukes County, MA",17299,16.1-18
+25009,2015,Massachusetts,MA,25,"Essex County, MA",776043,20.1-22
+25011,2015,Massachusetts,MA,25,"Franklin County, MA",70601,12.1-14
+25013,2015,Massachusetts,MA,25,"Hampden County, MA",470690,20.1-22
+25015,2015,Massachusetts,MA,25,"Hampshire County, MA",161292,14.1-16
+25017,2015,Massachusetts,MA,25,"Middlesex County, MA",1585139,14.1-16
+25019,2015,Massachusetts,MA,25,"Nantucket County, MA",10925,12.1-14
+25021,2015,Massachusetts,MA,25,"Norfolk County, MA",696023,16.1-18
+25023,2015,Massachusetts,MA,25,"Plymouth County, MA",510393,20.1-22
+25025,2015,Massachusetts,MA,25,"Suffolk County, MA",778121,24.1-26
+25027,2015,Massachusetts,MA,25,"Worcester County, MA",818963,18.1-20
+26001,2015,Michigan,MI,26,"Alcona County, MI",10349,24.1-26
+26003,2015,Michigan,MI,26,"Alger County, MI",9383,20.1-22
+26005,2015,Michigan,MI,26,"Allegan County, MI",114625,12.1-14
+26007,2015,Michigan,MI,26,"Alpena County, MI",28803,16.1-18
+26009,2015,Michigan,MI,26,"Antrim County, MI",23154,16.1-18
+26011,2015,Michigan,MI,26,"Arenac County, MI",15261,16.1-18
+26013,2015,Michigan,MI,26,"Baraga County, MI",8575,14.1-16
+26015,2015,Michigan,MI,26,"Barry County, MI",59314,12.1-14
+26017,2015,Michigan,MI,26,"Bay County, MI",105659,16.1-18
+26019,2015,Michigan,MI,26,"Benzie County, MI",17457,16.1-18
+26021,2015,Michigan,MI,26,"Berrien County, MI",154636,16.1-18
+26023,2015,Michigan,MI,26,"Branch County, MI",43664,12.1-14
+26025,2015,Michigan,MI,26,"Calhoun County, MI",134314,26.1-28
+26027,2015,Michigan,MI,26,"Cass County, MI",51657,12.1-14
+26029,2015,Michigan,MI,26,"Charlevoix County, MI",26238,12.1-14
+26031,2015,Michigan,MI,26,"Cheboygan County, MI",25427,16.1-18
+26033,2015,Michigan,MI,26,"Chippewa County, MI",38033,12.1-14
+26035,2015,Michigan,MI,26,"Clare County, MI",30553,24.1-26
+26037,2015,Michigan,MI,26,"Clinton County, MI",77390,8.1-10
+26039,2015,Michigan,MI,26,"Crawford County, MI",13801,24.1-26
+26041,2015,Michigan,MI,26,"Delta County, MI",36377,8.1-10
+26043,2015,Michigan,MI,26,"Dickinson County, MI",25788,16.1-18
+26045,2015,Michigan,MI,26,"Eaton County, MI",108801,10.1-12
+26047,2015,Michigan,MI,26,"Emmet County, MI",33161,12.1-14
+26049,2015,Michigan,MI,26,"Genesee County, MI",410849,18.1-20
+26051,2015,Michigan,MI,26,"Gladwin County, MI",25164,22.1-24
+26053,2015,Michigan,MI,26,"Gogebic County, MI",15431,18.1-20
+26055,2015,Michigan,MI,26,"Grand Traverse County, MI",91636,14.1-16
+26057,2015,Michigan,MI,26,"Gratiot County, MI",41540,8.1-10
+26059,2015,Michigan,MI,26,"Hillsdale County, MI",45941,12.1-14
+26061,2015,Michigan,MI,26,"Houghton County, MI",36380,8.1-10
+26063,2015,Michigan,MI,26,"Huron County, MI",31883,10.1-12
+26065,2015,Michigan,MI,26,"Ingham County, MI",286085,14.1-16
+26067,2015,Michigan,MI,26,"Ionia County, MI",64223,10.1-12
+26069,2015,Michigan,MI,26,"Iosco County, MI",25345,20.1-22
+26071,2015,Michigan,MI,26,"Iron County, MI",11348,14.1-16
+26073,2015,Michigan,MI,26,"Isabella County, MI",70698,12.1-14
+26075,2015,Michigan,MI,26,"Jackson County, MI",159494,8.1-10
+26077,2015,Michigan,MI,26,"Kalamazoo County, MI",260263,14.1-16
+26079,2015,Michigan,MI,26,"Kalkaska County, MI",17260,16.1-18
+26081,2015,Michigan,MI,26,"Kent County, MI",636369,12.1-14
+26083,2015,Michigan,MI,26,"Keweenaw County, MI",2168,12.1-14
+26085,2015,Michigan,MI,26,"Lake County, MI",11424,20.1-22
+26087,2015,Michigan,MI,26,"Lapeer County, MI",88373,12.1-14
+26089,2015,Michigan,MI,26,"Leelanau County, MI",21981,10.1-12
+26091,2015,Michigan,MI,26,"Lenawee County, MI",98573,8.1-10
+26093,2015,Michigan,MI,26,"Livingston County, MI",187316,12.1-14
+26095,2015,Michigan,MI,26,"Luce County, MI",6415,18.1-20
+26097,2015,Michigan,MI,26,"Mackinac County, MI",10890,14.1-16
+26099,2015,Michigan,MI,26,"Macomb County, MI",864840,22.1-24
+26101,2015,Michigan,MI,26,"Manistee County, MI",24461,20.1-22
+26103,2015,Michigan,MI,26,"Marquette County, MI",67215,16.1-18
+26105,2015,Michigan,MI,26,"Mason County, MI",28783,14.1-16
+26107,2015,Michigan,MI,26,"Mecosta County, MI",43067,10.1-12
+26109,2015,Michigan,MI,26,"Menominee County, MI",23548,14.1-16
+26111,2015,Michigan,MI,26,"Midland County, MI",83632,10.1-12
+26113,2015,Michigan,MI,26,"Missaukee County, MI",14903,18.1-20
+26115,2015,Michigan,MI,26,"Monroe County, MI",149568,18.1-20
+26117,2015,Michigan,MI,26,"Montcalm County, MI",62945,14.1-16
+26119,2015,Michigan,MI,26,"Montmorency County, MI",9259,26.1-28
+26121,2015,Michigan,MI,26,"Muskegon County, MI",172790,18.1-20
+26123,2015,Michigan,MI,26,"Newaygo County, MI",47948,14.1-16
+26125,2015,Michigan,MI,26,"Oakland County, MI",1242304,10.1-12
+26127,2015,Michigan,MI,26,"Oceana County, MI",26105,16.1-18
+26129,2015,Michigan,MI,26,"Ogemaw County, MI",20937,20.1-22
+26131,2015,Michigan,MI,26,"Ontonagon County, MI",6007,>30
+26133,2015,Michigan,MI,26,"Osceola County, MI",23058,12.1-14
+26135,2015,Michigan,MI,26,"Oscoda County, MI",8251,24.1-26
+26137,2015,Michigan,MI,26,"Otsego County, MI",24253,18.1-20
+26139,2015,Michigan,MI,26,"Ottawa County, MI",279955,10.1-12
+26141,2015,Michigan,MI,26,"Presque Isle County, MI",12841,22.1-24
+26143,2015,Michigan,MI,26,"Roscommon County, MI",23898,26.1-28
+26145,2015,Michigan,MI,26,"Saginaw County, MI",193307,16.1-18
+26147,2015,Michigan,MI,26,"St. Clair County, MI",159875,20.1-22
+26149,2015,Michigan,MI,26,"St. Joseph County, MI",61018,12.1-14
+26151,2015,Michigan,MI,26,"Sanilac County, MI",41475,12.1-14
+26153,2015,Michigan,MI,26,"Schoolcraft County, MI",8173,>30
+26155,2015,Michigan,MI,26,"Shiawassee County, MI",68619,16.1-18
+26157,2015,Michigan,MI,26,"Tuscola County, MI",53777,12.1-14
+26159,2015,Michigan,MI,26,"Van Buren County, MI",75077,18.1-20
+26161,2015,Michigan,MI,26,"Washtenaw County, MI",358880,10.1-12
+26163,2015,Michigan,MI,26,"Wayne County, MI",1759335,22.1-24
+26165,2015,Michigan,MI,26,"Wexford County, MI",33003,16.1-18
+27001,2015,Minnesota,MN,27,"Aitkin County, MN",15702,18.1-20
+27003,2015,Minnesota,MN,27,"Anoka County, MN",344151,8.1-10
+27005,2015,Minnesota,MN,27,"Becker County, MN",33386,10.1-12
+27007,2015,Minnesota,MN,27,"Beltrami County, MN",45672,12.1-14
+27009,2015,Minnesota,MN,27,"Benton County, MN",39710,10.1-12
+27011,2015,Minnesota,MN,27,"Big Stone County, MN",5040,18.1-20
+27013,2015,Minnesota,MN,27,"Blue Earth County, MN",65787,4.1-6
+27015,2015,Minnesota,MN,27,"Brown County, MN",25313,6.1-8
+27017,2015,Minnesota,MN,27,"Carlton County, MN",35569,14.1-16
+27019,2015,Minnesota,MN,27,"Carver County, MN",98741,4.1-6
+27021,2015,Minnesota,MN,27,"Cass County, MN",28706,20.1-22
+27023,2015,Minnesota,MN,27,"Chippewa County, MN",12109,8.1-10
+27025,2015,Minnesota,MN,27,"Chisago County, MN",54293,8.1-10
+27027,2015,Minnesota,MN,27,"Clay County, MN",62324,12.1-14
+27029,2015,Minnesota,MN,27,"Clearwater County, MN",8803,14.1-16
+27031,2015,Minnesota,MN,27,"Cook County, MN",5194,10.1-12
+27033,2015,Minnesota,MN,27,"Cottonwood County, MN",11549,12.1-14
+27035,2015,Minnesota,MN,27,"Crow Wing County, MN",63428,10.1-12
+27037,2015,Minnesota,MN,27,"Dakota County, MN",414686,6.1-8
+27039,2015,Minnesota,MN,27,"Dodge County, MN",20364,6.1-8
+27041,2015,Minnesota,MN,27,"Douglas County, MN",37075,8.1-10
+27043,2015,Minnesota,MN,27,"Faribault County, MN",14050,10.1-12
+27045,2015,Minnesota,MN,27,"Fillmore County, MN",20834,6.1-8
+27047,2015,Minnesota,MN,27,"Freeborn County, MN",30613,6.1-8
+27049,2015,Minnesota,MN,27,"Goodhue County, MN",46435,6.1-8
+27051,2015,Minnesota,MN,27,"Grant County, MN",5903,6.1-8
+27053,2015,Minnesota,MN,27,"Hennepin County, MN",1223149,12.1-14
+27055,2015,Minnesota,MN,27,"Houston County, MN",18773,8.1-10
+27057,2015,Minnesota,MN,27,"Hubbard County, MN",20655,12.1-14
+27059,2015,Minnesota,MN,27,"Isanti County, MN",38429,8.1-10
+27061,2015,Minnesota,MN,27,"Itasca County, MN",45435,12.1-14
+27063,2015,Minnesota,MN,27,"Jackson County, MN",10079,8.1-10
+27065,2015,Minnesota,MN,27,"Kanabec County, MN",15837,8.1-10
+27067,2015,Minnesota,MN,27,"Kandiyohi County, MN",42542,6.1-8
+27069,2015,Minnesota,MN,27,"Kittson County, MN",4424,4.1-6
+27071,2015,Minnesota,MN,27,"Koochiching County, MN",12841,14.1-16
+27073,2015,Minnesota,MN,27,"Lac qui Parle County, MN",6856,10.1-12
+27075,2015,Minnesota,MN,27,"Lake County, MN",10631,10.1-12
+27077,2015,Minnesota,MN,27,"Lake of the Woods County, MN",3923,12.1-14
+27079,2015,Minnesota,MN,27,"Le Sueur County, MN",27663,6.1-8
+27081,2015,Minnesota,MN,27,"Lincoln County, MN",5771,14.1-16
+27083,2015,Minnesota,MN,27,"Lyon County, MN",25673,6.1-8
+27085,2015,Minnesota,MN,27,"McLeod County, MN",35932,8.1-10
+27087,2015,Minnesota,MN,27,"Mahnomen County, MN",5457,24.1-26
+27089,2015,Minnesota,MN,27,"Marshall County, MN",9423,8.1-10
+27091,2015,Minnesota,MN,27,"Martin County, MN",20022,8.1-10
+27093,2015,Minnesota,MN,27,"Meeker County, MN",23102,8.1-10
+27095,2015,Minnesota,MN,27,"Mille Lacs County, MN",25788,12.1-14
+27097,2015,Minnesota,MN,27,"Morrison County, MN",32775,8.1-10
+27099,2015,Minnesota,MN,27,"Mower County, MN",39116,8.1-10
+27101,2015,Minnesota,MN,27,"Murray County, MN",8413,8.1-10
+27103,2015,Minnesota,MN,27,"Nicollet County, MN",33347,6.1-8
+27105,2015,Minnesota,MN,27,"Nobles County, MN",21770,4.1-6
+27107,2015,Minnesota,MN,27,"Norman County, MN",6678,8.1-10
+27109,2015,Minnesota,MN,27,"Olmsted County, MN",151436,6.1-8
+27111,2015,Minnesota,MN,27,"Otter Tail County, MN",57716,6.1-8
+27113,2015,Minnesota,MN,27,"Pennington County, MN",14219,12.1-14
+27115,2015,Minnesota,MN,27,"Pine County, MN",29069,10.1-12
+27117,2015,Minnesota,MN,27,"Pipestone County, MN",9271,6.1-8
+27119,2015,Minnesota,MN,27,"Polk County, MN",31533,12.1-14
+27121,2015,Minnesota,MN,27,"Pope County, MN",11041,10.1-12
+27123,2015,Minnesota,MN,27,"Ramsey County, MN",538133,12.1-14
+27125,2015,Minnesota,MN,27,"Red Lake County, MN",4055,6.1-8
+27127,2015,Minnesota,MN,27,"Redwood County, MN",15471,10.1-12
+27129,2015,Minnesota,MN,27,"Renville County, MN",14892,10.1-12
+27131,2015,Minnesota,MN,27,"Rice County, MN",65400,6.1-8
+27133,2015,Minnesota,MN,27,"Rock County, MN",9600,8.1-10
+27135,2015,Minnesota,MN,27,"Roseau County, MN",15770,8.1-10
+27137,2015,Minnesota,MN,27,"St. Louis County, MN",200431,14.1-16
+27139,2015,Minnesota,MN,27,"Scott County, MN",141660,4.1-6
+27141,2015,Minnesota,MN,27,"Sherburne County, MN",91705,8.1-10
+27143,2015,Minnesota,MN,27,"Sibley County, MN",14875,8.1-10
+27145,2015,Minnesota,MN,27,"Stearns County, MN",154708,8.1-10
+27147,2015,Minnesota,MN,27,"Steele County, MN",36755,6.1-8
+27149,2015,Minnesota,MN,27,"Stevens County, MN",9796,12.1-14
+27151,2015,Minnesota,MN,27,"Swift County, MN",9340,8.1-10
+27153,2015,Minnesota,MN,27,"Todd County, MN",24257,6.1-8
+27155,2015,Minnesota,MN,27,"Traverse County, MN",3401,16.1-18
+27157,2015,Minnesota,MN,27,"Wabasha County, MN",21239,10.1-12
+27159,2015,Minnesota,MN,27,"Wadena County, MN",13875,12.1-14
+27161,2015,Minnesota,MN,27,"Waseca County, MN",18989,8.1-10
+27163,2015,Minnesota,MN,27,"Washington County, MN",251597,6.1-8
+27165,2015,Minnesota,MN,27,"Watonwan County, MN",10952,6.1-8
+27167,2015,Minnesota,MN,27,"Wilkin County, MN",6396,8.1-10
+27169,2015,Minnesota,MN,27,"Winona County, MN",50885,10.1-12
+27171,2015,Minnesota,MN,27,"Wright County, MN",131311,6.1-8
+27173,2015,Minnesota,MN,27,"Yellow Medicine County, MN",9875,8.1-10
+28001,2015,Mississippi,MS,28,"Adams County, MS",31254,12.1-14
+28003,2015,Mississippi,MS,28,"Alcorn County, MS",37388,16.1-18
+28005,2015,Mississippi,MS,28,"Amite County, MS",12574,12.1-14
+28007,2015,Mississippi,MS,28,"Attala County, MS",19043,12.1-14
+28009,2015,Mississippi,MS,28,"Benton County, MS",8182,10.1-12
+28011,2015,Mississippi,MS,28,"Bolivar County, MS",33322,6.1-8
+28013,2015,Mississippi,MS,28,"Calhoun County, MS",14717,12.1-14
+28015,2015,Mississippi,MS,28,"Carroll County, MS",10243,8.1-10
+28017,2015,Mississippi,MS,28,"Chickasaw County, MS",17328,10.1-12
+28019,2015,Mississippi,MS,28,"Choctaw County, MS",8299,12.1-14
+28021,2015,Mississippi,MS,28,"Claiborne County, MS",9150,8.1-10
+28023,2015,Mississippi,MS,28,"Clarke County, MS",16006,14.1-16
+28025,2015,Mississippi,MS,28,"Clay County, MS",20048,6.1-8
+28027,2015,Mississippi,MS,28,"Coahoma County, MS",24620,14.1-16
+28029,2015,Mississippi,MS,28,"Copiah County, MS",28773,10.1-12
+28031,2015,Mississippi,MS,28,"Covington County, MS",19543,12.1-14
+28033,2015,Mississippi,MS,28,"DeSoto County, MS",173323,12.1-14
+28035,2015,Mississippi,MS,28,"Forrest County, MS",75944,12.1-14
+28037,2015,Mississippi,MS,28,"Franklin County, MS",7743,18.1-20
+28039,2015,Mississippi,MS,28,"George County, MS",23373,22.1-24
+28041,2015,Mississippi,MS,28,"Greene County, MS",13522,8.1-10
+28043,2015,Mississippi,MS,28,"Grenada County, MS",21578,8.1-10
+28045,2015,Mississippi,MS,28,"Hancock County, MS",46420,>30
+28047,2015,Mississippi,MS,28,"Harrison County, MS",201410,24.1-26
+28049,2015,Mississippi,MS,28,"Hinds County, MS",242891,6.1-8
+28051,2015,Mississippi,MS,28,"Holmes County, MS",18340,8.1-10
+28053,2015,Mississippi,MS,28,"Humphreys County, MS",8669,6.1-8
+28055,2015,Mississippi,MS,28,"Issaquena County, MS",1337,12.1-14
+28057,2015,Mississippi,MS,28,"Itawamba County, MS",23609,16.1-18
+28059,2015,Mississippi,MS,28,"Jackson County, MS",141425,24.1-26
+28061,2015,Mississippi,MS,28,"Jasper County, MS",16569,10.1-12
+28063,2015,Mississippi,MS,28,"Jefferson County, MS",7507,4.1-6
+28065,2015,Mississippi,MS,28,"Jefferson Davis County, MS",11665,10.1-12
+28067,2015,Mississippi,MS,28,"Jones County, MS",68215,8.1-10
+28069,2015,Mississippi,MS,28,"Kemper County, MS",9969,8.1-10
+28071,2015,Mississippi,MS,28,"Lafayette County, MS",53154,10.1-12
+28073,2015,Mississippi,MS,28,"Lamar County, MS",60618,10.1-12
+28075,2015,Mississippi,MS,28,"Lauderdale County, MS",78524,10.1-12
+28077,2015,Mississippi,MS,28,"Lawrence County, MS",12622,12.1-14
+28079,2015,Mississippi,MS,28,"Leake County, MS",22763,10.1-12
+28081,2015,Mississippi,MS,28,"Lee County, MS",85300,12.1-14
+28083,2015,Mississippi,MS,28,"Leflore County, MS",30999,8.1-10
+28085,2015,Mississippi,MS,28,"Lincoln County, MS",34649,8.1-10
+28087,2015,Mississippi,MS,28,"Lowndes County, MS",59710,10.1-12
+28089,2015,Mississippi,MS,28,"Madison County, MS",103465,6.1-8
+28091,2015,Mississippi,MS,28,"Marion County, MS",25563,22.1-24
+28093,2015,Mississippi,MS,28,"Marshall County, MS",35916,8.1-10
+28095,2015,Mississippi,MS,28,"Monroe County, MS",35827,8.1-10
+28097,2015,Mississippi,MS,28,"Montgomery County, MS",10152,16.1-18
+28099,2015,Mississippi,MS,28,"Neshoba County, MS",29463,14.1-16
+28101,2015,Mississippi,MS,28,"Newton County, MS",21747,10.1-12
+28103,2015,Mississippi,MS,28,"Noxubee County, MS",11043,4.1-6
+28105,2015,Mississippi,MS,28,"Oktibbeha County, MS",49800,4.1-6
+28107,2015,Mississippi,MS,28,"Panola County, MS",34167,14.1-16
+28109,2015,Mississippi,MS,28,"Pearl River County, MS",55191,>30
+28111,2015,Mississippi,MS,28,"Perry County, MS",12277,14.1-16
+28113,2015,Mississippi,MS,28,"Pike County, MS",39956,10.1-12
+28115,2015,Mississippi,MS,28,"Pontotoc County, MS",30908,16.1-18
+28117,2015,Mississippi,MS,28,"Prentiss County, MS",25459,12.1-14
+28119,2015,Mississippi,MS,28,"Quitman County, MS",7486,20.1-22
+28121,2015,Mississippi,MS,28,"Rankin County, MS",149039,12.1-14
+28123,2015,Mississippi,MS,28,"Scott County, MS",28265,8.1-10
+28125,2015,Mississippi,MS,28,"Sharkey County, MS",4585,6.1-8
+28127,2015,Mississippi,MS,28,"Simpson County, MS",27222,14.1-16
+28129,2015,Mississippi,MS,28,"Smith County, MS",16059,10.1-12
+28131,2015,Mississippi,MS,28,"Stone County, MS",18070,18.1-20
+28133,2015,Mississippi,MS,28,"Sunflower County, MS",27005,4.1-6
+28135,2015,Mississippi,MS,28,"Tallahatchie County, MS",14588,8.1-10
+28137,2015,Mississippi,MS,28,"Tate County, MS",28296,14.1-16
+28139,2015,Mississippi,MS,28,"Tippah County, MS",22131,10.1-12
+28141,2015,Mississippi,MS,28,"Tishomingo County, MS",19552,26.1-28
+28143,2015,Mississippi,MS,28,"Tunica County, MS",10343,8.1-10
+28145,2015,Mississippi,MS,28,"Union County, MS",28429,8.1-10
+28147,2015,Mississippi,MS,28,"Walthall County, MS",14638,14.1-16
+28149,2015,Mississippi,MS,28,"Warren County, MS",47485,10.1-12
+28151,2015,Mississippi,MS,28,"Washington County, MS",48130,6.1-8
+28153,2015,Mississippi,MS,28,"Wayne County, MS",20566,14.1-16
+28155,2015,Mississippi,MS,28,"Webster County, MS",9899,14.1-16
+28157,2015,Mississippi,MS,28,"Wilkinson County, MS",9122,8.1-10
+28159,2015,Mississippi,MS,28,"Winston County, MS",18317,14.1-16
+28161,2015,Mississippi,MS,28,"Yalobusha County, MS",12447,12.1-14
+28163,2015,Mississippi,MS,28,"Yazoo County, MS",27387,10.1-12
+29001,2015,Missouri,MO,29,"Adair County, MO",25378,14.1-16
+29003,2015,Missouri,MO,29,"Andrew County, MO",17296,6.1-8
+29005,2015,Missouri,MO,29,"Atchison County, MO",5306,6.1-8
+29007,2015,Missouri,MO,29,"Audrain County, MO",26096,14.1-16
+29009,2015,Missouri,MO,29,"Barry County, MO",35829,14.1-16
+29011,2015,Missouri,MO,29,"Barton County, MO",11880,14.1-16
+29013,2015,Missouri,MO,29,"Bates County, MO",16446,20.1-22
+29015,2015,Missouri,MO,29,"Benton County, MO",18670,20.1-22
+29017,2015,Missouri,MO,29,"Bollinger County, MO",12182,12.1-14
+29019,2015,Missouri,MO,29,"Boone County, MO",174974,14.1-16
+29021,2015,Missouri,MO,29,"Buchanan County, MO",89100,12.1-14
+29023,2015,Missouri,MO,29,"Butler County, MO",42951,24.1-26
+29025,2015,Missouri,MO,29,"Caldwell County, MO",9014,18.1-20
+29027,2015,Missouri,MO,29,"Callaway County, MO",44834,16.1-18
+29029,2015,Missouri,MO,29,"Camden County, MO",44237,24.1-26
+29031,2015,Missouri,MO,29,"Cape Girardeau County, MO",78572,12.1-14
+29033,2015,Missouri,MO,29,"Carroll County, MO",8992,16.1-18
+29035,2015,Missouri,MO,29,"Carter County, MO",6263,26.1-28
+29037,2015,Missouri,MO,29,"Cass County, MO",101603,10.1-12
+29039,2015,Missouri,MO,29,"Cedar County, MO",13934,18.1-20
+29041,2015,Missouri,MO,29,"Chariton County, MO",7589,16.1-18
+29043,2015,Missouri,MO,29,"Christian County, MO",83279,14.1-16
+29045,2015,Missouri,MO,29,"Clark County, MO",6801,12.1-14
+29047,2015,Missouri,MO,29,"Clay County, MO",235637,12.1-14
+29049,2015,Missouri,MO,29,"Clinton County, MO",20609,18.1-20
+29051,2015,Missouri,MO,29,"Cole County, MO",76720,10.1-12
+29053,2015,Missouri,MO,29,"Cooper County, MO",17642,12.1-14
+29055,2015,Missouri,MO,29,"Crawford County, MO",24526,20.1-22
+29057,2015,Missouri,MO,29,"Dade County, MO",7595,18.1-20
+29059,2015,Missouri,MO,29,"Dallas County, MO",16393,20.1-22
+29061,2015,Missouri,MO,29,"Daviess County, MO",8253,12.1-14
+29063,2015,Missouri,MO,29,"DeKalb County, MO",12687,8.1-10
+29065,2015,Missouri,MO,29,"Dent County, MO",15593,28.1-30
+29067,2015,Missouri,MO,29,"Douglas County, MO",13373,12.1-14
+29069,2015,Missouri,MO,29,"Dunklin County, MO",30895,20.1-22
+29071,2015,Missouri,MO,29,"Franklin County, MO",102426,20.1-22
+29073,2015,Missouri,MO,29,"Gasconade County, MO",14858,18.1-20
+29075,2015,Missouri,MO,29,"Gentry County, MO",6692,14.1-16
+29077,2015,Missouri,MO,29,"Greene County, MO",288072,28.1-30
+29079,2015,Missouri,MO,29,"Grundy County, MO",10097,14.1-16
+29081,2015,Missouri,MO,29,"Harrison County, MO",8615,20.1-22
+29083,2015,Missouri,MO,29,"Henry County, MO",21737,12.1-14
+29085,2015,Missouri,MO,29,"Hickory County, MO",9201,22.1-24
+29087,2015,Missouri,MO,29,"Holt County, MO",4484,12.1-14
+29089,2015,Missouri,MO,29,"Howard County, MO",10139,8.1-10
+29091,2015,Missouri,MO,29,"Howell County, MO",40117,22.1-24
+29093,2015,Missouri,MO,29,"Iron County, MO",10125,28.1-30
+29095,2015,Missouri,MO,29,"Jackson County, MO",687623,18.1-20
+29097,2015,Missouri,MO,29,"Jasper County, MO",118596,12.1-14
+29099,2015,Missouri,MO,29,"Jefferson County, MO",224124,22.1-24
+29101,2015,Missouri,MO,29,"Johnson County, MO",53951,6.1-8
+29103,2015,Missouri,MO,29,"Knox County, MO",3910,20.1-22
+29105,2015,Missouri,MO,29,"Laclede County, MO",35473,8.1-10
+29107,2015,Missouri,MO,29,"Lafayette County, MO",32701,10.1-12
+29109,2015,Missouri,MO,29,"Lawrence County, MO",38180,16.1-18
+29111,2015,Missouri,MO,29,"Lewis County, MO",10207,14.1-16
+29113,2015,Missouri,MO,29,"Lincoln County, MO",54696,14.1-16
+29115,2015,Missouri,MO,29,"Linn County, MO",12308,12.1-14
+29117,2015,Missouri,MO,29,"Livingston County, MO",15028,18.1-20
+29119,2015,Missouri,MO,29,"McDonald County, MO",22643,14.1-16
+29121,2015,Missouri,MO,29,"Macon County, MO",15335,16.1-18
+29123,2015,Missouri,MO,29,"Madison County, MO",12408,28.1-30
+29125,2015,Missouri,MO,29,"Maries County, MO",8963,18.1-20
+29127,2015,Missouri,MO,29,"Marion County, MO",28880,16.1-18
+29129,2015,Missouri,MO,29,"Mercer County, MO",3694,14.1-16
+29131,2015,Missouri,MO,29,"Miller County, MO",25113,14.1-16
+29133,2015,Missouri,MO,29,"Mississippi County, MO",14036,14.1-16
+29135,2015,Missouri,MO,29,"Moniteau County, MO",15963,10.1-12
+29137,2015,Missouri,MO,29,"Monroe County, MO",8583,16.1-18
+29139,2015,Missouri,MO,29,"Montgomery County, MO",11703,22.1-24
+29141,2015,Missouri,MO,29,"Morgan County, MO",20171,16.1-18
+29143,2015,Missouri,MO,29,"New Madrid County, MO",18208,12.1-14
+29145,2015,Missouri,MO,29,"Newton County, MO",58615,10.1-12
+29147,2015,Missouri,MO,29,"Nodaway County, MO",22810,6.1-8
+29149,2015,Missouri,MO,29,"Oregon County, MO",10953,22.1-24
+29151,2015,Missouri,MO,29,"Osage County, MO",13628,14.1-16
+29153,2015,Missouri,MO,29,"Ozark County, MO",9409,>30
+29155,2015,Missouri,MO,29,"Pemiscot County, MO",17482,26.1-28
+29157,2015,Missouri,MO,29,"Perry County, MO",19183,12.1-14
+29159,2015,Missouri,MO,29,"Pettis County, MO",42255,12.1-14
+29161,2015,Missouri,MO,29,"Phelps County, MO",44794,16.1-18
+29163,2015,Missouri,MO,29,"Pike County, MO",18348,12.1-14
+29165,2015,Missouri,MO,29,"Platte County, MO",96096,12.1-14
+29167,2015,Missouri,MO,29,"Polk County, MO",31229,20.1-22
+29169,2015,Missouri,MO,29,"Pulaski County, MO",53221,20.1-22
+29171,2015,Missouri,MO,29,"Putnam County, MO",4858,12.1-14
+29173,2015,Missouri,MO,29,"Ralls County, MO",10196,8.1-10
+29175,2015,Missouri,MO,29,"Randolph County, MO",25104,14.1-16
+29177,2015,Missouri,MO,29,"Ray County, MO",22810,14.1-16
+29179,2015,Missouri,MO,29,"Reynolds County, MO",6432,28.1-30
+29181,2015,Missouri,MO,29,"Ripley County, MO",13802,18.1-20
+29183,2015,Missouri,MO,29,"St. Charles County, MO",385590,14.1-16
+29185,2015,Missouri,MO,29,"St. Clair County, MO",9440,12.1-14
+29186,2015,Missouri,MO,29,"Ste. Genevieve County, MO",17919,22.1-24
+29187,2015,Missouri,MO,29,"St. Francois County, MO",66520,>30
+29189,2015,Missouri,MO,29,"St. Louis County, MO",1003362,16.1-18
+29195,2015,Missouri,MO,29,"Saline County, MO",23258,14.1-16
+29197,2015,Missouri,MO,29,"Schuyler County, MO",4436,14.1-16
+29199,2015,Missouri,MO,29,"Scotland County, MO",4854,14.1-16
+29201,2015,Missouri,MO,29,"Scott County, MO",39008,16.1-18
+29203,2015,Missouri,MO,29,"Shannon County, MO",8258,20.1-22
+29205,2015,Missouri,MO,29,"Shelby County, MO",6128,20.1-22
+29207,2015,Missouri,MO,29,"Stoddard County, MO",29862,14.1-16
+29209,2015,Missouri,MO,29,"Stone County, MO",30943,16.1-18
+29211,2015,Missouri,MO,29,"Sullivan County, MO",6353,14.1-16
+29213,2015,Missouri,MO,29,"Taney County, MO",54592,14.1-16
+29215,2015,Missouri,MO,29,"Texas County, MO",25690,12.1-14
+29217,2015,Missouri,MO,29,"Vernon County, MO",20826,16.1-18
+29219,2015,Missouri,MO,29,"Warren County, MO",33513,20.1-22
+29221,2015,Missouri,MO,29,"Washington County, MO",24788,22.1-24
+29223,2015,Missouri,MO,29,"Wayne County, MO",13405,26.1-28
+29225,2015,Missouri,MO,29,"Webster County, MO",37483,16.1-18
+29227,2015,Missouri,MO,29,"Worth County, MO",2057,10.1-12
+29229,2015,Missouri,MO,29,"Wright County, MO",18268,10.1-12
+29510,2015,Missouri,MO,29,"St. Louis city, MO",315685,28.1-30
+30001,2015,Montana,MT,30,"Beaverhead County, MT",9300,14.1-16
+30003,2015,Montana,MT,30,"Big Horn County, MT",13242,16.1-18
+30005,2015,Montana,MT,30,"Blaine County, MT",6577,12.1-14
+30007,2015,Montana,MT,30,"Broadwater County, MT",5689,20.1-22
+30009,2015,Montana,MT,30,"Carbon County, MT",10408,18.1-20
+30011,2015,Montana,MT,30,"Carter County, MT",1180,4.1-6
+30013,2015,Montana,MT,30,"Cascade County, MT",82278,16.1-18
+30015,2015,Montana,MT,30,"Chouteau County, MT",5767,18.1-20
+30017,2015,Montana,MT,30,"Custer County, MT",12135,22.1-24
+30019,2015,Montana,MT,30,"Daniels County, MT",1760,>30
+30021,2015,Montana,MT,30,"Dawson County, MT",9625,16.1-18
+30023,2015,Montana,MT,30,"Deer Lodge County, MT",9139,28.1-30
+30025,2015,Montana,MT,30,"Fallon County, MT",3190,8.1-10
+30027,2015,Montana,MT,30,"Fergus County, MT",11427,18.1-20
+30029,2015,Montana,MT,30,"Flathead County, MT",96165,18.1-20
+30031,2015,Montana,MT,30,"Gallatin County, MT",100739,8.1-10
+30033,2015,Montana,MT,30,"Garfield County, MT",1314,0-2
+30035,2015,Montana,MT,30,"Glacier County, MT",13647,26.1-28
+30037,2015,Montana,MT,30,"Golden Valley County, MT",827,0-2
+30039,2015,Montana,MT,30,"Granite County, MT",3240,16.1-18
+30041,2015,Montana,MT,30,"Hill County, MT",16572,20.1-22
+30043,2015,Montana,MT,30,"Jefferson County, MT",11645,18.1-20
+30045,2015,Montana,MT,30,"Judith Basin County, MT",1926,4.1-6
+30047,2015,Montana,MT,30,"Lake County, MT",29457,24.1-26
+30049,2015,Montana,MT,30,"Lewis and Clark County, MT",66418,10.1-12
+30051,2015,Montana,MT,30,"Liberty County, MT",2408,10.1-12
+30053,2015,Montana,MT,30,"Lincoln County, MT",19052,20.1-22
+30055,2015,Montana,MT,30,"McCone County, MT",1683,8.1-10
+30057,2015,Montana,MT,30,"Madison County, MT",7915,16.1-18
+30059,2015,Montana,MT,30,"Meagher County, MT",1830,10.1-12
+30061,2015,Montana,MT,30,"Mineral County, MT",4251,>30
+30063,2015,Montana,MT,30,"Missoula County, MT",114181,18.1-20
+30065,2015,Montana,MT,30,"Musselshell County, MT",4582,12.1-14
+30067,2015,Montana,MT,30,"Park County, MT",15972,20.1-22
+30069,2015,Montana,MT,30,"Petroleum County, MT",475,0-2
+30071,2015,Montana,MT,30,"Phillips County, MT",4169,12.1-14
+30073,2015,Montana,MT,30,"Pondera County, MT",6184,16.1-18
+30075,2015,Montana,MT,30,"Powder River County, MT",1773,6.1-8
+30077,2015,Montana,MT,30,"Powell County, MT",6840,24.1-26
+30079,2015,Montana,MT,30,"Prairie County, MT",1160,18.1-20
+30081,2015,Montana,MT,30,"Ravalli County, MT",41373,12.1-14
+30083,2015,Montana,MT,30,"Richland County, MT",11960,18.1-20
+30085,2015,Montana,MT,30,"Roosevelt County, MT",11476,20.1-22
+30087,2015,Montana,MT,30,"Rosebud County, MT",9398,16.1-18
+30089,2015,Montana,MT,30,"Sanders County, MT",11336,18.1-20
+30091,2015,Montana,MT,30,"Sheridan County, MT",3687,20.1-22
+30093,2015,Montana,MT,30,"Silver Bow County, MT",34622,20.1-22
+30095,2015,Montana,MT,30,"Stillwater County, MT",9486,10.1-12
+30097,2015,Montana,MT,30,"Sweet Grass County, MT",3634,10.1-12
+30099,2015,Montana,MT,30,"Teton County, MT",6104,12.1-14
+30101,2015,Montana,MT,30,"Toole County, MT",5087,18.1-20
+30103,2015,Montana,MT,30,"Treasure County, MT",697,4.1-6
+30105,2015,Montana,MT,30,"Valley County, MT",7659,10.1-12
+30107,2015,Montana,MT,30,"Wheatland County, MT",2110,12.1-14
+30109,2015,Montana,MT,30,"Wibaux County, MT",1130,2.1-4
+30111,2015,Montana,MT,30,"Yellowstone County, MT",157048,16.1-18
+31001,2015,Nebraska,NE,31,"Adams County, NE",31587,8.1-10
+31003,2015,Nebraska,NE,31,"Antelope County, NE",6414,6.1-8
+31005,2015,Nebraska,NE,31,"Arthur County, NE",456,0-2
+31007,2015,Nebraska,NE,31,"Banner County, NE",788,0-2
+31009,2015,Nebraska,NE,31,"Blaine County, NE",487,0-2
+31011,2015,Nebraska,NE,31,"Boone County, NE",5315,4.1-6
+31013,2015,Nebraska,NE,31,"Box Butte County, NE",11337,18.1-20
+31015,2015,Nebraska,NE,31,"Boyd County, NE",2006,4.1-6
+31017,2015,Nebraska,NE,31,"Brown County, NE",2946,4.1-6
+31019,2015,Nebraska,NE,31,"Buffalo County, NE",48863,6.1-8
+31021,2015,Nebraska,NE,31,"Burt County, NE",6585,6.1-8
+31023,2015,Nebraska,NE,31,"Butler County, NE",8115,4.1-6
+31025,2015,Nebraska,NE,31,"Cass County, NE",25512,8.1-10
+31027,2015,Nebraska,NE,31,"Cedar County, NE",8564,4.1-6
+31029,2015,Nebraska,NE,31,"Chase County, NE",3956,4.1-6
+31031,2015,Nebraska,NE,31,"Cherry County, NE",5848,6.1-8
+31033,2015,Nebraska,NE,31,"Cheyenne County, NE",10167,14.1-16
+31035,2015,Nebraska,NE,31,"Clay County, NE",6309,4.1-6
+31037,2015,Nebraska,NE,31,"Colfax County, NE",10520,4.1-6
+31039,2015,Nebraska,NE,31,"Cuming County, NE",9125,6.1-8
+31041,2015,Nebraska,NE,31,"Custer County, NE",10806,10.1-12
+31043,2015,Nebraska,NE,31,"Dakota County, NE",20781,8.1-10
+31045,2015,Nebraska,NE,31,"Dawes County, NE",9055,14.1-16
+31047,2015,Nebraska,NE,31,"Dawson County, NE",23886,6.1-8
+31049,2015,Nebraska,NE,31,"Deuel County, NE",1921,16.1-18
+31051,2015,Nebraska,NE,31,"Dixon County, NE",5797,8.1-10
+31053,2015,Nebraska,NE,31,"Dodge County, NE",36706,6.1-8
+31055,2015,Nebraska,NE,31,"Douglas County, NE",550064,10.1-12
+31057,2015,Nebraska,NE,31,"Dundy County, NE",1799,6.1-8
+31059,2015,Nebraska,NE,31,"Fillmore County, NE",5619,16.1-18
+31061,2015,Nebraska,NE,31,"Franklin County, NE",2985,8.1-10
+31063,2015,Nebraska,NE,31,"Frontier County, NE",2624,0-2
+31065,2015,Nebraska,NE,31,"Furnas County, NE",4862,12.1-14
+31067,2015,Nebraska,NE,31,"Gage County, NE",21900,10.1-12
+31069,2015,Nebraska,NE,31,"Garden County, NE",1918,6.1-8
+31071,2015,Nebraska,NE,31,"Garfield County, NE",2028,12.1-14
+31073,2015,Nebraska,NE,31,"Gosper County, NE",1973,0-2
+31075,2015,Nebraska,NE,31,"Grant County, NE",641,0-2
+31077,2015,Nebraska,NE,31,"Greeley County, NE",2429,16.1-18
+31079,2015,Nebraska,NE,31,"Hall County, NE",61680,4.1-6
+31081,2015,Nebraska,NE,31,"Hamilton County, NE",9190,2.1-4
+31083,2015,Nebraska,NE,31,"Harlan County, NE",3452,16.1-18
+31085,2015,Nebraska,NE,31,"Hayes County, NE",932,4.1-6
+31087,2015,Nebraska,NE,31,"Hitchcock County, NE",2883,16.1-18
+31089,2015,Nebraska,NE,31,"Holt County, NE",10313,4.1-6
+31091,2015,Nebraska,NE,31,"Hooker County, NE",732,2.1-4
+31093,2015,Nebraska,NE,31,"Howard County, NE",6409,10.1-12
+31095,2015,Nebraska,NE,31,"Jefferson County, NE",7263,10.1-12
+31097,2015,Nebraska,NE,31,"Johnson County, NE",5173,16.1-18
+31099,2015,Nebraska,NE,31,"Kearney County, NE",6585,10.1-12
+31101,2015,Nebraska,NE,31,"Keith County, NE",8063,10.1-12
+31103,2015,Nebraska,NE,31,"Keya Paha County, NE",804,0-2
+31105,2015,Nebraska,NE,31,"Kimball County, NE",3689,16.1-18
+31107,2015,Nebraska,NE,31,"Knox County, NE",8543,10.1-12
+31109,2015,Nebraska,NE,31,"Lancaster County, NE",306468,10.1-12
+31111,2015,Nebraska,NE,31,"Lincoln County, NE",35656,8.1-10
+31113,2015,Nebraska,NE,31,"Logan County, NE",777,0-2
+31115,2015,Nebraska,NE,31,"Loup County, NE",585,0-2
+31117,2015,Nebraska,NE,31,"McPherson County, NE",475,0-2
+31119,2015,Nebraska,NE,31,"Madison County, NE",35039,6.1-8
+31121,2015,Nebraska,NE,31,"Merrick County, NE",7787,16.1-18
+31123,2015,Nebraska,NE,31,"Morrill County, NE",4854,10.1-12
+31125,2015,Nebraska,NE,31,"Nance County, NE",3595,10.1-12
+31127,2015,Nebraska,NE,31,"Nemaha County, NE",7046,14.1-16
+31129,2015,Nebraska,NE,31,"Nuckolls County, NE",4329,10.1-12
+31131,2015,Nebraska,NE,31,"Otoe County, NE",15984,8.1-10
+31133,2015,Nebraska,NE,31,"Pawnee County, NE",2659,16.1-18
+31135,2015,Nebraska,NE,31,"Perkins County, NE",2944,8.1-10
+31137,2015,Nebraska,NE,31,"Phelps County, NE",9296,8.1-10
+31139,2015,Nebraska,NE,31,"Pierce County, NE",7208,6.1-8
+31141,2015,Nebraska,NE,31,"Platte County, NE",32847,6.1-8
+31143,2015,Nebraska,NE,31,"Polk County, NE",5202,6.1-8
+31145,2015,Nebraska,NE,31,"Red Willow County, NE",10829,14.1-16
+31147,2015,Nebraska,NE,31,"Richardson County, NE",8094,18.1-20
+31149,2015,Nebraska,NE,31,"Rock County, NE",1381,2.1-4
+31151,2015,Nebraska,NE,31,"Saline County, NE",14282,8.1-10
+31153,2015,Nebraska,NE,31,"Sarpy County, NE",175692,4.1-6
+31155,2015,Nebraska,NE,31,"Saunders County, NE",21016,6.1-8
+31157,2015,Nebraska,NE,31,"Scotts Bluff County, NE",36261,8.1-10
+31159,2015,Nebraska,NE,31,"Seward County, NE",17110,6.1-8
+31161,2015,Nebraska,NE,31,"Sheridan County, NE",5220,8.1-10
+31163,2015,Nebraska,NE,31,"Sherman County, NE",3091,6.1-8
+31165,2015,Nebraska,NE,31,"Sioux County, NE",1260,0-2
+31167,2015,Nebraska,NE,31,"Stanton County, NE",5937,8.1-10
+31169,2015,Nebraska,NE,31,"Thayer County, NE",5163,8.1-10
+31171,2015,Nebraska,NE,31,"Thomas County, NE",684,0-2
+31173,2015,Nebraska,NE,31,"Thurston County, NE",7064,10.1-12
+31175,2015,Nebraska,NE,31,"Valley County, NE",4154,14.1-16
+31177,2015,Nebraska,NE,31,"Washington County, NE",20248,6.1-8
+31179,2015,Nebraska,NE,31,"Wayne County, NE",9367,2.1-4
+31181,2015,Nebraska,NE,31,"Webster County, NE",3625,4.1-6
+31183,2015,Nebraska,NE,31,"Wheeler County, NE",750,2.1-4
+31185,2015,Nebraska,NE,31,"York County, NE",13806,8.1-10
+32001,2015,Nevada,NV,32,"Churchill County, NV",24200,24.1-26
+32003,2015,Nevada,NV,32,"Clark County, NV",2114801,28.1-30
+32005,2015,Nevada,NV,32,"Douglas County, NV",47710,20.1-22
+32007,2015,Nevada,NV,32,"Elko County, NV",51935,12.1-14
+32009,2015,Nevada,NV,32,"Esmeralda County, NV",829,12.1-14
+32011,2015,Nevada,NV,32,"Eureka County, NV",2016,16.1-18
+32013,2015,Nevada,NV,32,"Humboldt County, NV",17019,12.1-14
+32015,2015,Nevada,NV,32,"Lander County, NV",5903,24.1-26
+32017,2015,Nevada,NV,32,"Lincoln County, NV",5036,>30
+32019,2015,Nevada,NV,32,"Lyon County, NV",52585,16.1-18
+32021,2015,Nevada,NV,32,"Mineral County, NV",4478,>30
+32023,2015,Nevada,NV,32,"Nye County, NV",42477,>30
+32027,2015,Nevada,NV,32,"Pershing County, NV",6634,18.1-20
+32029,2015,Nevada,NV,32,"Storey County, NV",3987,28.1-30
+32031,2015,Nevada,NV,32,"Washoe County, NV",446903,26.1-28
+32033,2015,Nevada,NV,32,"White Pine County, NV",9811,>30
+32510,2015,Nevada,NV,32,"Carson City, NV",54521,20.1-22
+33001,2015,New Hampshire,NH,33,"Belknap County, NH",60641,18.1-20
+33003,2015,New Hampshire,NH,33,"Carroll County, NH",47285,20.1-22
+33005,2015,New Hampshire,NH,33,"Cheshire County, NH",75909,12.1-14
+33007,2015,New Hampshire,NH,33,"Coos County, NH",31212,20.1-22
+33009,2015,New Hampshire,NH,33,"Grafton County, NH",89320,12.1-14
+33011,2015,New Hampshire,NH,33,"Hillsborough County, NH",406678,16.1-18
+33013,2015,New Hampshire,NH,33,"Merrimack County, NH",147994,16.1-18
+33015,2015,New Hampshire,NH,33,"Rockingham County, NH",301777,14.1-16
+33017,2015,New Hampshire,NH,33,"Strafford County, NH",126825,16.1-18
+33019,2015,New Hampshire,NH,33,"Sullivan County, NH",42967,14.1-16
+34001,2015,New Jersey,NJ,34,"Atlantic County, NJ",274219,22.1-24
+34003,2015,New Jersey,NJ,34,"Bergen County, NJ",938506,10.1-12
+34005,2015,New Jersey,NJ,34,"Burlington County, NJ",450226,14.1-16
+34007,2015,New Jersey,NJ,34,"Camden County, NJ",510923,24.1-26
+34009,2015,New Jersey,NJ,34,"Cape May County, NJ",94727,18.1-20
+34011,2015,New Jersey,NJ,34,"Cumberland County, NJ",155854,12.1-14
+34013,2015,New Jersey,NJ,34,"Essex County, NJ",797434,14.1-16
+34015,2015,New Jersey,NJ,34,"Gloucester County, NJ",291479,22.1-24
+34017,2015,New Jersey,NJ,34,"Hudson County, NJ",674836,10.1-12
+34019,2015,New Jersey,NJ,34,"Hunterdon County, NJ",125488,8.1-10
+34021,2015,New Jersey,NJ,34,"Mercer County, NJ",371398,10.1-12
+34023,2015,New Jersey,NJ,34,"Middlesex County, NJ",840900,10.1-12
+34025,2015,New Jersey,NJ,34,"Monmouth County, NJ",628715,12.1-14
+34027,2015,New Jersey,NJ,34,"Morris County, NJ",499509,10.1-12
+34029,2015,New Jersey,NJ,34,"Ocean County, NJ",588721,16.1-18
+34031,2015,New Jersey,NJ,34,"Passaic County, NJ",510916,10.1-12
+34033,2015,New Jersey,NJ,34,"Salem County, NJ",64180,20.1-22
+34035,2015,New Jersey,NJ,34,"Somerset County, NJ",333654,8.1-10
+34037,2015,New Jersey,NJ,34,"Sussex County, NJ",143673,12.1-14
+34039,2015,New Jersey,NJ,34,"Union County, NJ",555786,8.1-10
+34041,2015,New Jersey,NJ,34,"Warren County, NJ",106869,10.1-12
+35001,2015,New Mexico,NM,35,"Bernalillo County, NM",676685,>30
+35003,2015,New Mexico,NM,35,"Catron County, NM",3456,>30
+35005,2015,New Mexico,NM,35,"Chaves County, NM",65764,>30
+35006,2015,New Mexico,NM,35,"Cibola County, NM",27329,18.1-20
+35007,2015,New Mexico,NM,35,"Colfax County, NM",12414,28.1-30
+35009,2015,New Mexico,NM,35,"Curry County, NM",50398,14.1-16
+35011,2015,New Mexico,NM,35,"DeBaca County, NM",1828,28.1-30
+35013,2015,New Mexico,NM,35,"Dona Ana County, NM",214295,22.1-24
+35015,2015,New Mexico,NM,35,"Eddy County, NM",57578,>30
+35017,2015,New Mexico,NM,35,"Grant County, NM",28609,>30
+35019,2015,New Mexico,NM,35,"Guadalupe County, NM",4371,>30
+35021,2015,New Mexico,NM,35,"Harding County, NM",698,12.1-14
+35023,2015,New Mexico,NM,35,"Hidalgo County, NM",4423,>30
+35025,2015,New Mexico,NM,35,"Lea County, NM",71180,18.1-20
+35027,2015,New Mexico,NM,35,"Lincoln County, NM",19420,>30
+35028,2015,New Mexico,NM,35,"Los Alamos County, NM",17785,18.1-20
+35029,2015,New Mexico,NM,35,"Luna County, NM",24518,18.1-20
+35031,2015,New Mexico,NM,35,"McKinley County, NM",76708,16.1-18
+35033,2015,New Mexico,NM,35,"Mora County, NM",4596,>30
+35035,2015,New Mexico,NM,35,"Otero County, NM",64362,24.1-26
+35037,2015,New Mexico,NM,35,"Quay County, NM",8455,>30
+35039,2015,New Mexico,NM,35,"Rio Arriba County, NM",39465,>30
+35041,2015,New Mexico,NM,35,"Roosevelt County, NM",19120,18.1-20
+35043,2015,New Mexico,NM,35,"Sandoval County, NM",139394,20.1-22
+35045,2015,New Mexico,NM,35,"San Juan County, NM",118737,18.1-20
+35047,2015,New Mexico,NM,35,"San Miguel County, NM",27967,>30
+35049,2015,New Mexico,NM,35,"Santa Fe County, NM",148686,>30
+35051,2015,New Mexico,NM,35,"Sierra County, NM",11282,>30
+35053,2015,New Mexico,NM,35,"Socorro County, NM",17256,28.1-30
+35055,2015,New Mexico,NM,35,"Taos County, NM",32907,>30
+35057,2015,New Mexico,NM,35,"Torrance County, NM",15485,>30
+35059,2015,New Mexico,NM,35,"Union County, NM",4201,20.1-22
+35061,2015,New Mexico,NM,35,"Valencia County, NM",75737,>30
+36001,2015,New York,NY,36,"Albany County, NY",309381,8.1-10
+36003,2015,New York,NY,36,"Allegany County, NY",47462,8.1-10
+36005,2015,New York,NY,36,"Bronx County, NY",1455444,16.1-18
+36007,2015,New York,NY,36,"Broome County, NY",196567,8.1-10
+36009,2015,New York,NY,36,"Cattaraugus County, NY",77922,6.1-8
+36011,2015,New York,NY,36,"Cayuga County, NY",78288,8.1-10
+36013,2015,New York,NY,36,"Chautauqua County, NY",130779,6.1-8
+36015,2015,New York,NY,36,"Chemung County, NY",87071,8.1-10
+36017,2015,New York,NY,36,"Chenango County, NY",48844,6.1-8
+36019,2015,New York,NY,36,"Clinton County, NY",81251,8.1-10
+36021,2015,New York,NY,36,"Columbia County, NY",61509,8.1-10
+36023,2015,New York,NY,36,"Cortland County, NY",48494,8.1-10
+36025,2015,New York,NY,36,"Delaware County, NY",46053,10.1-12
+36027,2015,New York,NY,36,"Dutchess County, NY",295754,8.1-10
+36029,2015,New York,NY,36,"Erie County, NY",922578,6.1-8
+36031,2015,New York,NY,36,"Essex County, NY",38478,8.1-10
+36033,2015,New York,NY,36,"Franklin County, NY",50660,6.1-8
+36035,2015,New York,NY,36,"Fulton County, NY",53992,6.1-8
+36037,2015,New York,NY,36,"Genesee County, NY",58937,6.1-8
+36039,2015,New York,NY,36,"Greene County, NY",47625,12.1-14
+36041,2015,New York,NY,36,"Hamilton County, NY",4712,6.1-8
+36043,2015,New York,NY,36,"Herkimer County, NY",63100,8.1-10
+36045,2015,New York,NY,36,"Jefferson County, NY",117635,8.1-10
+36047,2015,New York,NY,36,"Kings County, NY",2636735,14.1-16
+36049,2015,New York,NY,36,"Lewis County, NY",26957,8.1-10
+36051,2015,New York,NY,36,"Livingston County, NY",64717,6.1-8
+36053,2015,New York,NY,36,"Madison County, NY",71849,8.1-10
+36055,2015,New York,NY,36,"Monroe County, NY",749600,6.1-8
+36057,2015,New York,NY,36,"Montgomery County, NY",49642,6.1-8
+36059,2015,New York,NY,36,"Nassau County, NY",1361350,8.1-10
+36061,2015,New York,NY,36,"New York County, NY",1644518,14.1-16
+36063,2015,New York,NY,36,"Niagara County, NY",212652,8.1-10
+36065,2015,New York,NY,36,"Oneida County, NY",232500,6.1-8
+36067,2015,New York,NY,36,"Onondaga County, NY",468463,8.1-10
+36069,2015,New York,NY,36,"Ontario County, NY",109561,6.1-8
+36071,2015,New York,NY,36,"Orange County, NY",377647,8.1-10
+36073,2015,New York,NY,36,"Orleans County, NY",41582,6.1-8
+36075,2015,New York,NY,36,"Oswego County, NY",120146,8.1-10
+36077,2015,New York,NY,36,"Otsego County, NY",60636,8.1-10
+36079,2015,New York,NY,36,"Putnam County, NY",99042,8.1-10
+36081,2015,New York,NY,36,"Queens County, NY",2339150,10.1-12
+36083,2015,New York,NY,36,"Rensselaer County, NY",160266,6.1-8
+36085,2015,New York,NY,36,"Richmond County, NY",474558,16.1-18
+36087,2015,New York,NY,36,"Rockland County, NY",326037,6.1-8
+36089,2015,New York,NY,36,"St. Lawrence County, NY",111007,6.1-8
+36091,2015,New York,NY,36,"Saratoga County, NY",226249,6.1-8
+36093,2015,New York,NY,36,"Schenectady County, NY",154604,8.1-10
+36095,2015,New York,NY,36,"Schoharie County, NY",31330,6.1-8
+36097,2015,New York,NY,36,"Schuyler County, NY",18186,8.1-10
+36099,2015,New York,NY,36,"Seneca County, NY",34833,8.1-10
+36101,2015,New York,NY,36,"Steuben County, NY",97631,6.1-8
+36103,2015,New York,NY,36,"Suffolk County, NY",1501587,10.1-12
+36105,2015,New York,NY,36,"Sullivan County, NY",74877,14.1-16
+36107,2015,New York,NY,36,"Tioga County, NY",49453,8.1-10
+36109,2015,New York,NY,36,"Tompkins County, NY",104926,6.1-8
+36111,2015,New York,NY,36,"Ulster County, NY",180143,8.1-10
+36113,2015,New York,NY,36,"Warren County, NY",64688,6.1-8
+36115,2015,New York,NY,36,"Washington County, NY",62230,6.1-8
+36117,2015,New York,NY,36,"Wayne County, NY",91446,6.1-8
+36119,2015,New York,NY,36,"Westchester County, NY",976396,6.1-8
+36121,2015,New York,NY,36,"Wyoming County, NY",41013,6.1-8
+36123,2015,New York,NY,36,"Yates County, NY",25048,6.1-8
+37001,2015,North Carolina,NC,37,"Alamance County, NC",158276,14.1-16
+37003,2015,North Carolina,NC,37,"Alexander County, NC",37325,20.1-22
+37005,2015,North Carolina,NC,37,"Alleghany County, NC",10837,22.1-24
+37007,2015,North Carolina,NC,37,"Anson County, NC",25759,10.1-12
+37009,2015,North Carolina,NC,37,"Ashe County, NC",27020,22.1-24
+37011,2015,North Carolina,NC,37,"Avery County, NC",17689,20.1-22
+37013,2015,North Carolina,NC,37,"Beaufort County, NC",47651,12.1-14
+37015,2015,North Carolina,NC,37,"Bertie County, NC",20199,8.1-10
+37017,2015,North Carolina,NC,37,"Bladen County, NC",34318,16.1-18
+37019,2015,North Carolina,NC,37,"Brunswick County, NC",122765,26.1-28
+37021,2015,North Carolina,NC,37,"Buncombe County, NC",253178,18.1-20
+37023,2015,North Carolina,NC,37,"Burke County, NC",88842,>30
+37025,2015,North Carolina,NC,37,"Cabarrus County, NC",196762,16.1-18
+37027,2015,North Carolina,NC,37,"Caldwell County, NC",81287,20.1-22
+37029,2015,North Carolina,NC,37,"Camden County, NC",10309,16.1-18
+37031,2015,North Carolina,NC,37,"Carteret County, NC",68879,26.1-28
+37033,2015,North Carolina,NC,37,"Caswell County, NC",22941,14.1-16
+37035,2015,North Carolina,NC,37,"Catawba County, NC",155056,18.1-20
+37037,2015,North Carolina,NC,37,"Chatham County, NC",70928,8.1-10
+37039,2015,North Carolina,NC,37,"Cherokee County, NC",27178,>30
+37041,2015,North Carolina,NC,37,"Chowan County, NC",14394,14.1-16
+37043,2015,North Carolina,NC,37,"Clay County, NC",10703,>30
+37045,2015,North Carolina,NC,37,"Cleveland County, NC",96879,22.1-24
+37047,2015,North Carolina,NC,37,"Columbus County, NC",56694,20.1-22
+37049,2015,North Carolina,NC,37,"Craven County, NC",103451,16.1-18
+37051,2015,North Carolina,NC,37,"Cumberland County, NC",323838,14.1-16
+37053,2015,North Carolina,NC,37,"Currituck County, NC",25263,12.1-14
+37055,2015,North Carolina,NC,37,"Dare County, NC",35663,24.1-26
+37057,2015,North Carolina,NC,37,"Davidson County, NC",164622,20.1-22
+37059,2015,North Carolina,NC,37,"Davie County, NC",41753,16.1-18
+37061,2015,North Carolina,NC,37,"Duplin County, NC",59159,8.1-10
+37063,2015,North Carolina,NC,37,"Durham County, NC",300952,12.1-14
+37065,2015,North Carolina,NC,37,"Edgecombe County, NC",54150,12.1-14
+37067,2015,North Carolina,NC,37,"Forsyth County, NC",369019,14.1-16
+37069,2015,North Carolina,NC,37,"Franklin County, NC",63710,12.1-14
+37071,2015,North Carolina,NC,37,"Gaston County, NC",213442,28.1-30
+37073,2015,North Carolina,NC,37,"Gates County, NC",11431,10.1-12
+37075,2015,North Carolina,NC,37,"Graham County, NC",8616,>30
+37077,2015,North Carolina,NC,37,"Granville County, NC",58674,10.1-12
+37079,2015,North Carolina,NC,37,"Greene County, NC",21134,8.1-10
+37081,2015,North Carolina,NC,37,"Guilford County, NC",517600,12.1-14
+37083,2015,North Carolina,NC,37,"Halifax County, NC",52456,14.1-16
+37085,2015,North Carolina,NC,37,"Harnett County, NC",128140,12.1-14
+37087,2015,North Carolina,NC,37,"Haywood County, NC",59868,26.1-28
+37089,2015,North Carolina,NC,37,"Henderson County, NC",112655,22.1-24
+37091,2015,North Carolina,NC,37,"Hertford County, NC",24184,10.1-12
+37093,2015,North Carolina,NC,37,"Hoke County, NC",52671,12.1-14
+37095,2015,North Carolina,NC,37,"Hyde County, NC",5526,14.1-16
+37097,2015,North Carolina,NC,37,"Iredell County, NC",169866,16.1-18
+37099,2015,North Carolina,NC,37,"Jackson County, NC",41265,22.1-24
+37101,2015,North Carolina,NC,37,"Johnston County, NC",185660,10.1-12
+37103,2015,North Carolina,NC,37,"Jones County, NC",10013,14.1-16
+37105,2015,North Carolina,NC,37,"Lee County, NC",59660,14.1-16
+37107,2015,North Carolina,NC,37,"Lenoir County, NC",58106,10.1-12
+37109,2015,North Carolina,NC,37,"Lincoln County, NC",81035,18.1-20
+37111,2015,North Carolina,NC,37,"McDowell County, NC",44989,18.1-20
+37113,2015,North Carolina,NC,37,"Macon County, NC",34201,24.1-26
+37115,2015,North Carolina,NC,37,"Madison County, NC",21139,16.1-18
+37117,2015,North Carolina,NC,37,"Martin County, NC",23357,14.1-16
+37119,2015,North Carolina,NC,37,"Mecklenburg County, NC",1034070,10.1-12
+37121,2015,North Carolina,NC,37,"Mitchell County, NC",15246,>30
+37123,2015,North Carolina,NC,37,"Montgomery County, NC",27548,12.1-14
+37125,2015,North Carolina,NC,37,"Moore County, NC",94352,14.1-16
+37127,2015,North Carolina,NC,37,"Nash County, NC",93919,12.1-14
+37129,2015,North Carolina,NC,37,"New Hanover County, NC",220358,20.1-22
+37131,2015,North Carolina,NC,37,"Northampton County, NC",20426,10.1-12
+37133,2015,North Carolina,NC,37,"Onslow County, NC",186311,12.1-14
+37135,2015,North Carolina,NC,37,"Orange County, NC",141354,12.1-14
+37137,2015,North Carolina,NC,37,"Pamlico County, NC",12781,20.1-22
+37139,2015,North Carolina,NC,37,"Pasquotank County, NC",39829,10.1-12
+37141,2015,North Carolina,NC,37,"Pender County, NC",57611,14.1-16
+37143,2015,North Carolina,NC,37,"Perquimans County, NC",13440,18.1-20
+37145,2015,North Carolina,NC,37,"Person County, NC",39259,16.1-18
+37147,2015,North Carolina,NC,37,"Pitt County, NC",175842,14.1-16
+37149,2015,North Carolina,NC,37,"Polk County, NC",20366,22.1-24
+37151,2015,North Carolina,NC,37,"Randolph County, NC",142799,16.1-18
+37153,2015,North Carolina,NC,37,"Richmond County, NC",45437,24.1-26
+37155,2015,North Carolina,NC,37,"Robeson County, NC",134197,12.1-14
+37157,2015,North Carolina,NC,37,"Rockingham County, NC",91758,18.1-20
+37159,2015,North Carolina,NC,37,"Rowan County, NC",139142,24.1-26
+37161,2015,North Carolina,NC,37,"Rutherford County, NC",66390,28.1-30
+37163,2015,North Carolina,NC,37,"Sampson County, NC",63724,16.1-18
+37165,2015,North Carolina,NC,37,"Scotland County, NC",35509,16.1-18
+37167,2015,North Carolina,NC,37,"Stanly County, NC",60714,18.1-20
+37169,2015,North Carolina,NC,37,"Stokes County, NC",46351,18.1-20
+37171,2015,North Carolina,NC,37,"Surry County, NC",72743,18.1-20
+37173,2015,North Carolina,NC,37,"Swain County, NC",14434,28.1-30
+37175,2015,North Carolina,NC,37,"Transylvania County, NC",33211,24.1-26
+37177,2015,North Carolina,NC,37,"Tyrrell County, NC",4070,14.1-16
+37179,2015,North Carolina,NC,37,"Union County, NC",222742,8.1-10
+37181,2015,North Carolina,NC,37,"Vance County, NC",44568,18.1-20
+37183,2015,North Carolina,NC,37,"Wake County, NC",1024198,8.1-10
+37185,2015,North Carolina,NC,37,"Warren County, NC",20155,8.1-10
+37187,2015,North Carolina,NC,37,"Washington County, NC",12385,6.1-8
+37189,2015,North Carolina,NC,37,"Watauga County, NC",52906,12.1-14
+37191,2015,North Carolina,NC,37,"Wayne County, NC",124132,12.1-14
+37193,2015,North Carolina,NC,37,"Wilkes County, NC",68502,28.1-30
+37195,2015,North Carolina,NC,37,"Wilson County, NC",81714,10.1-12
+37197,2015,North Carolina,NC,37,"Yadkin County, NC",37585,22.1-24
+37199,2015,North Carolina,NC,37,"Yancey County, NC",17587,28.1-30
+38001,2015,North Dakota,ND,38,"Adams County, ND",2359,2.1-4
+38003,2015,North Dakota,ND,38,"Barnes County, ND",11099,6.1-8
+38005,2015,North Dakota,ND,38,"Benson County, ND",6753,16.1-18
+38007,2015,North Dakota,ND,38,"Billings County, ND",936,0-2
+38009,2015,North Dakota,ND,38,"Bottineau County, ND",6716,6.1-8
+38011,2015,North Dakota,ND,38,"Bowman County, ND",3294,2.1-4
+38013,2015,North Dakota,ND,38,"Burke County, ND",2308,2.1-4
+38015,2015,North Dakota,ND,38,"Burleigh County, ND",92991,6.1-8
+38017,2015,North Dakota,ND,38,"Cass County, ND",171512,4.1-6
+38019,2015,North Dakota,ND,38,"Cavalier County, ND",3828,6.1-8
+38021,2015,North Dakota,ND,38,"Dickey County, ND",5104,6.1-8
+38023,2015,North Dakota,ND,38,"Divide County, ND",2450,2.1-4
+38025,2015,North Dakota,ND,38,"Dunn County, ND",4646,6.1-8
+38027,2015,North Dakota,ND,38,"Eddy County, ND",2365,2.1-4
+38029,2015,North Dakota,ND,38,"Emmons County, ND",3402,6.1-8
+38031,2015,North Dakota,ND,38,"Foster County, ND",3356,2.1-4
+38033,2015,North Dakota,ND,38,"Golden Valley County, ND",1845,2.1-4
+38035,2015,North Dakota,ND,38,"Grand Forks County, ND",70916,6.1-8
+38037,2015,North Dakota,ND,38,"Grant County, ND",2388,2.1-4
+38039,2015,North Dakota,ND,38,"Griggs County, ND",2314,2.1-4
+38041,2015,North Dakota,ND,38,"Hettinger County, ND",2704,10.1-12
+38043,2015,North Dakota,ND,38,"Kidder County, ND",2417,2.1-4
+38045,2015,North Dakota,ND,38,"LaMoure County, ND",4125,0-2
+38047,2015,North Dakota,ND,38,"Logan County, ND",1935,2.1-4
+38049,2015,North Dakota,ND,38,"McHenry County, ND",5968,2.1-4
+38051,2015,North Dakota,ND,38,"McIntosh County, ND",2759,6.1-8
+38053,2015,North Dakota,ND,38,"McKenzie County, ND",12826,14.1-16
+38055,2015,North Dakota,ND,38,"McLean County, ND",9744,8.1-10
+38057,2015,North Dakota,ND,38,"Mercer County, ND",8853,8.1-10
+38059,2015,North Dakota,ND,38,"Morton County, ND",30310,8.1-10
+38061,2015,North Dakota,ND,38,"Mountrail County, ND",10331,10.1-12
+38063,2015,North Dakota,ND,38,"Nelson County, ND",2968,8.1-10
+38065,2015,North Dakota,ND,38,"Oliver County, ND",1846,12.1-14
+38067,2015,North Dakota,ND,38,"Pembina County, ND",7091,10.1-12
+38069,2015,North Dakota,ND,38,"Pierce County, ND",4312,8.1-10
+38071,2015,North Dakota,ND,38,"Ramsey County, ND",11630,8.1-10
+38073,2015,North Dakota,ND,38,"Ransom County, ND",5448,4.1-6
+38075,2015,North Dakota,ND,38,"Renville County, ND",2571,2.1-4
+38077,2015,North Dakota,ND,38,"Richland County, ND",16402,8.1-10
+38079,2015,North Dakota,ND,38,"Rolette County, ND",14649,14.1-16
+38081,2015,North Dakota,ND,38,"Sargent County, ND",3876,2.1-4
+38083,2015,North Dakota,ND,38,"Sheridan County, ND",1310,0-2
+38085,2015,North Dakota,ND,38,"Sioux County, ND",4370,12.1-14
+38087,2015,North Dakota,ND,38,"Slope County, ND",767,0-2
+38089,2015,North Dakota,ND,38,"Stark County, ND",32154,10.1-12
+38091,2015,North Dakota,ND,38,"Steele County, ND",1956,8.1-10
+38093,2015,North Dakota,ND,38,"Stutsman County, ND",21103,4.1-6
+38095,2015,North Dakota,ND,38,"Towner County, ND",2272,6.1-8
+38097,2015,North Dakota,ND,38,"Traill County, ND",8014,8.1-10
+38099,2015,North Dakota,ND,38,"Walsh County, ND",10897,8.1-10
+38101,2015,North Dakota,ND,38,"Ward County, ND",71275,4.1-6
+38103,2015,North Dakota,ND,38,"Wells County, ND",4168,2.1-4
+38105,2015,North Dakota,ND,38,"Williams County, ND",35294,8.1-10
+39001,2015,Ohio,OH,39,"Adams County, OH",28024,26.1-28
+39003,2015,Ohio,OH,39,"Allen County, OH",104425,8.1-10
+39005,2015,Ohio,OH,39,"Ashland County, OH",53213,8.1-10
+39007,2015,Ohio,OH,39,"Ashtabula County, OH",98632,14.1-16
+39009,2015,Ohio,OH,39,"Athens County, OH",65886,20.1-22
+39011,2015,Ohio,OH,39,"Auglaize County, OH",45876,10.1-12
+39013,2015,Ohio,OH,39,"Belmont County, OH",69154,14.1-16
+39015,2015,Ohio,OH,39,"Brown County, OH",43839,28.1-30
+39017,2015,Ohio,OH,39,"Butler County, OH",376353,20.1-22
+39019,2015,Ohio,OH,39,"Carroll County, OH",27811,14.1-16
+39021,2015,Ohio,OH,39,"Champaign County, OH",38987,12.1-14
+39023,2015,Ohio,OH,39,"Clark County, OH",135959,22.1-24
+39025,2015,Ohio,OH,39,"Clermont County, OH",201973,22.1-24
+39027,2015,Ohio,OH,39,"Clinton County, OH",41917,24.1-26
+39029,2015,Ohio,OH,39,"Columbiana County, OH",104806,14.1-16
+39031,2015,Ohio,OH,39,"Coshocton County, OH",36569,10.1-12
+39033,2015,Ohio,OH,39,"Crawford County, OH",42306,18.1-20
+39035,2015,Ohio,OH,39,"Cuyahoga County, OH",1255921,18.1-20
+39037,2015,Ohio,OH,39,"Darke County, OH",52076,16.1-18
+39039,2015,Ohio,OH,39,"Defiance County, OH",38352,10.1-12
+39041,2015,Ohio,OH,39,"Delaware County, OH",193013,8.1-10
+39043,2015,Ohio,OH,39,"Erie County, OH",75550,12.1-14
+39045,2015,Ohio,OH,39,"Fairfield County, OH",151408,10.1-12
+39047,2015,Ohio,OH,39,"Fayette County, OH",28679,16.1-18
+39049,2015,Ohio,OH,39,"Franklin County, OH",1251722,18.1-20
+39051,2015,Ohio,OH,39,"Fulton County, OH",42537,10.1-12
+39053,2015,Ohio,OH,39,"Gallia County, OH",30142,22.1-24
+39055,2015,Ohio,OH,39,"Geauga County, OH",94102,10.1-12
+39057,2015,Ohio,OH,39,"Greene County, OH",164427,20.1-22
+39059,2015,Ohio,OH,39,"Guernsey County, OH",39258,14.1-16
+39061,2015,Ohio,OH,39,"Hamilton County, OH",807598,20.1-22
+39063,2015,Ohio,OH,39,"Hancock County, OH",75573,10.1-12
+39065,2015,Ohio,OH,39,"Hardin County, OH",31682,16.1-18
+39067,2015,Ohio,OH,39,"Harrison County, OH",15450,14.1-16
+39069,2015,Ohio,OH,39,"Henry County, OH",27816,8.1-10
+39071,2015,Ohio,OH,39,"Highland County, OH",43026,18.1-20
+39073,2015,Ohio,OH,39,"Hocking County, OH",28491,18.1-20
+39075,2015,Ohio,OH,39,"Holmes County, OH",43909,4.1-6
+39077,2015,Ohio,OH,39,"Huron County, OH",58469,12.1-14
+39079,2015,Ohio,OH,39,"Jackson County, OH",32596,24.1-26
+39081,2015,Ohio,OH,39,"Jefferson County, OH",67347,26.1-28
+39083,2015,Ohio,OH,39,"Knox County, OH",61061,12.1-14
+39085,2015,Ohio,OH,39,"Lake County, OH",229245,14.1-16
+39087,2015,Ohio,OH,39,"Lawrence County, OH",61109,20.1-22
+39089,2015,Ohio,OH,39,"Licking County, OH",170570,14.1-16
+39091,2015,Ohio,OH,39,"Logan County, OH",45386,14.1-16
+39093,2015,Ohio,OH,39,"Lorain County, OH",305147,12.1-14
+39095,2015,Ohio,OH,39,"Lucas County, OH",433689,18.1-20
+39097,2015,Ohio,OH,39,"Madison County, OH",44094,12.1-14
+39099,2015,Ohio,OH,39,"Mahoning County, OH",231900,20.1-22
+39101,2015,Ohio,OH,39,"Marion County, OH",65355,16.1-18
+39103,2015,Ohio,OH,39,"Medina County, OH",176395,10.1-12
+39105,2015,Ohio,OH,39,"Meigs County, OH",23257,16.1-18
+39107,2015,Ohio,OH,39,"Mercer County, OH",40968,6.1-8
+39109,2015,Ohio,OH,39,"Miami County, OH",104224,16.1-18
+39111,2015,Ohio,OH,39,"Monroe County, OH",14409,12.1-14
+39113,2015,Ohio,OH,39,"Montgomery County, OH",532258,>30
+39115,2015,Ohio,OH,39,"Morgan County, OH",14777,14.1-16
+39117,2015,Ohio,OH,39,"Morrow County, OH",35074,12.1-14
+39119,2015,Ohio,OH,39,"Muskingum County, OH",86290,12.1-14
+39121,2015,Ohio,OH,39,"Noble County, OH",14326,14.1-16
+39123,2015,Ohio,OH,39,"Ottawa County, OH",40877,12.1-14
+39125,2015,Ohio,OH,39,"Paulding County, OH",18976,10.1-12
+39127,2015,Ohio,OH,39,"Perry County, OH",35985,12.1-14
+39129,2015,Ohio,OH,39,"Pickaway County, OH",56998,14.1-16
+39131,2015,Ohio,OH,39,"Pike County, OH",28217,22.1-24
+39133,2015,Ohio,OH,39,"Portage County, OH",162275,12.1-14
+39135,2015,Ohio,OH,39,"Preble County, OH",41329,18.1-20
+39137,2015,Ohio,OH,39,"Putnam County, OH",34042,6.1-8
+39139,2015,Ohio,OH,39,"Richland County, OH",121707,14.1-16
+39141,2015,Ohio,OH,39,"Ross County, OH",77170,22.1-24
+39143,2015,Ohio,OH,39,"Sandusky County, OH",59679,12.1-14
+39145,2015,Ohio,OH,39,"Scioto County, OH",76825,>30
+39147,2015,Ohio,OH,39,"Seneca County, OH",55610,8.1-10
+39149,2015,Ohio,OH,39,"Shelby County, OH",48901,12.1-14
+39151,2015,Ohio,OH,39,"Stark County, OH",375165,12.1-14
+39153,2015,Ohio,OH,39,"Summit County, OH",541968,16.1-18
+39155,2015,Ohio,OH,39,"Trumbull County, OH",203751,26.1-28
+39157,2015,Ohio,OH,39,"Tuscarawas County, OH",92916,6.1-8
+39159,2015,Ohio,OH,39,"Union County, OH",54277,10.1-12
+39161,2015,Ohio,OH,39,"Van Wert County, OH",28562,10.1-12
+39163,2015,Ohio,OH,39,"Vinton County, OH",13048,28.1-30
+39165,2015,Ohio,OH,39,"Warren County, OH",224469,14.1-16
+39167,2015,Ohio,OH,39,"Washington County, OH",61112,14.1-16
+39169,2015,Ohio,OH,39,"Wayne County, OH",116063,8.1-10
+39171,2015,Ohio,OH,39,"Williams County, OH",37120,8.1-10
+39173,2015,Ohio,OH,39,"Wood County, OH",129730,8.1-10
+39175,2015,Ohio,OH,39,"Wyandot County, OH",22243,8.1-10
+40001,2015,Oklahoma,OK,40,"Adair County, OK",22004,16.1-18
+40003,2015,Oklahoma,OK,40,"Alfalfa County, OK",5868,24.1-26
+40005,2015,Oklahoma,OK,40,"Atoka County, OK",13793,22.1-24
+40007,2015,Oklahoma,OK,40,"Beaver County, OK",5427,16.1-18
+40009,2015,Oklahoma,OK,40,"Beckham County, OK",23768,18.1-20
+40011,2015,Oklahoma,OK,40,"Blaine County, OK",9833,16.1-18
+40013,2015,Oklahoma,OK,40,"Bryan County, OK",44884,24.1-26
+40015,2015,Oklahoma,OK,40,"Caddo County, OK",29343,22.1-24
+40017,2015,Oklahoma,OK,40,"Canadian County, OK",133378,14.1-16
+40019,2015,Oklahoma,OK,40,"Carter County, OK",48689,26.1-28
+40021,2015,Oklahoma,OK,40,"Cherokee County, OK",48447,22.1-24
+40023,2015,Oklahoma,OK,40,"Choctaw County, OK",14997,22.1-24
+40025,2015,Oklahoma,OK,40,"Cimarron County, OK",2216,26.1-28
+40027,2015,Oklahoma,OK,40,"Cleveland County, OK",274458,16.1-18
+40029,2015,Oklahoma,OK,40,"Coal County, OK",5651,>30
+40031,2015,Oklahoma,OK,40,"Comanche County, OK",124648,12.1-14
+40033,2015,Oklahoma,OK,40,"Cotton County, OK",5996,28.1-30
+40035,2015,Oklahoma,OK,40,"Craig County, OK",14818,18.1-20
+40037,2015,Oklahoma,OK,40,"Creek County, OK",70892,24.1-26
+40039,2015,Oklahoma,OK,40,"Custer County, OK",29744,12.1-14
+40041,2015,Oklahoma,OK,40,"Delaware County, OK",41459,20.1-22
+40043,2015,Oklahoma,OK,40,"Dewey County, OK",4995,20.1-22
+40045,2015,Oklahoma,OK,40,"Ellis County, OK",4231,24.1-26
+40047,2015,Oklahoma,OK,40,"Garfield County, OK",63569,12.1-14
+40049,2015,Oklahoma,OK,40,"Garvin County, OK",27755,22.1-24
+40051,2015,Oklahoma,OK,40,"Grady County, OK",54648,16.1-18
+40053,2015,Oklahoma,OK,40,"Grant County, OK",4523,14.1-16
+40055,2015,Oklahoma,OK,40,"Greer County, OK",6070,28.1-30
+40057,2015,Oklahoma,OK,40,"Harmon County, OK",2788,28.1-30
+40059,2015,Oklahoma,OK,40,"Harper County, OK",3754,18.1-20
+40061,2015,Oklahoma,OK,40,"Haskell County, OK",12845,24.1-26
+40063,2015,Oklahoma,OK,40,"Hughes County, OK",13735,16.1-18
+40065,2015,Oklahoma,OK,40,"Jackson County, OK",25574,12.1-14
+40067,2015,Oklahoma,OK,40,"Jefferson County, OK",6276,>30
+40069,2015,Oklahoma,OK,40,"Johnston County, OK",10980,>30
+40071,2015,Oklahoma,OK,40,"Kay County, OK",45366,14.1-16
+40073,2015,Oklahoma,OK,40,"Kingfisher County, OK",15584,14.1-16
+40075,2015,Oklahoma,OK,40,"Kiowa County, OK",9144,24.1-26
+40077,2015,Oklahoma,OK,40,"Latimer County, OK",10483,28.1-30
+40079,2015,Oklahoma,OK,40,"Le Flore County, OK",49605,24.1-26
+40081,2015,Oklahoma,OK,40,"Lincoln County, OK",35042,20.1-22
+40083,2015,Oklahoma,OK,40,"Logan County, OK",45996,12.1-14
+40085,2015,Oklahoma,OK,40,"Love County, OK",9870,26.1-28
+40087,2015,Oklahoma,OK,40,"McClain County, OK",38066,20.1-22
+40089,2015,Oklahoma,OK,40,"McCurtain County, OK",33048,24.1-26
+40091,2015,Oklahoma,OK,40,"McIntosh County, OK",19990,28.1-30
+40093,2015,Oklahoma,OK,40,"Major County, OK",7771,14.1-16
+40095,2015,Oklahoma,OK,40,"Marshall County, OK",16232,16.1-18
+40097,2015,Oklahoma,OK,40,"Mayes County, OK",40887,24.1-26
+40099,2015,Oklahoma,OK,40,"Murray County, OK",13936,>30
+40101,2015,Oklahoma,OK,40,"Muskogee County, OK",69699,22.1-24
+40103,2015,Oklahoma,OK,40,"Noble County, OK",11554,20.1-22
+40105,2015,Oklahoma,OK,40,"Nowata County, OK",10539,18.1-20
+40107,2015,Oklahoma,OK,40,"Okfuskee County, OK",12181,24.1-26
+40109,2015,Oklahoma,OK,40,"Oklahoma County, OK",776864,22.1-24
+40111,2015,Oklahoma,OK,40,"Okmulgee County, OK",39187,18.1-20
+40113,2015,Oklahoma,OK,40,"Osage County, OK",47887,16.1-18
+40115,2015,Oklahoma,OK,40,"Ottawa County, OK",31981,20.1-22
+40117,2015,Oklahoma,OK,40,"Pawnee County, OK",16436,>30
+40119,2015,Oklahoma,OK,40,"Payne County, OK",80850,14.1-16
+40121,2015,Oklahoma,OK,40,"Pittsburg County, OK",44610,24.1-26
+40123,2015,Oklahoma,OK,40,"Pontotoc County, OK",38194,26.1-28
+40125,2015,Oklahoma,OK,40,"Pottawatomie County, OK",71875,22.1-24
+40127,2015,Oklahoma,OK,40,"Pushmataha County, OK",11183,28.1-30
+40129,2015,Oklahoma,OK,40,"Roger Mills County, OK",3788,6.1-8
+40131,2015,Oklahoma,OK,40,"Rogers County, OK",90802,14.1-16
+40133,2015,Oklahoma,OK,40,"Seminole County, OK",25548,26.1-28
+40135,2015,Oklahoma,OK,40,"Sequoyah County, OK",41153,26.1-28
+40137,2015,Oklahoma,OK,40,"Stephens County, OK",44581,26.1-28
+40139,2015,Oklahoma,OK,40,"Texas County, OK",21489,16.1-18
+40141,2015,Oklahoma,OK,40,"Tillman County, OK",7515,28.1-30
+40143,2015,Oklahoma,OK,40,"Tulsa County, OK",639242,24.1-26
+40145,2015,Oklahoma,OK,40,"Wagoner County, OK",76559,22.1-24
+40147,2015,Oklahoma,OK,40,"Washington County, OK",52021,16.1-18
+40149,2015,Oklahoma,OK,40,"Washita County, OK",11661,20.1-22
+40151,2015,Oklahoma,OK,40,"Woods County, OK",9304,18.1-20
+40153,2015,Oklahoma,OK,40,"Woodward County, OK",21559,16.1-18
+41001,2015,Oregon,OR,41,"Baker County, OR",16005,20.1-22
+41003,2015,Oregon,OR,41,"Benton County, OR",87572,8.1-10
+41005,2015,Oregon,OR,41,"Clackamas County, OR",401515,14.1-16
+41007,2015,Oregon,OR,41,"Clatsop County, OR",37831,24.1-26
+41009,2015,Oregon,OR,41,"Columbia County, OR",49600,12.1-14
+41011,2015,Oregon,OR,41,"Coos County, OR",63121,16.1-18
+41013,2015,Oregon,OR,41,"Crook County, OR",21630,12.1-14
+41015,2015,Oregon,OR,41,"Curry County, OR",22483,20.1-22
+41017,2015,Oregon,OR,41,"Deschutes County, OR",175268,12.1-14
+41019,2015,Oregon,OR,41,"Douglas County, OR",107685,16.1-18
+41021,2015,Oregon,OR,41,"Gilliam County, OR",1859,4.1-6
+41023,2015,Oregon,OR,41,"Grant County, OR",7185,24.1-26
+41025,2015,Oregon,OR,41,"Harney County, OR",7200,18.1-20
+41027,2015,Oregon,OR,41,"Hood River County, OR",23137,8.1-10
+41029,2015,Oregon,OR,41,"Jackson County, OR",212567,18.1-20
+41031,2015,Oregon,OR,41,"Jefferson County, OR",22666,12.1-14
+41033,2015,Oregon,OR,41,"Josephine County, OR",84745,16.1-18
+41035,2015,Oregon,OR,41,"Klamath County, OR",66016,16.1-18
+41037,2015,Oregon,OR,41,"Lake County, OR",7829,24.1-26
+41039,2015,Oregon,OR,41,"Lane County, OR",362895,20.1-22
+41041,2015,Oregon,OR,41,"Lincoln County, OR",47038,24.1-26
+41043,2015,Oregon,OR,41,"Linn County, OR",120547,16.1-18
+41045,2015,Oregon,OR,41,"Malheur County, OR",30380,12.1-14
+41047,2015,Oregon,OR,41,"Marion County, OR",330700,12.1-14
+41049,2015,Oregon,OR,41,"Morrow County, OR",11190,6.1-8
+41051,2015,Oregon,OR,41,"Multnomah County, OR",790294,22.1-24
+41053,2015,Oregon,OR,41,"Polk County, OR",79391,10.1-12
+41055,2015,Oregon,OR,41,"Sherman County, OR",1680,10.1-12
+41057,2015,Oregon,OR,41,"Tillamook County, OR",25653,18.1-20
+41059,2015,Oregon,OR,41,"Umatilla County, OR",76531,10.1-12
+41061,2015,Oregon,OR,41,"Union County, OR",25790,14.1-16
+41063,2015,Oregon,OR,41,"Wallowa County, OR",6856,12.1-14
+41065,2015,Oregon,OR,41,"Wasco County, OR",25775,10.1-12
+41067,2015,Oregon,OR,41,"Washington County, OR",574326,10.1-12
+41069,2015,Oregon,OR,41,"Wheeler County, OR",1358,20.1-22
+41071,2015,Oregon,OR,41,"Yamhill County, OR",102659,12.1-14
+42001,2015,Pennsylvania,PA,42,"Adams County, PA",102295,12.1-14
+42003,2015,Pennsylvania,PA,42,"Allegheny County, PA",1230459,24.1-26
+42005,2015,Pennsylvania,PA,42,"Armstrong County, PA",67052,20.1-22
+42007,2015,Pennsylvania,PA,42,"Beaver County, PA",168871,18.1-20
+42009,2015,Pennsylvania,PA,42,"Bedford County, PA",48586,16.1-18
+42011,2015,Pennsylvania,PA,42,"Berks County, PA",415271,14.1-16
+42013,2015,Pennsylvania,PA,42,"Blair County, PA",125593,22.1-24
+42015,2015,Pennsylvania,PA,42,"Bradford County, PA",61281,10.1-12
+42017,2015,Pennsylvania,PA,42,"Bucks County, PA",627367,20.1-22
+42019,2015,Pennsylvania,PA,42,"Butler County, PA",186818,16.1-18
+42021,2015,Pennsylvania,PA,42,"Cambria County, PA",136411,28.1-30
+42023,2015,Pennsylvania,PA,42,"Cameron County, PA",4732,20.1-22
+42025,2015,Pennsylvania,PA,42,"Carbon County, PA",63960,20.1-22
+42027,2015,Pennsylvania,PA,42,"Centre County, PA",160580,8.1-10
+42029,2015,Pennsylvania,PA,42,"Chester County, PA",515939,12.1-14
+42031,2015,Pennsylvania,PA,42,"Clarion County, PA",39498,12.1-14
+42033,2015,Pennsylvania,PA,42,"Clearfield County, PA",80994,14.1-16
+42035,2015,Pennsylvania,PA,42,"Clinton County, PA",39441,12.1-14
+42037,2015,Pennsylvania,PA,42,"Columbia County, PA",66672,12.1-14
+42039,2015,Pennsylvania,PA,42,"Crawford County, PA",86484,14.1-16
+42041,2015,Pennsylvania,PA,42,"Cumberland County, PA",246338,10.1-12
+42043,2015,Pennsylvania,PA,42,"Dauphin County, PA",272983,12.1-14
+42045,2015,Pennsylvania,PA,42,"Delaware County, PA",563894,26.1-28
+42047,2015,Pennsylvania,PA,42,"Elk County, PA",30872,16.1-18
+42049,2015,Pennsylvania,PA,42,"Erie County, PA",278045,18.1-20
+42051,2015,Pennsylvania,PA,42,"Fayette County, PA",133628,20.1-22
+42053,2015,Pennsylvania,PA,42,"Forest County, PA",7410,20.1-22
+42055,2015,Pennsylvania,PA,42,"Franklin County, PA",153638,10.1-12
+42057,2015,Pennsylvania,PA,42,"Fulton County, PA",14629,16.1-18
+42059,2015,Pennsylvania,PA,42,"Greene County, PA",37519,20.1-22
+42061,2015,Pennsylvania,PA,42,"Huntingdon County, PA",45668,8.1-10
+42063,2015,Pennsylvania,PA,42,"Indiana County, PA",86966,16.1-18
+42065,2015,Pennsylvania,PA,42,"Jefferson County, PA",44430,12.1-14
+42067,2015,Pennsylvania,PA,42,"Juniata County, PA",24737,10.1-12
+42069,2015,Pennsylvania,PA,42,"Lackawanna County, PA",211917,24.1-26
+42071,2015,Pennsylvania,PA,42,"Lancaster County, PA",536624,12.1-14
+42073,2015,Pennsylvania,PA,42,"Lawrence County, PA",88082,20.1-22
+42075,2015,Pennsylvania,PA,42,"Lebanon County, PA",137067,10.1-12
+42077,2015,Pennsylvania,PA,42,"Lehigh County, PA",360685,16.1-18
+42079,2015,Pennsylvania,PA,42,"Luzerne County, PA",318449,24.1-26
+42081,2015,Pennsylvania,PA,42,"Lycoming County, PA",116048,8.1-10
+42083,2015,Pennsylvania,PA,42,"Mc Kean County, PA",42412,14.1-16
+42085,2015,Pennsylvania,PA,42,"Mercer County, PA",114234,20.1-22
+42087,2015,Pennsylvania,PA,42,"Mifflin County, PA",46500,16.1-18
+42089,2015,Pennsylvania,PA,42,"Monroe County, PA",166397,18.1-20
+42091,2015,Pennsylvania,PA,42,"Montgomery County, PA",819264,16.1-18
+42093,2015,Pennsylvania,PA,42,"Montour County, PA",18557,16.1-18
+42095,2015,Pennsylvania,PA,42,"Northampton County, PA",300813,14.1-16
+42097,2015,Pennsylvania,PA,42,"Northumberland County, PA",93246,14.1-16
+42099,2015,Pennsylvania,PA,42,"Perry County, PA",45685,12.1-14
+42101,2015,Pennsylvania,PA,42,"Philadelphia County, PA",1567442,>30
+42103,2015,Pennsylvania,PA,42,"Pike County, PA",55949,20.1-22
+42105,2015,Pennsylvania,PA,42,"Potter County, PA",17093,16.1-18
+42107,2015,Pennsylvania,PA,42,"Schuylkill County, PA",144590,20.1-22
+42109,2015,Pennsylvania,PA,42,"Snyder County, PA",40444,6.1-8
+42111,2015,Pennsylvania,PA,42,"Somerset County, PA",75522,16.1-18
+42113,2015,Pennsylvania,PA,42,"Sullivan County, PA",6328,16.1-18
+42115,2015,Pennsylvania,PA,42,"Susquehanna County, PA",41666,16.1-18
+42117,2015,Pennsylvania,PA,42,"Tioga County, PA",41877,8.1-10
+42119,2015,Pennsylvania,PA,42,"Union County, PA",44954,6.1-8
+42121,2015,Pennsylvania,PA,42,"Venango County, PA",53119,18.1-20
+42123,2015,Pennsylvania,PA,42,"Warren County, PA",40396,10.1-12
+42125,2015,Pennsylvania,PA,42,"Washington County, PA",208261,18.1-20
+42127,2015,Pennsylvania,PA,42,"Wayne County, PA",51198,20.1-22
+42129,2015,Pennsylvania,PA,42,"Westmoreland County, PA",357956,20.1-22
+42131,2015,Pennsylvania,PA,42,"Wyoming County, PA",27800,20.1-22
+42133,2015,Pennsylvania,PA,42,"York County, PA",442867,14.1-16
+44001,2015,Rhode Island,RI,44,"Bristol County, RI",49084,16.1-18
+44003,2015,Rhode Island,RI,44,"Kent County, RI",164801,24.1-26
+44005,2015,Rhode Island,RI,44,"Newport County, RI",82423,14.1-16
+44007,2015,Rhode Island,RI,44,"Providence County, RI",633473,22.1-24
+44009,2015,Rhode Island,RI,44,"Washington County, RI",126517,16.1-18
+45001,2015,South Carolina,SC,45,"Abbeville County, SC",24932,10.1-12
+45003,2015,South Carolina,SC,45,"Aiken County, SC",165829,18.1-20
+45005,2015,South Carolina,SC,45,"Allendale County, SC",9433,8.1-10
+45007,2015,South Carolina,SC,45,"Anderson County, SC",194692,18.1-20
+45009,2015,South Carolina,SC,45,"Bamberg County, SC",14880,14.1-16
+45011,2015,South Carolina,SC,45,"Barnwell County, SC",21725,12.1-14
+45013,2015,South Carolina,SC,45,"Beaufort County, SC",179589,10.1-12
+45015,2015,South Carolina,SC,45,"Berkeley County, SC",202786,10.1-12
+45017,2015,South Carolina,SC,45,"Calhoun County, SC",14781,8.1-10
+45019,2015,South Carolina,SC,45,"Charleston County, SC",389262,14.1-16
+45021,2015,South Carolina,SC,45,"Cherokee County, SC",56194,16.1-18
+45023,2015,South Carolina,SC,45,"Chester County, SC",32267,10.1-12
+45025,2015,South Carolina,SC,45,"Chesterfield County, SC",46017,10.1-12
+45027,2015,South Carolina,SC,45,"Clarendon County, SC",33775,8.1-10
+45029,2015,South Carolina,SC,45,"Colleton County, SC",37731,14.1-16
+45031,2015,South Carolina,SC,45,"Darlington County, SC",67548,12.1-14
+45033,2015,South Carolina,SC,45,"Dillon County, SC",31234,8.1-10
+45035,2015,South Carolina,SC,45,"Dorchester County, SC",152478,8.1-10
+45037,2015,South Carolina,SC,45,"Edgefield County, SC",26514,8.1-10
+45039,2015,South Carolina,SC,45,"Fairfield County, SC",22747,8.1-10
+45041,2015,South Carolina,SC,45,"Florence County, SC",138900,8.1-10
+45043,2015,South Carolina,SC,45,"Georgetown County, SC",61298,10.1-12
+45045,2015,South Carolina,SC,45,"Greenville County, SC",491863,20.1-22
+45047,2015,South Carolina,SC,45,"Greenwood County, SC",69838,10.1-12
+45049,2015,South Carolina,SC,45,"Hampton County, SC",20049,10.1-12
+45051,2015,South Carolina,SC,45,"Horry County, SC",309199,20.1-22
+45053,2015,South Carolina,SC,45,"Jasper County, SC",27824,10.1-12
+45055,2015,South Carolina,SC,45,"Kershaw County, SC",63603,10.1-12
+45057,2015,South Carolina,SC,45,"Lancaster County, SC",85842,14.1-16
+45059,2015,South Carolina,SC,45,"Laurens County, SC",66623,18.1-20
+45061,2015,South Carolina,SC,45,"Lee County, SC",17896,6.1-8
+45063,2015,South Carolina,SC,45,"Lexington County, SC",281833,14.1-16
+45065,2015,South Carolina,SC,45,"McCormick County, SC",9706,12.1-14
+45067,2015,South Carolina,SC,45,"Marion County, SC",31747,10.1-12
+45069,2015,South Carolina,SC,45,"Marlboro County, SC",27494,10.1-12
+45071,2015,South Carolina,SC,45,"Newberry County, SC",38012,10.1-12
+45073,2015,South Carolina,SC,45,"Oconee County, SC",75713,20.1-22
+45075,2015,South Carolina,SC,45,"Orangeburg County, SC",89208,6.1-8
+45077,2015,South Carolina,SC,45,"Pickens County, SC",121691,22.1-24
+45079,2015,South Carolina,SC,45,"Richland County, SC",407051,10.1-12
+45081,2015,South Carolina,SC,45,"Saluda County, SC",20053,8.1-10
+45083,2015,South Carolina,SC,45,"Spartanburg County, SC",297302,22.1-24
+45085,2015,South Carolina,SC,45,"Sumter County, SC",107480,6.1-8
+45087,2015,South Carolina,SC,45,"Union County, SC",27777,16.1-18
+45089,2015,South Carolina,SC,45,"Williamsburg County, SC",32535,8.1-10
+45091,2015,South Carolina,SC,45,"York County, SC",251195,14.1-16
+46003,2015,South Dakota,SD,46,"Aurora County, SD",2733,2.1-4
+46005,2015,South Dakota,SD,46,"Beadle County, SD",18372,8.1-10
+46007,2015,South Dakota,SD,46,"Bennett County, SD",3423,2.1-4
+46009,2015,South Dakota,SD,46,"Bon Homme County, SD",6985,6.1-8
+46011,2015,South Dakota,SD,46,"Brookings County, SD",33897,4.1-6
+46013,2015,South Dakota,SD,46,"Brown County, SD",38785,8.1-10
+46015,2015,South Dakota,SD,46,"Brule County, SD",5281,10.1-12
+46017,2015,South Dakota,SD,46,"Buffalo County, SD",2095,26.1-28
+46019,2015,South Dakota,SD,46,"Butte County, SD",10283,6.1-8
+46021,2015,South Dakota,SD,46,"Campbell County, SD",1397,4.1-6
+46023,2015,South Dakota,SD,46,"Charles Mix County, SD",9383,8.1-10
+46025,2015,South Dakota,SD,46,"Clark County, SD",3659,6.1-8
+46027,2015,South Dakota,SD,46,"Clay County, SD",13964,4.1-6
+46029,2015,South Dakota,SD,46,"Codington County, SD",27939,6.1-8
+46031,2015,South Dakota,SD,46,"Corson County, SD",4197,22.1-24
+46033,2015,South Dakota,SD,46,"Custer County, SD",8446,16.1-18
+46035,2015,South Dakota,SD,46,"Davison County, SD",19858,8.1-10
+46037,2015,South Dakota,SD,46,"Day County, SD",5539,2.1-4
+46039,2015,South Dakota,SD,46,"Deuel County, SD",4333,12.1-14
+46041,2015,South Dakota,SD,46,"Dewey County, SD",5685,14.1-16
+46043,2015,South Dakota,SD,46,"Douglas County, SD",2977,2.1-4
+46045,2015,South Dakota,SD,46,"Edmunds County, SD",3999,4.1-6
+46047,2015,South Dakota,SD,46,"Fall River County, SD",6867,>30
+46049,2015,South Dakota,SD,46,"Faulk County, SD",2337,2.1-4
+46051,2015,South Dakota,SD,46,"Grant County, SD",7142,10.1-12
+46053,2015,South Dakota,SD,46,"Gregory County, SD",4201,10.1-12
+46055,2015,South Dakota,SD,46,"Haakon County, SD",1861,2.1-4
+46057,2015,South Dakota,SD,46,"Hamlin County, SD",6047,6.1-8
+46059,2015,South Dakota,SD,46,"Hand County, SD",3348,4.1-6
+46061,2015,South Dakota,SD,46,"Hanson County, SD",3385,4.1-6
+46063,2015,South Dakota,SD,46,"Harding County, SD",1267,2.1-4
+46065,2015,South Dakota,SD,46,"Hughes County, SD",17555,6.1-8
+46067,2015,South Dakota,SD,46,"Hutchinson County, SD",7301,2.1-4
+46069,2015,South Dakota,SD,46,"Hyde County, SD",1397,0-2
+46071,2015,South Dakota,SD,46,"Jackson County, SD",3321,2.1-4
+46073,2015,South Dakota,SD,46,"Jerauld County, SD",1997,6.1-8
+46075,2015,South Dakota,SD,46,"Jones County, SD",924,4.1-6
+46077,2015,South Dakota,SD,46,"Kingsbury County, SD",4990,2.1-4
+46079,2015,South Dakota,SD,46,"Lake County, SD",12622,2.1-4
+46081,2015,South Dakota,SD,46,"Lawrence County, SD",24827,8.1-10
+46083,2015,South Dakota,SD,46,"Lincoln County, SD",52849,4.1-6
+46085,2015,South Dakota,SD,46,"Lyman County, SD",3876,8.1-10
+46087,2015,South Dakota,SD,46,"McCook County, SD",5599,4.1-6
+46089,2015,South Dakota,SD,46,"McPherson County, SD",2415,2.1-4
+46091,2015,South Dakota,SD,46,"Marshall County, SD",4769,12.1-14
+46093,2015,South Dakota,SD,46,"Meade County, SD",26986,10.1-12
+46095,2015,South Dakota,SD,46,"Mellette County, SD",2050,10.1-12
+46097,2015,South Dakota,SD,46,"Miner County, SD",2236,4.1-6
+46099,2015,South Dakota,SD,46,"Minnehaha County, SD",185197,8.1-10
+46101,2015,South Dakota,SD,46,"Moody County, SD",6430,10.1-12
+46103,2015,South Dakota,SD,46,"Pennington County, SD",108702,10.1-12
+46105,2015,South Dakota,SD,46,"Perkins County, SD",3019,16.1-18
+46107,2015,South Dakota,SD,46,"Potter County, SD",2320,4.1-6
+46109,2015,South Dakota,SD,46,"Roberts County, SD",10311,12.1-14
+46111,2015,South Dakota,SD,46,"Sanborn County, SD",2355,0-2
+46113,2015,South Dakota,SD,46,"Shannon County, SD",14373,16.1-18
+46115,2015,South Dakota,SD,46,"Spink County, SD",6524,16.1-18
+46117,2015,South Dakota,SD,46,"Stanley County, SD",2954,4.1-6
+46119,2015,South Dakota,SD,46,"Sully County, SD",1426,0-2
+46121,2015,South Dakota,SD,46,"Todd County, SD",9959,26.1-28
+46123,2015,South Dakota,SD,46,"Tripp County, SD",5434,6.1-8
+46125,2015,South Dakota,SD,46,"Turner County, SD",8209,4.1-6
+46127,2015,South Dakota,SD,46,"Union County, SD",14909,6.1-8
+46129,2015,South Dakota,SD,46,"Walworth County, SD",5443,4.1-6
+46135,2015,South Dakota,SD,46,"Yankton County, SD",22702,8.1-10
+46137,2015,South Dakota,SD,46,"Ziebach County, SD",2803,20.1-22
+47001,2015,Tennessee,TN,47,"Anderson County, TN",75749,26.1-28
+47003,2015,Tennessee,TN,47,"Bedford County, TN",47183,16.1-18
+47005,2015,Tennessee,TN,47,"Benton County, TN",16129,>30
+47007,2015,Tennessee,TN,47,"Bledsoe County, TN",14502,16.1-18
+47009,2015,Tennessee,TN,47,"Blount County, TN",127253,20.1-22
+47011,2015,Tennessee,TN,47,"Bradley County, TN",104091,16.1-18
+47013,2015,Tennessee,TN,47,"Campbell County, TN",39752,>30
+47015,2015,Tennessee,TN,47,"Cannon County, TN",13840,24.1-26
+47017,2015,Tennessee,TN,47,"Carroll County, TN",27910,24.1-26
+47019,2015,Tennessee,TN,47,"Carter County, TN",56486,24.1-26
+47021,2015,Tennessee,TN,47,"Cheatham County, TN",39741,24.1-26
+47023,2015,Tennessee,TN,47,"Chester County, TN",17471,16.1-18
+47025,2015,Tennessee,TN,47,"Claiborne County, TN",31709,28.1-30
+47027,2015,Tennessee,TN,47,"Clay County, TN",7771,>30
+47029,2015,Tennessee,TN,47,"Cocke County, TN",35162,24.1-26
+47031,2015,Tennessee,TN,47,"Coffee County, TN",54277,20.1-22
+47033,2015,Tennessee,TN,47,"Crockett County, TN",14601,12.1-14
+47035,2015,Tennessee,TN,47,"Cumberland County, TN",58229,22.1-24
+47037,2015,Tennessee,TN,47,"Davidson County, TN",678889,20.1-22
+47039,2015,Tennessee,TN,47,"Decatur County, TN",11660,24.1-26
+47041,2015,Tennessee,TN,47,"DeKalb County, TN",19182,>30
+47043,2015,Tennessee,TN,47,"Dickson County, TN",51487,16.1-18
+47045,2015,Tennessee,TN,47,"Dyer County, TN",37893,12.1-14
+47047,2015,Tennessee,TN,47,"Fayette County, TN",39165,14.1-16
+47049,2015,Tennessee,TN,47,"Fentress County, TN",17917,>30
+47051,2015,Tennessee,TN,47,"Franklin County, TN",41449,18.1-20
+47053,2015,Tennessee,TN,47,"Gibson County, TN",49399,14.1-16
+47055,2015,Tennessee,TN,47,"Giles County, TN",28946,20.1-22
+47057,2015,Tennessee,TN,47,"Grainger County, TN",22846,26.1-28
+47059,2015,Tennessee,TN,47,"Greene County, TN",68580,24.1-26
+47061,2015,Tennessee,TN,47,"Grundy County, TN",13441,>30
+47063,2015,Tennessee,TN,47,"Hamblen County, TN",63402,24.1-26
+47065,2015,Tennessee,TN,47,"Hamilton County, TN",354098,16.1-18
+47067,2015,Tennessee,TN,47,"Hancock County, TN",6572,>30
+47069,2015,Tennessee,TN,47,"Hardeman County, TN",25707,10.1-12
+47071,2015,Tennessee,TN,47,"Hardin County, TN",25756,>30
+47073,2015,Tennessee,TN,47,"Hawkins County, TN",56471,24.1-26
+47075,2015,Tennessee,TN,47,"Haywood County, TN",18023,12.1-14
+47077,2015,Tennessee,TN,47,"Henderson County, TN",28015,24.1-26
+47079,2015,Tennessee,TN,47,"Henry County, TN",32147,26.1-28
+47081,2015,Tennessee,TN,47,"Hickman County, TN",24363,20.1-22
+47083,2015,Tennessee,TN,47,"Houston County, TN",8149,26.1-28
+47085,2015,Tennessee,TN,47,"Humphreys County, TN",18135,18.1-20
+47087,2015,Tennessee,TN,47,"Jackson County, TN",11509,>30
+47089,2015,Tennessee,TN,47,"Jefferson County, TN",53240,20.1-22
+47091,2015,Tennessee,TN,47,"Johnson County, TN",17830,16.1-18
+47093,2015,Tennessee,TN,47,"Knox County, TN",451324,26.1-28
+47095,2015,Tennessee,TN,47,"Lake County, TN",7576,14.1-16
+47097,2015,Tennessee,TN,47,"Lauderdale County, TN",26936,16.1-18
+47099,2015,Tennessee,TN,47,"Lawrence County, TN",42564,18.1-20
+47101,2015,Tennessee,TN,47,"Lewis County, TN",11854,20.1-22
+47103,2015,Tennessee,TN,47,"Lincoln County, TN",33743,16.1-18
+47105,2015,Tennessee,TN,47,"Loudon County, TN",51130,24.1-26
+47107,2015,Tennessee,TN,47,"McMinn County, TN",52639,20.1-22
+47109,2015,Tennessee,TN,47,"McNairy County, TN",26066,22.1-24
+47111,2015,Tennessee,TN,47,"Macon County, TN",23177,22.1-24
+47113,2015,Tennessee,TN,47,"Madison County, TN",97610,10.1-12
+47115,2015,Tennessee,TN,47,"Marion County, TN",28487,16.1-18
+47117,2015,Tennessee,TN,47,"Marshall County, TN",31552,22.1-24
+47119,2015,Tennessee,TN,47,"Maury County, TN",87757,16.1-18
+47121,2015,Tennessee,TN,47,"Meigs County, TN",11830,26.1-28
+47123,2015,Tennessee,TN,47,"Monroe County, TN",45771,16.1-18
+47125,2015,Tennessee,TN,47,"Montgomery County, TN",193479,12.1-14
+47127,2015,Tennessee,TN,47,"Moore County, TN",6322,18.1-20
+47129,2015,Tennessee,TN,47,"Morgan County, TN",21498,28.1-30
+47131,2015,Tennessee,TN,47,"Obion County, TN",30639,14.1-16
+47133,2015,Tennessee,TN,47,"Overton County, TN",22129,>30
+47135,2015,Tennessee,TN,47,"Perry County, TN",7929,20.1-22
+47137,2015,Tennessee,TN,47,"Pickett County, TN",5146,>30
+47139,2015,Tennessee,TN,47,"Polk County, TN",16773,26.1-28
+47141,2015,Tennessee,TN,47,"Putnam County, TN",74553,20.1-22
+47143,2015,Tennessee,TN,47,"Rhea County, TN",32526,22.1-24
+47145,2015,Tennessee,TN,47,"Roane County, TN",52753,>30
+47147,2015,Tennessee,TN,47,"Robertson County, TN",68570,14.1-16
+47149,2015,Tennessee,TN,47,"Rutherford County, TN",298612,12.1-14
+47151,2015,Tennessee,TN,47,"Scott County, TN",21950,24.1-26
+47153,2015,Tennessee,TN,47,"Sequatchie County, TN",14811,20.1-22
+47155,2015,Tennessee,TN,47,"Sevier County, TN",95946,22.1-24
+47157,2015,Tennessee,TN,47,"Shelby County, TN",938069,14.1-16
+47159,2015,Tennessee,TN,47,"Smith County, TN",19295,>30
+47161,2015,Tennessee,TN,47,"Stewart County, TN",13259,18.1-20
+47163,2015,Tennessee,TN,47,"Sullivan County, TN",156791,24.1-26
+47165,2015,Tennessee,TN,47,"Sumner County, TN",175989,14.1-16
+47167,2015,Tennessee,TN,47,"Tipton County, TN",61870,14.1-16
+47169,2015,Tennessee,TN,47,"Trousdale County, TN",8042,22.1-24
+47171,2015,Tennessee,TN,47,"Unicoi County, TN",17860,>30
+47173,2015,Tennessee,TN,47,"Union County, TN",19119,>30
+47175,2015,Tennessee,TN,47,"Van Buren County, TN",5677,20.1-22
+47177,2015,Tennessee,TN,47,"Warren County, TN",40435,16.1-18
+47179,2015,Tennessee,TN,47,"Washington County, TN",126302,20.1-22
+47181,2015,Tennessee,TN,47,"Wayne County, TN",16748,14.1-16
+47183,2015,Tennessee,TN,47,"Weakley County, TN",33960,12.1-14
+47185,2015,Tennessee,TN,47,"White County, TN",26521,18.1-20
+47187,2015,Tennessee,TN,47,"Williamson County, TN",211672,8.1-10
+47189,2015,Tennessee,TN,47,"Wilson County, TN",128911,16.1-18
+48001,2015,Texas,TX,48,"Anderson County, TX",57580,14.1-16
+48003,2015,Texas,TX,48,"Andrews County, TX",18105,10.1-12
+48005,2015,Texas,TX,48,"Angelina County, TX",88255,10.1-12
+48007,2015,Texas,TX,48,"Aransas County, TX",25350,26.1-28
+48009,2015,Texas,TX,48,"Archer County, TX",8715,18.1-20
+48011,2015,Texas,TX,48,"Armstrong County, TX",1947,2.1-4
+48013,2015,Texas,TX,48,"Atascosa County, TX",48435,10.1-12
+48015,2015,Texas,TX,48,"Austin County, TX",29563,8.1-10
+48017,2015,Texas,TX,48,"Bailey County, TX",7210,12.1-14
+48019,2015,Texas,TX,48,"Bandera County, TX",21269,12.1-14
+48021,2015,Texas,TX,48,"Bastrop County, TX",80527,12.1-14
+48023,2015,Texas,TX,48,"Baylor County, TX",3618,>30
+48025,2015,Texas,TX,48,"Bee County, TX",32874,6.1-8
+48027,2015,Texas,TX,48,"Bell County, TX",334941,8.1-10
+48029,2015,Texas,TX,48,"Bexar County, TX",1897753,14.1-16
+48031,2015,Texas,TX,48,"Blanco County, TX",11004,14.1-16
+48033,2015,Texas,TX,48,"Borden County, TX",648,0-2
+48035,2015,Texas,TX,48,"Bosque County, TX",17891,14.1-16
+48037,2015,Texas,TX,48,"Bowie County, TX",93389,10.1-12
+48039,2015,Texas,TX,48,"Brazoria County, TX",346312,12.1-14
+48041,2015,Texas,TX,48,"Brazos County, TX",215037,8.1-10
+48043,2015,Texas,TX,48,"Brewster County, TX",9145,20.1-22
+48045,2015,Texas,TX,48,"Briscoe County, TX",1505,14.1-16
+48047,2015,Texas,TX,48,"Brooks County, TX",7230,14.1-16
+48049,2015,Texas,TX,48,"Brown County, TX",37896,20.1-22
+48051,2015,Texas,TX,48,"Burleson County, TX",17460,14.1-16
+48053,2015,Texas,TX,48,"Burnet County, TX",45463,12.1-14
+48055,2015,Texas,TX,48,"Caldwell County, TX",40522,8.1-10
+48057,2015,Texas,TX,48,"Calhoun County, TX",21895,18.1-20
+48059,2015,Texas,TX,48,"Callahan County, TX",13557,12.1-14
+48061,2015,Texas,TX,48,"Cameron County, TX",422156,6.1-8
+48063,2015,Texas,TX,48,"Camp County, TX",12682,16.1-18
+48065,2015,Texas,TX,48,"Carson County, TX",5969,18.1-20
+48067,2015,Texas,TX,48,"Cass County, TX",30313,12.1-14
+48069,2015,Texas,TX,48,"Castro County, TX",7656,8.1-10
+48071,2015,Texas,TX,48,"Chambers County, TX",38863,14.1-16
+48073,2015,Texas,TX,48,"Cherokee County, TX",51542,14.1-16
+48075,2015,Texas,TX,48,"Childress County, TX",7088,22.1-24
+48077,2015,Texas,TX,48,"Clay County, TX",10360,16.1-18
+48079,2015,Texas,TX,48,"Cochran County, TX",2953,18.1-20
+48081,2015,Texas,TX,48,"Coke County, TX",3238,10.1-12
+48083,2015,Texas,TX,48,"Coleman County, TX",8338,16.1-18
+48085,2015,Texas,TX,48,"Collin County, TX",914127,8.1-10
+48087,2015,Texas,TX,48,"Collingsworth County, TX",3044,18.1-20
+48089,2015,Texas,TX,48,"Colorado County, TX",20870,10.1-12
+48091,2015,Texas,TX,48,"Comal County, TX",129048,14.1-16
+48093,2015,Texas,TX,48,"Comanche County, TX",13430,14.1-16
+48095,2015,Texas,TX,48,"Concho County, TX",4081,4.1-6
+48097,2015,Texas,TX,48,"Cooke County, TX",39229,18.1-20
+48099,2015,Texas,TX,48,"Coryell County, TX",75503,6.1-8
+48101,2015,Texas,TX,48,"Cottle County, TX",1426,2.1-4
+48103,2015,Texas,TX,48,"Crane County, TX",5048,10.1-12
+48105,2015,Texas,TX,48,"Crockett County, TX",3710,12.1-14
+48107,2015,Texas,TX,48,"Crosby County, TX",5977,14.1-16
+48109,2015,Texas,TX,48,"Culberson County, TX",2236,10.1-12
+48111,2015,Texas,TX,48,"Dallam County, TX",7121,10.1-12
+48113,2015,Texas,TX,48,"Dallas County, TX",2553385,14.1-16
+48115,2015,Texas,TX,48,"Dawson County, TX",13520,12.1-14
+48117,2015,Texas,TX,48,"Deaf Smith County, TX",18952,8.1-10
+48119,2015,Texas,TX,48,"Delta County, TX",5217,20.1-22
+48121,2015,Texas,TX,48,"Denton County, TX",780612,8.1-10
+48123,2015,Texas,TX,48,"DeWitt County, TX",20797,8.1-10
+48125,2015,Texas,TX,48,"Dickens County, TX",2206,2.1-4
+48127,2015,Texas,TX,48,"Dimmit County, TX",10980,10.1-12
+48129,2015,Texas,TX,48,"Donley County, TX",3499,14.1-16
+48131,2015,Texas,TX,48,"Duval County, TX",11388,12.1-14
+48133,2015,Texas,TX,48,"Eastland County, TX",18171,12.1-14
+48135,2015,Texas,TX,48,"Ector County, TX",159436,16.1-18
+48137,2015,Texas,TX,48,"Edwards County, TX",1894,0-2
+48139,2015,Texas,TX,48,"Ellis County, TX",163632,8.1-10
+48141,2015,Texas,TX,48,"El Paso County, TX",835593,12.1-14
+48143,2015,Texas,TX,48,"Erath County, TX",41122,10.1-12
+48145,2015,Texas,TX,48,"Falls County, TX",17142,12.1-14
+48147,2015,Texas,TX,48,"Fannin County, TX",33693,10.1-12
+48149,2015,Texas,TX,48,"Fayette County, TX",25110,12.1-14
+48151,2015,Texas,TX,48,"Fisher County, TX",3827,6.1-8
+48153,2015,Texas,TX,48,"Floyd County, TX",5901,6.1-8
+48155,2015,Texas,TX,48,"Foard County, TX",1220,10.1-12
+48157,2015,Texas,TX,48,"Fort Bend County, TX",716087,4.1-6
+48159,2015,Texas,TX,48,"Franklin County, TX",10651,10.1-12
+48161,2015,Texas,TX,48,"Freestone County, TX",19691,10.1-12
+48163,2015,Texas,TX,48,"Frio County, TX",18793,8.1-10
+48165,2015,Texas,TX,48,"Gaines County, TX",20051,14.1-16
+48167,2015,Texas,TX,48,"Galveston County, TX",322225,18.1-20
+48169,2015,Texas,TX,48,"Garza County, TX",6415,10.1-12
+48171,2015,Texas,TX,48,"Gillespie County, TX",25963,8.1-10
+48173,2015,Texas,TX,48,"Glasscock County, TX",1315,0-2
+48175,2015,Texas,TX,48,"Goliad County, TX",7531,12.1-14
+48177,2015,Texas,TX,48,"Gonzales County, TX",20573,14.1-16
+48179,2015,Texas,TX,48,"Gray County, TX",23210,14.1-16
+48181,2015,Texas,TX,48,"Grayson County, TX",125467,16.1-18
+48183,2015,Texas,TX,48,"Gregg County, TX",124108,10.1-12
+48185,2015,Texas,TX,48,"Grimes County, TX",27512,16.1-18
+48187,2015,Texas,TX,48,"Guadalupe County, TX",151249,8.1-10
+48189,2015,Texas,TX,48,"Hale County, TX",34360,8.1-10
+48191,2015,Texas,TX,48,"Hall County, TX",3138,14.1-16
+48193,2015,Texas,TX,48,"Hamilton County, TX",8159,16.1-18
+48195,2015,Texas,TX,48,"Hansford County, TX",5610,12.1-14
+48197,2015,Texas,TX,48,"Hardeman County, TX",3840,12.1-14
+48199,2015,Texas,TX,48,"Hardin County, TX",55865,18.1-20
+48201,2015,Texas,TX,48,"Harris County, TX",4538028,14.1-16
+48203,2015,Texas,TX,48,"Harrison County, TX",66746,8.1-10
+48205,2015,Texas,TX,48,"Hartley County, TX",6193,8.1-10
+48207,2015,Texas,TX,48,"Haskell County, TX",5737,14.1-16
+48209,2015,Texas,TX,48,"Hays County, TX",194739,10.1-12
+48211,2015,Texas,TX,48,"Hemphill County, TX",4264,16.1-18
+48213,2015,Texas,TX,48,"Henderson County, TX",79545,16.1-18
+48215,2015,Texas,TX,48,"Hidalgo County, TX",842304,4.1-6
+48217,2015,Texas,TX,48,"Hill County, TX",34855,12.1-14
+48219,2015,Texas,TX,48,"Hockley County, TX",23433,12.1-14
+48221,2015,Texas,TX,48,"Hood County, TX",55423,14.1-16
+48223,2015,Texas,TX,48,"Hopkins County, TX",36223,12.1-14
+48225,2015,Texas,TX,48,"Houston County, TX",22785,12.1-14
+48227,2015,Texas,TX,48,"Howard County, TX",37206,12.1-14
+48229,2015,Texas,TX,48,"Hudspeth County, TX",3379,0-2
+48231,2015,Texas,TX,48,"Hunt County, TX",89844,14.1-16
+48233,2015,Texas,TX,48,"Hutchinson County, TX",21734,14.1-16
+48235,2015,Texas,TX,48,"Irion County, TX",1554,6.1-8
+48237,2015,Texas,TX,48,"Jack County, TX",8878,14.1-16
+48239,2015,Texas,TX,48,"Jackson County, TX",14816,8.1-10
+48241,2015,Texas,TX,48,"Jasper County, TX",35506,16.1-18
+48243,2015,Texas,TX,48,"Jeff Davis County, TX",2156,12.1-14
+48245,2015,Texas,TX,48,"Jefferson County, TX",254308,16.1-18
+48247,2015,Texas,TX,48,"Jim Hogg County, TX",5200,4.1-6
+48249,2015,Texas,TX,48,"Jim Wells County, TX",41382,8.1-10
+48251,2015,Texas,TX,48,"Johnson County, TX",159990,12.1-14
+48253,2015,Texas,TX,48,"Jones County, TX",19970,8.1-10
+48255,2015,Texas,TX,48,"Karnes County, TX",14975,8.1-10
+48257,2015,Texas,TX,48,"Kaufman County, TX",114690,10.1-12
+48259,2015,Texas,TX,48,"Kendall County, TX",40384,10.1-12
+48261,2015,Texas,TX,48,"Kenedy County, TX",407,0-2
+48263,2015,Texas,TX,48,"Kent County, TX",764,4.1-6
+48265,2015,Texas,TX,48,"Kerr County, TX",50955,16.1-18
+48267,2015,Texas,TX,48,"Kimble County, TX",4388,16.1-18
+48269,2015,Texas,TX,48,"King County, TX",282,0-2
+48271,2015,Texas,TX,48,"Kinney County, TX",3549,4.1-6
+48273,2015,Texas,TX,48,"Kleberg County, TX",31857,8.1-10
+48275,2015,Texas,TX,48,"Knox County, TX",3860,10.1-12
+48277,2015,Texas,TX,48,"Lamar County, TX",49440,10.1-12
+48279,2015,Texas,TX,48,"Lamb County, TX",13385,14.1-16
+48281,2015,Texas,TX,48,"Lampasas County, TX",20588,10.1-12
+48283,2015,Texas,TX,48,"La Salle County, TX",7631,10.1-12
+48285,2015,Texas,TX,48,"Lavaca County, TX",19836,10.1-12
+48287,2015,Texas,TX,48,"Lee County, TX",16898,12.1-14
+48289,2015,Texas,TX,48,"Leon County, TX",17086,14.1-16
+48291,2015,Texas,TX,48,"Liberty County, TX",79654,20.1-22
+48293,2015,Texas,TX,48,"Limestone County, TX",23320,12.1-14
+48295,2015,Texas,TX,48,"Lipscomb County, TX",3569,14.1-16
+48297,2015,Texas,TX,48,"Live Oak County, TX",12229,8.1-10
+48299,2015,Texas,TX,48,"Llano County, TX",19796,24.1-26
+48301,2015,Texas,TX,48,"Loving County, TX",112,0-2
+48303,2015,Texas,TX,48,"Lubbock County, TX",299453,12.1-14
+48305,2015,Texas,TX,48,"Lynn County, TX",5724,6.1-8
+48307,2015,Texas,TX,48,"McCulloch County, TX",8341,16.1-18
+48309,2015,Texas,TX,48,"McLennan County, TX",245671,8.1-10
+48311,2015,Texas,TX,48,"McMullen County, TX",820,0-2
+48313,2015,Texas,TX,48,"Madison County, TX",14065,12.1-14
+48315,2015,Texas,TX,48,"Marion County, TX",10160,18.1-20
+48317,2015,Texas,TX,48,"Martin County, TX",5641,8.1-10
+48319,2015,Texas,TX,48,"Mason County, TX",4032,12.1-14
+48321,2015,Texas,TX,48,"Matagorda County, TX",36770,10.1-12
+48323,2015,Texas,TX,48,"Maverick County, TX",57706,6.1-8
+48325,2015,Texas,TX,48,"Medina County, TX",48417,4.1-6
+48327,2015,Texas,TX,48,"Menard County, TX",2164,10.1-12
+48329,2015,Texas,TX,48,"Midland County, TX",161077,12.1-14
+48331,2015,Texas,TX,48,"Milam County, TX",24513,12.1-14
+48333,2015,Texas,TX,48,"Mills County, TX",4900,12.1-14
+48335,2015,Texas,TX,48,"Mitchell County, TX",9067,12.1-14
+48337,2015,Texas,TX,48,"Montague County, TX",19262,20.1-22
+48339,2015,Texas,TX,48,"Montgomery County, TX",537559,16.1-18
+48341,2015,Texas,TX,48,"Moore County, TX",22255,8.1-10
+48343,2015,Texas,TX,48,"Morris County, TX",12516,20.1-22
+48345,2015,Texas,TX,48,"Motley County, TX",1148,16.1-18
+48347,2015,Texas,TX,48,"Nacogdoches County, TX",65664,12.1-14
+48349,2015,Texas,TX,48,"Navarro County, TX",48323,10.1-12
+48351,2015,Texas,TX,48,"Newton County, TX",13986,22.1-24
+48353,2015,Texas,TX,48,"Nolan County, TX",15107,14.1-16
+48355,2015,Texas,TX,48,"Nueces County, TX",359715,14.1-16
+48357,2015,Texas,TX,48,"Ochiltree County, TX",10747,10.1-12
+48359,2015,Texas,TX,48,"Oldham County, TX",2069,18.1-20
+48361,2015,Texas,TX,48,"Orange County, TX",84260,>30
+48363,2015,Texas,TX,48,"Palo Pinto County, TX",27895,16.1-18
+48365,2015,Texas,TX,48,"Panola County, TX",23766,10.1-12
+48367,2015,Texas,TX,48,"Parker County, TX",126042,14.1-16
+48369,2015,Texas,TX,48,"Parmer County, TX",9749,12.1-14
+48371,2015,Texas,TX,48,"Pecos County, TX",16203,8.1-10
+48373,2015,Texas,TX,48,"Polk County, TX",46972,24.1-26
+48375,2015,Texas,TX,48,"Potter County, TX",121802,16.1-18
+48377,2015,Texas,TX,48,"Presidio County, TX",6876,4.1-6
+48379,2015,Texas,TX,48,"Rains County, TX",11161,20.1-22
+48381,2015,Texas,TX,48,"Randall County, TX",130269,10.1-12
+48383,2015,Texas,TX,48,"Reagan County, TX",3792,22.1-24
+48385,2015,Texas,TX,48,"Real County, TX",3307,18.1-20
+48387,2015,Texas,TX,48,"Red River County, TX",12455,14.1-16
+48389,2015,Texas,TX,48,"Reeves County, TX",14732,20.1-22
+48391,2015,Texas,TX,48,"Refugio County, TX",7289,14.1-16
+48393,2015,Texas,TX,48,"Roberts County, TX",916,2.1-4
+48395,2015,Texas,TX,48,"Robertson County, TX",16659,14.1-16
+48397,2015,Texas,TX,48,"Rockwall County, TX",90861,8.1-10
+48399,2015,Texas,TX,48,"Runnels County, TX",10551,10.1-12
+48401,2015,Texas,TX,48,"Rusk County, TX",53070,10.1-12
+48403,2015,Texas,TX,48,"Sabine County, TX",10368,24.1-26
+48405,2015,Texas,TX,48,"San Augustine County, TX",8473,24.1-26
+48407,2015,Texas,TX,48,"San Jacinto County, TX",27413,18.1-20
+48409,2015,Texas,TX,48,"San Patricio County, TX",67357,12.1-14
+48411,2015,Texas,TX,48,"San Saba County, TX",5901,16.1-18
+48413,2015,Texas,TX,48,"Schleicher County, TX",3211,8.1-10
+48415,2015,Texas,TX,48,"Scurry County, TX",17615,12.1-14
+48417,2015,Texas,TX,48,"Shackelford County, TX",3350,2.1-4
+48419,2015,Texas,TX,48,"Shelby County, TX",25402,14.1-16
+48421,2015,Texas,TX,48,"Sherman County, TX",3072,22.1-24
+48423,2015,Texas,TX,48,"Smith County, TX",222936,12.1-14
+48425,2015,Texas,TX,48,"Somervell County, TX",8739,14.1-16
+48427,2015,Texas,TX,48,"Starr County, TX",63795,4.1-6
+48429,2015,Texas,TX,48,"Stephens County, TX",9440,10.1-12
+48431,2015,Texas,TX,48,"Sterling County, TX",1352,0-2
+48433,2015,Texas,TX,48,"Stonewall County, TX",1410,4.1-6
+48435,2015,Texas,TX,48,"Sutton County, TX",3913,18.1-20
+48437,2015,Texas,TX,48,"Swisher County, TX",7533,12.1-14
+48439,2015,Texas,TX,48,"Tarrant County, TX",1982498,12.1-14
+48441,2015,Texas,TX,48,"Taylor County, TX",136051,12.1-14
+48443,2015,Texas,TX,48,"Terrell County, TX",837,0-2
+48445,2015,Texas,TX,48,"Terry County, TX",12739,10.1-12
+48447,2015,Texas,TX,48,"Throckmorton County, TX",1579,14.1-16
+48449,2015,Texas,TX,48,"Titus County, TX",32623,8.1-10
+48451,2015,Texas,TX,48,"Tom Green County, TX",118105,12.1-14
+48453,2015,Texas,TX,48,"Travis County, TX",1176558,14.1-16
+48455,2015,Texas,TX,48,"Trinity County, TX",14402,20.1-22
+48457,2015,Texas,TX,48,"Tyler County, TX",21347,16.1-18
+48459,2015,Texas,TX,48,"Upshur County, TX",40603,14.1-16
+48461,2015,Texas,TX,48,"Upton County, TX",3651,6.1-8
+48463,2015,Texas,TX,48,"Uvalde County, TX",27245,8.1-10
+48465,2015,Texas,TX,48,"Val Verde County, TX",48988,6.1-8
+48467,2015,Texas,TX,48,"Van Zandt County, TX",53547,18.1-20
+48469,2015,Texas,TX,48,"Victoria County, TX",92382,10.1-12
+48471,2015,Texas,TX,48,"Walker County, TX",70699,6.1-8
+48473,2015,Texas,TX,48,"Waller County, TX",48656,12.1-14
+48475,2015,Texas,TX,48,"Ward County, TX",11721,16.1-18
+48477,2015,Texas,TX,48,"Washington County, TX",34765,6.1-8
+48479,2015,Texas,TX,48,"Webb County, TX",269721,8.1-10
+48481,2015,Texas,TX,48,"Wharton County, TX",41486,8.1-10
+48483,2015,Texas,TX,48,"Wheeler County, TX",5657,18.1-20
+48485,2015,Texas,TX,48,"Wichita County, TX",131705,20.1-22
+48487,2015,Texas,TX,48,"Wilbarger County, TX",13027,18.1-20
+48489,2015,Texas,TX,48,"Willacy County, TX",21903,6.1-8
+48491,2015,Texas,TX,48,"Williamson County, TX",508514,8.1-10
+48493,2015,Texas,TX,48,"Wilson County, TX",47520,6.1-8
+48495,2015,Texas,TX,48,"Winkler County, TX",8005,24.1-26
+48497,2015,Texas,TX,48,"Wise County, TX",62953,12.1-14
+48499,2015,Texas,TX,48,"Wood County, TX",43356,16.1-18
+48501,2015,Texas,TX,48,"Yoakum County, TX",8546,16.1-18
+48503,2015,Texas,TX,48,"Young County, TX",18270,26.1-28
+48505,2015,Texas,TX,48,"Zapata County, TX",14374,12.1-14
+48507,2015,Texas,TX,48,"Zavala County, TX",12235,14.1-16
+49001,2015,Utah,UT,49,"Beaver County, UT",6354,26.1-28
+49003,2015,Utah,UT,49,"Box Elder County, UT",52097,18.1-20
+49005,2015,Utah,UT,49,"Cache County, UT",120783,14.1-16
+49007,2015,Utah,UT,49,"Carbon County, UT",20479,>30
+49009,2015,Utah,UT,49,"Daggett County, UT",1109,20.1-22
+49011,2015,Utah,UT,49,"Davis County, UT",336043,20.1-22
+49013,2015,Utah,UT,49,"Duchesne County, UT",20862,28.1-30
+49015,2015,Utah,UT,49,"Emery County, UT",10370,>30
+49017,2015,Utah,UT,49,"Garfield County, UT",5009,14.1-16
+49019,2015,Utah,UT,49,"Grand County, UT",9516,22.1-24
+49021,2015,Utah,UT,49,"Iron County, UT",48368,20.1-22
+49023,2015,Utah,UT,49,"Juab County, UT",10594,26.1-28
+49025,2015,Utah,UT,49,"Kane County, UT",7131,>30
+49027,2015,Utah,UT,49,"Millard County, UT",12645,22.1-24
+49029,2015,Utah,UT,49,"Morgan County, UT",11065,18.1-20
+49031,2015,Utah,UT,49,"Piute County, UT",1517,16.1-18
+49033,2015,Utah,UT,49,"Rich County, UT",2311,24.1-26
+49035,2015,Utah,UT,49,"Salt Lake County, UT",1107314,28.1-30
+49037,2015,Utah,UT,49,"San Juan County, UT",15772,10.1-12
+49039,2015,Utah,UT,49,"Sanpete County, UT",28778,24.1-26
+49041,2015,Utah,UT,49,"Sevier County, UT",20984,22.1-24
+49043,2015,Utah,UT,49,"Summit County, UT",39633,14.1-16
+49045,2015,Utah,UT,49,"Tooele County, UT",62952,26.1-28
+49047,2015,Utah,UT,49,"Uintah County, UT",37928,20.1-22
+49049,2015,Utah,UT,49,"Utah County, UT",575205,22.1-24
+49051,2015,Utah,UT,49,"Wasatch County, UT",29161,18.1-20
+49053,2015,Utah,UT,49,"Washington County, UT",155602,22.1-24
+49055,2015,Utah,UT,49,"Wayne County, UT",2692,24.1-26
+49057,2015,Utah,UT,49,"Weber County, UT",243645,26.1-28
+50001,2015,Vermont,VT,50,"Addison County, VT",37035,12.1-14
+50003,2015,Vermont,VT,50,"Bennington County, VT",36317,14.1-16
+50005,2015,Vermont,VT,50,"Caledonia County, VT",30780,12.1-14
+50007,2015,Vermont,VT,50,"Chittenden County, VT",161382,12.1-14
+50009,2015,Vermont,VT,50,"Essex County, VT",6163,26.1-28
+50011,2015,Vermont,VT,50,"Franklin County, VT",48799,12.1-14
+50013,2015,Vermont,VT,50,"Grand Isle County, VT",6861,14.1-16
+50015,2015,Vermont,VT,50,"Lamoille County, VT",25235,10.1-12
+50017,2015,Vermont,VT,50,"Orange County, VT",28899,12.1-14
+50019,2015,Vermont,VT,50,"Orleans County, VT",27100,14.1-16
+50021,2015,Vermont,VT,50,"Rutland County, VT",59736,18.1-20
+50023,2015,Vermont,VT,50,"Washington County, VT",58612,14.1-16
+50025,2015,Vermont,VT,50,"Windham County, VT",43386,16.1-18
+50027,2015,Vermont,VT,50,"Windsor County, VT",55737,16.1-18
+51001,2015,Virginia,VA,51,"Accomack County, VA",32973,12.1-14
+51003,2015,Virginia,VA,51,"Albemarle County, VA",105703,6.1-8
+51005,2015,Virginia,VA,51,"Alleghany County, VA",15677,16.1-18
+51007,2015,Virginia,VA,51,"Amelia County, VA",12903,10.1-12
+51009,2015,Virginia,VA,51,"Amherst County, VA",31914,10.1-12
+51011,2015,Virginia,VA,51,"Appomattox County, VA",15414,6.1-8
+51013,2015,Virginia,VA,51,"Arlington County, VA",229164,6.1-8
+51015,2015,Virginia,VA,51,"Augusta County, VA",74314,10.1-12
+51017,2015,Virginia,VA,51,"Bath County, VA",4470,12.1-14
+51019,2015,Virginia,VA,51,"Bedford County, VA",77724,12.1-14
+51021,2015,Virginia,VA,51,"Bland County, VA",6561,>30
+51023,2015,Virginia,VA,51,"Botetourt County, VA",33347,14.1-16
+51025,2015,Virginia,VA,51,"Brunswick County, VA",16698,6.1-8
+51027,2015,Virginia,VA,51,"Buchanan County, VA",22776,>30
+51029,2015,Virginia,VA,51,"Buckingham County, VA",17032,12.1-14
+51031,2015,Virginia,VA,51,"Campbell County, VA",55086,8.1-10
+51033,2015,Virginia,VA,51,"Caroline County, VA",29984,10.1-12
+51035,2015,Virginia,VA,51,"Carroll County, VA",29724,16.1-18
+51036,2015,Virginia,VA,51,"Charles City County, VA",7040,10.1-12
+51037,2015,Virginia,VA,51,"Charlotte County, VA",12201,12.1-14
+51041,2015,Virginia,VA,51,"Chesterfield County, VA",335687,10.1-12
+51043,2015,Virginia,VA,51,"Clarke County, VA",14363,14.1-16
+51045,2015,Virginia,VA,51,"Craig County, VA",5211,26.1-28
+51047,2015,Virginia,VA,51,"Culpeper County, VA",49432,14.1-16
+51049,2015,Virginia,VA,51,"Cumberland County, VA",9719,14.1-16
+51051,2015,Virginia,VA,51,"Dickenson County, VA",15115,>30
+51053,2015,Virginia,VA,51,"Dinwiddie County, VA",27852,8.1-10
+51057,2015,Virginia,VA,51,"Essex County, VA",11130,10.1-12
+51059,2015,Virginia,VA,51,"Fairfax County, VA",1142234,6.1-8
+51061,2015,Virginia,VA,51,"Fauquier County, VA",68782,16.1-18
+51063,2015,Virginia,VA,51,"Floyd County, VA",15651,14.1-16
+51065,2015,Virginia,VA,51,"Fluvanna County, VA",26235,8.1-10
+51067,2015,Virginia,VA,51,"Franklin County, VA",56264,16.1-18
+51069,2015,Virginia,VA,51,"Frederick County, VA",83199,14.1-16
+51071,2015,Virginia,VA,51,"Giles County, VA",16708,24.1-26
+51073,2015,Virginia,VA,51,"Gloucester County, VA",37143,12.1-14
+51075,2015,Virginia,VA,51,"Goochland County, VA",22253,12.1-14
+51077,2015,Virginia,VA,51,"Grayson County, VA",16012,14.1-16
+51079,2015,Virginia,VA,51,"Greene County, VA",19162,12.1-14
+51081,2015,Virginia,VA,51,"Greensville County, VA",11885,6.1-8
+51083,2015,Virginia,VA,51,"Halifax County, VA",35125,10.1-12
+51085,2015,Virginia,VA,51,"Hanover County, VA",103227,10.1-12
+51087,2015,Virginia,VA,51,"Henrico County, VA",325155,12.1-14
+51089,2015,Virginia,VA,51,"Henry County, VA",51881,24.1-26
+51091,2015,Virginia,VA,51,"Highland County, VA",2214,26.1-28
+51093,2015,Virginia,VA,51,"Isle of Wight County, VA",36314,10.1-12
+51095,2015,Virginia,VA,51,"James City County, VA",73147,8.1-10
+51097,2015,Virginia,VA,51,"King and Queen County, VA",7158,14.1-16
+51099,2015,Virginia,VA,51,"King George County, VA",25515,12.1-14
+51101,2015,Virginia,VA,51,"King William County, VA",16269,10.1-12
+51103,2015,Virginia,VA,51,"Lancaster County, VA",10965,12.1-14
+51105,2015,Virginia,VA,51,"Lee County, VA",24742,28.1-30
+51107,2015,Virginia,VA,51,"Loudoun County, VA",375629,6.1-8
+51109,2015,Virginia,VA,51,"Louisa County, VA",34602,10.1-12
+51111,2015,Virginia,VA,51,"Lunenburg County, VA",12299,8.1-10
+51113,2015,Virginia,VA,51,"Madison County, VA",13134,12.1-14
+51115,2015,Virginia,VA,51,"Mathews County, VA",8862,16.1-18
+51117,2015,Virginia,VA,51,"Mecklenburg County, VA",31081,10.1-12
+51119,2015,Virginia,VA,51,"Middlesex County, VA",10606,18.1-20
+51121,2015,Virginia,VA,51,"Montgomery County, VA",97653,14.1-16
+51125,2015,Virginia,VA,51,"Nelson County, VA",14785,12.1-14
+51127,2015,Virginia,VA,51,"New Kent County, VA",20392,12.1-14
+51131,2015,Virginia,VA,51,"Northampton County, VA",12155,14.1-16
+51133,2015,Virginia,VA,51,"Northumberland County, VA",12232,14.1-16
+51135,2015,Virginia,VA,51,"Nottoway County, VA",15673,12.1-14
+51137,2015,Virginia,VA,51,"Orange County, VA",35385,12.1-14
+51139,2015,Virginia,VA,51,"Page County, VA",23726,18.1-20
+51141,2015,Virginia,VA,51,"Patrick County, VA",18045,20.1-22
+51143,2015,Virginia,VA,51,"Pittsylvania County, VA",62194,12.1-14
+51145,2015,Virginia,VA,51,"Powhatan County, VA",28031,8.1-10
+51147,2015,Virginia,VA,51,"Prince Edward County, VA",22952,10.1-12
+51149,2015,Virginia,VA,51,"Prince George County, VA",37862,8.1-10
+51153,2015,Virginia,VA,51,"Prince William County, VA",451721,8.1-10
+51155,2015,Virginia,VA,51,"Pulaski County, VA",34332,>30
+51157,2015,Virginia,VA,51,"Rappahannock County, VA",7378,20.1-22
+51159,2015,Virginia,VA,51,"Richmond County, VA",8908,12.1-14
+51161,2015,Virginia,VA,51,"Roanoke County, VA",94409,12.1-14
+51163,2015,Virginia,VA,51,"Rockbridge County, VA",22354,14.1-16
+51165,2015,Virginia,VA,51,"Rockingham County, VA",78593,6.1-8
+51167,2015,Virginia,VA,51,"Russell County, VA",27891,>30
+51169,2015,Virginia,VA,51,"Scott County, VA",22126,20.1-22
+51171,2015,Virginia,VA,51,"Shenandoah County, VA",43190,12.1-14
+51173,2015,Virginia,VA,51,"Smyth County, VA",31470,18.1-20
+51175,2015,Virginia,VA,51,"Southampton County, VA",18109,10.1-12
+51177,2015,Virginia,VA,51,"Spotsylvania County, VA",130475,10.1-12
+51179,2015,Virginia,VA,51,"Stafford County, VA",142003,8.1-10
+51181,2015,Virginia,VA,51,"Surry County, VA",6709,14.1-16
+51183,2015,Virginia,VA,51,"Sussex County, VA",11715,8.1-10
+51185,2015,Virginia,VA,51,"Tazewell County, VA",42899,>30
+51187,2015,Virginia,VA,51,"Warren County, VA",39083,16.1-18
+51191,2015,Virginia,VA,51,"Washington County, VA",54591,18.1-20
+51193,2015,Virginia,VA,51,"Westmoreland County, VA",17629,16.1-18
+51195,2015,Virginia,VA,51,"Wise County, VA",39718,>30
+51197,2015,Virginia,VA,51,"Wythe County, VA",29119,24.1-26
+51199,2015,Virginia,VA,51,"York County, VA",67837,6.1-8
+51510,2015,Virginia,VA,51,"Alexandria city, VA",153511,8.1-10
+51520,2015,Virginia,VA,51,"Bristol city, VA",17141,26.1-28
+51530,2015,Virginia,VA,51,"Buena Vista city, VA",6618,22.1-24
+51540,2015,Virginia,VA,51,"Charlottesville city, VA",46597,12.1-14
+51550,2015,Virginia,VA,51,"Chesapeake city, VA",235429,12.1-14
+51570,2015,Virginia,VA,51,"Colonial Heights city, VA",17820,16.1-18
+51580,2015,Virginia,VA,51,"Covington city, VA",5658,22.1-24
+51590,2015,Virginia,VA,51,"Danville city, VA",42082,16.1-18
+51595,2015,Virginia,VA,51,"Emporia city, VA",5496,20.1-22
+51600,2015,Virginia,VA,51,"Fairfax city, VA",24013,14.1-16
+51610,2015,Virginia,VA,51,"Falls Church city, VA",13892,20.1-22
+51620,2015,Virginia,VA,51,"Franklin city, VA",8490,14.1-16
+51630,2015,Virginia,VA,51,"Fredericksburg city, VA",28118,16.1-18
+51640,2015,Virginia,VA,51,"Galax city, VA",6914,22.1-24
+51650,2015,Virginia,VA,51,"Hampton city, VA",136454,10.1-12
+51660,2015,Virginia,VA,51,"Harrisonburg city, VA",52538,8.1-10
+51670,2015,Virginia,VA,51,"Hopewell city, VA",22378,14.1-16
+51678,2015,Virginia,VA,51,"Lexington city, VA",7262,16.1-18
+51680,2015,Virginia,VA,51,"Lynchburg city, VA",79812,8.1-10
+51683,2015,Virginia,VA,51,"Manassas city, VA",41764,10.1-12
+51685,2015,Virginia,VA,51,"Manassas Park city, VA",15726,8.1-10
+51690,2015,Virginia,VA,51,"Martinsville city, VA",13645,24.1-26
+51700,2015,Virginia,VA,51,"Newport News city, VA",182385,12.1-14
+51710,2015,Virginia,VA,51,"Norfolk city, VA",246393,16.1-18
+51720,2015,Virginia,VA,51,"Norton city, VA",3939,>30
+51730,2015,Virginia,VA,51,"Petersburg city, VA",32477,14.1-16
+51735,2015,Virginia,VA,51,"Poquoson city, VA",12059,18.1-20
+51740,2015,Virginia,VA,51,"Portsmouth city, VA",96201,16.1-18
+51750,2015,Virginia,VA,51,"Radford city, VA",17403,24.1-26
+51760,2015,Virginia,VA,51,"Richmond city, VA",220289,22.1-24
+51770,2015,Virginia,VA,51,"Roanoke city, VA",99897,22.1-24
+51775,2015,Virginia,VA,51,"Salem city, VA",25432,18.1-20
+51790,2015,Virginia,VA,51,"Staunton city, VA",24416,18.1-20
+51800,2015,Virginia,VA,51,"Suffolk city, VA",88161,8.1-10
+51810,2015,Virginia,VA,51,"Virginia Beach city, VA",452745,12.1-14
+51820,2015,Virginia,VA,51,"Waynesboro city, VA",21491,22.1-24
+51830,2015,Virginia,VA,51,"Williamsburg city, VA",15052,16.1-18
+51840,2015,Virginia,VA,51,"Winchester city, VA",27284,16.1-18
+53001,2015,Washington,WA,53,"Adams County, WA",19254,8.1-10
+53003,2015,Washington,WA,53,"Asotin County, WA",22105,18.1-20
+53005,2015,Washington,WA,53,"Benton County, WA",190309,14.1-16
+53007,2015,Washington,WA,53,"Chelan County, WA",75644,18.1-20
+53009,2015,Washington,WA,53,"Clallam County, WA",73486,28.1-30
+53011,2015,Washington,WA,53,"Clark County, WA",459495,18.1-20
+53013,2015,Washington,WA,53,"Columbia County, WA",3944,26.1-28
+53015,2015,Washington,WA,53,"Cowlitz County, WA",103468,28.1-30
+53017,2015,Washington,WA,53,"Douglas County, WA",40534,16.1-18
+53019,2015,Washington,WA,53,"Ferry County, WA",7582,28.1-30
+53021,2015,Washington,WA,53,"Franklin County, WA",88807,10.1-12
+53023,2015,Washington,WA,53,"Garfield County, WA",2219,28.1-30
+53025,2015,Washington,WA,53,"Grant County, WA",93259,18.1-20
+53027,2015,Washington,WA,53,"Grays Harbor County, WA",71122,26.1-28
+53029,2015,Washington,WA,53,"Island County, WA",80593,12.1-14
+53031,2015,Washington,WA,53,"Jefferson County, WA",30466,18.1-20
+53033,2015,Washington,WA,53,"King County, WA",2117125,18.1-20
+53035,2015,Washington,WA,53,"Kitsap County, WA",260131,16.1-18
+53037,2015,Washington,WA,53,"Kittitas County, WA",43269,8.1-10
+53039,2015,Washington,WA,53,"Klickitat County, WA",21026,14.1-16
+53041,2015,Washington,WA,53,"Lewis County, WA",75882,22.1-24
+53043,2015,Washington,WA,53,"Lincoln County, WA",10321,20.1-22
+53045,2015,Washington,WA,53,"Mason County, WA",61023,22.1-24
+53047,2015,Washington,WA,53,"Okanogan County, WA",41516,18.1-20
+53049,2015,Washington,WA,53,"Pacific County, WA",20848,24.1-26
+53051,2015,Washington,WA,53,"Pend Oreille County, WA",13088,28.1-30
+53053,2015,Washington,WA,53,"Pierce County, WA",843954,20.1-22
+53055,2015,Washington,WA,53,"San Juan County, WA",16252,18.1-20
+53057,2015,Washington,WA,53,"Skagit County, WA",121846,20.1-22
+53059,2015,Washington,WA,53,"Skamania County, WA",11339,22.1-24
+53061,2015,Washington,WA,53,"Snohomish County, WA",772501,20.1-22
+53063,2015,Washington,WA,53,"Spokane County, WA",490945,24.1-26
+53065,2015,Washington,WA,53,"Stevens County, WA",43791,20.1-22
+53067,2015,Washington,WA,53,"Thurston County, WA",269536,14.1-16
+53069,2015,Washington,WA,53,"Wahkiakum County, WA",4042,22.1-24
+53071,2015,Washington,WA,53,"Walla Walla County, WA",60338,14.1-16
+53073,2015,Washington,WA,53,"Whatcom County, WA",212284,16.1-18
+53075,2015,Washington,WA,53,"Whitman County, WA",48177,8.1-10
+53077,2015,Washington,WA,53,"Yakima County, WA",248830,12.1-14
+54001,2015,West Virginia,WV,54,"Barbour County, WV",16704,18.1-20
+54003,2015,West Virginia,WV,54,"Berkeley County, WV",111901,24.1-26
+54005,2015,West Virginia,WV,54,"Boone County, WV",23372,>30
+54007,2015,West Virginia,WV,54,"Braxton County, WV",14415,18.1-20
+54009,2015,West Virginia,WV,54,"Brooke County, WV",23350,>30
+54011,2015,West Virginia,WV,54,"Cabell County, WV",96844,>30
+54013,2015,West Virginia,WV,54,"Calhoun County, WV",7470,20.1-22
+54015,2015,West Virginia,WV,54,"Clay County, WV",8910,24.1-26
+54017,2015,West Virginia,WV,54,"Doddridge County, WV",8176,20.1-22
+54019,2015,West Virginia,WV,54,"Fayette County, WV",44997,>30
+54021,2015,West Virginia,WV,54,"Gilmer County, WV",8518,18.1-20
+54023,2015,West Virginia,WV,54,"Grant County, WV",11766,12.1-14
+54025,2015,West Virginia,WV,54,"Greenbrier County, WV",35516,24.1-26
+54027,2015,West Virginia,WV,54,"Hampshire County, WV",23353,22.1-24
+54029,2015,West Virginia,WV,54,"Hancock County, WV",29815,>30
+54031,2015,West Virginia,WV,54,"Hardy County, WV",13852,14.1-16
+54033,2015,West Virginia,WV,54,"Harrison County, WV",68714,24.1-26
+54035,2015,West Virginia,WV,54,"Jackson County, WV",29237,18.1-20
+54037,2015,West Virginia,WV,54,"Jefferson County, WV",56482,20.1-22
+54039,2015,West Virginia,WV,54,"Kanawha County, WV",188332,>30
+54041,2015,West Virginia,WV,54,"Lewis County, WV",16448,16.1-18
+54043,2015,West Virginia,WV,54,"Lincoln County, WV",21415,>30
+54045,2015,West Virginia,WV,54,"Logan County, WV",34707,>30
+54047,2015,West Virginia,WV,54,"McDowell County, WV",19835,>30
+54049,2015,West Virginia,WV,54,"Marion County, WV",56925,16.1-18
+54051,2015,West Virginia,WV,54,"Marshall County, WV",31978,18.1-20
+54053,2015,West Virginia,WV,54,"Mason County, WV",27037,28.1-30
+54055,2015,West Virginia,WV,54,"Mercer County, WV",61164,>30
+54057,2015,West Virginia,WV,54,"Mineral County, WV",27451,20.1-22
+54059,2015,West Virginia,WV,54,"Mingo County, WV",25292,>30
+54061,2015,West Virginia,WV,54,"Monongalia County, WV",104236,12.1-14
+54063,2015,West Virginia,WV,54,"Monroe County, WV",13506,>30
+54065,2015,West Virginia,WV,54,"Morgan County, WV",17524,26.1-28
+54067,2015,West Virginia,WV,54,"Nicholas County, WV",25594,24.1-26
+54069,2015,West Virginia,WV,54,"Ohio County, WV",43066,18.1-20
+54071,2015,West Virginia,WV,54,"Pendleton County, WV",7229,18.1-20
+54073,2015,West Virginia,WV,54,"Pleasants County, WV",7674,20.1-22
+54075,2015,West Virginia,WV,54,"Pocahontas County, WV",8607,>30
+54077,2015,West Virginia,WV,54,"Preston County, WV",33940,14.1-16
+54079,2015,West Virginia,WV,54,"Putnam County, WV",56848,18.1-20
+54081,2015,West Virginia,WV,54,"Raleigh County, WV",77510,>30
+54083,2015,West Virginia,WV,54,"Randolph County, WV",29126,16.1-18
+54085,2015,West Virginia,WV,54,"Ritchie County, WV",9982,14.1-16
+54087,2015,West Virginia,WV,54,"Roane County, WV",14435,22.1-24
+54089,2015,West Virginia,WV,54,"Summers County, WV",13239,>30
+54091,2015,West Virginia,WV,54,"Taylor County, WV",16912,16.1-18
+54093,2015,West Virginia,WV,54,"Tucker County, WV",6966,12.1-14
+54095,2015,West Virginia,WV,54,"Tyler County, WV",8975,18.1-20
+54097,2015,West Virginia,WV,54,"Upshur County, WV",24758,12.1-14
+54099,2015,West Virginia,WV,54,"Wayne County, WV",40971,28.1-30
+54101,2015,West Virginia,WV,54,"Webster County, WV",8755,>30
+54103,2015,West Virginia,WV,54,"Wetzel County, WV",15816,16.1-18
+54105,2015,West Virginia,WV,54,"Wirt County, WV",5880,20.1-22
+54107,2015,West Virginia,WV,54,"Wood County, WV",86452,16.1-18
+54109,2015,West Virginia,WV,54,"Wyoming County, WV",22151,>30
+55001,2015,Wisconsin,WI,55,"Adams County, WI",20148,18.1-20
+55003,2015,Wisconsin,WI,55,"Ashland County, WI",15843,18.1-20
+55005,2015,Wisconsin,WI,55,"Barron County, WI",45563,8.1-10
+55007,2015,Wisconsin,WI,55,"Bayfield County, WI",14977,10.1-12
+55009,2015,Wisconsin,WI,55,"Brown County, WI",258718,10.1-12
+55011,2015,Wisconsin,WI,55,"Buffalo County, WI",13192,10.1-12
+55013,2015,Wisconsin,WI,55,"Burnett County, WI",15159,12.1-14
+55015,2015,Wisconsin,WI,55,"Calumet County, WI",49762,6.1-8
+55017,2015,Wisconsin,WI,55,"Chippewa County, WI",63531,8.1-10
+55019,2015,Wisconsin,WI,55,"Clark County, WI",34445,4.1-6
+55021,2015,Wisconsin,WI,55,"Columbia County, WI",56743,16.1-18
+55023,2015,Wisconsin,WI,55,"Crawford County, WI",16391,12.1-14
+55025,2015,Wisconsin,WI,55,"Dane County, WI",523643,14.1-16
+55027,2015,Wisconsin,WI,55,"Dodge County, WI",88502,10.1-12
+55029,2015,Wisconsin,WI,55,"Door County, WI",27554,10.1-12
+55031,2015,Wisconsin,WI,55,"Douglas County, WI",43601,10.1-12
+55033,2015,Wisconsin,WI,55,"Dunn County, WI",44497,8.1-10
+55035,2015,Wisconsin,WI,55,"Eau Claire County, WI",102105,10.1-12
+55037,2015,Wisconsin,WI,55,"Florence County, WI",4464,16.1-18
+55039,2015,Wisconsin,WI,55,"Fond du Lac County, WI",101973,10.1-12
+55041,2015,Wisconsin,WI,55,"Forest County, WI",9057,20.1-22
+55043,2015,Wisconsin,WI,55,"Grant County, WI",52250,6.1-8
+55045,2015,Wisconsin,WI,55,"Green County, WI",37186,10.1-12
+55047,2015,Wisconsin,WI,55,"Green Lake County, WI",18856,10.1-12
+55049,2015,Wisconsin,WI,55,"Iowa County, WI",23813,10.1-12
+55051,2015,Wisconsin,WI,55,"Iron County, WI",5794,18.1-20
+55053,2015,Wisconsin,WI,55,"Jackson County, WI",20554,10.1-12
+55055,2015,Wisconsin,WI,55,"Jefferson County, WI",84559,8.1-10
+55057,2015,Wisconsin,WI,55,"Juneau County, WI",26224,12.1-14
+55059,2015,Wisconsin,WI,55,"Kenosha County, WI",168437,20.1-22
+55061,2015,Wisconsin,WI,55,"Kewaunee County, WI",20366,8.1-10
+55063,2015,Wisconsin,WI,55,"La Crosse County, WI",118212,12.1-14
+55065,2015,Wisconsin,WI,55,"Lafayette County, WI",16829,8.1-10
+55067,2015,Wisconsin,WI,55,"Langlade County, WI",19223,14.1-16
+55069,2015,Wisconsin,WI,55,"Lincoln County, WI",27980,10.1-12
+55071,2015,Wisconsin,WI,55,"Manitowoc County, WI",79806,10.1-12
+55073,2015,Wisconsin,WI,55,"Marathon County, WI",135868,6.1-8
+55075,2015,Wisconsin,WI,55,"Marinette County, WI",40884,10.1-12
+55077,2015,Wisconsin,WI,55,"Marquette County, WI",15075,18.1-20
+55078,2015,Wisconsin,WI,55,"Menominee County, WI",4573,26.1-28
+55079,2015,Wisconsin,WI,55,"Milwaukee County, WI",957735,24.1-26
+55081,2015,Wisconsin,WI,55,"Monroe County, WI",45549,12.1-14
+55083,2015,Wisconsin,WI,55,"Oconto County, WI",37435,6.1-8
+55085,2015,Wisconsin,WI,55,"Oneida County, WI",35567,12.1-14
+55087,2015,Wisconsin,WI,55,"Outagamie County, WI",183245,6.1-8
+55089,2015,Wisconsin,WI,55,"Ozaukee County, WI",87850,6.1-8
+55091,2015,Wisconsin,WI,55,"Pepin County, WI",7290,6.1-8
+55093,2015,Wisconsin,WI,55,"Pierce County, WI",40889,8.1-10
+55095,2015,Wisconsin,WI,55,"Polk County, WI",43441,6.1-8
+55097,2015,Wisconsin,WI,55,"Portage County, WI",70408,6.1-8
+55099,2015,Wisconsin,WI,55,"Price County, WI",13645,12.1-14
+55101,2015,Wisconsin,WI,55,"Racine County, WI",195080,16.1-18
+55103,2015,Wisconsin,WI,55,"Richland County, WI",17495,10.1-12
+55105,2015,Wisconsin,WI,55,"Rock County, WI",161448,14.1-16
+55107,2015,Wisconsin,WI,55,"Rusk County, WI",14124,10.1-12
+55109,2015,Wisconsin,WI,55,"St. Croix County, WI",87513,6.1-8
+55111,2015,Wisconsin,WI,55,"Sauk County, WI",63642,14.1-16
+55113,2015,Wisconsin,WI,55,"Sawyer County, WI",16376,16.1-18
+55115,2015,Wisconsin,WI,55,"Shawano County, WI",41304,8.1-10
+55117,2015,Wisconsin,WI,55,"Sheboygan County, WI",115569,10.1-12
+55119,2015,Wisconsin,WI,55,"Taylor County, WI",20455,8.1-10
+55121,2015,Wisconsin,WI,55,"Trempealeau County, WI",29550,8.1-10
+55123,2015,Wisconsin,WI,55,"Vernon County, WI",30506,8.1-10
+55125,2015,Wisconsin,WI,55,"Vilas County, WI",21387,18.1-20
+55127,2015,Wisconsin,WI,55,"Walworth County, WI",102804,12.1-14
+55129,2015,Wisconsin,WI,55,"Washburn County, WI",15552,12.1-14
+55131,2015,Wisconsin,WI,55,"Washington County, WI",133674,10.1-12
+55133,2015,Wisconsin,WI,55,"Waukesha County, WI",396488,12.1-14
+55135,2015,Wisconsin,WI,55,"Waupaca County, WI",51945,6.1-8
+55137,2015,Wisconsin,WI,55,"Waushara County, WI",24033,8.1-10
+55139,2015,Wisconsin,WI,55,"Winnebago County, WI",169546,12.1-14
+55141,2015,Wisconsin,WI,55,"Wood County, WI",73435,8.1-10
+56001,2015,Wyoming,WY,56,"Albany County, WY",37956,12.1-14
+56003,2015,Wyoming,WY,56,"Big Horn County, WY",12022,18.1-20
+56005,2015,Wyoming,WY,56,"Campbell County, WY",49220,12.1-14
+56007,2015,Wyoming,WY,56,"Carbon County, WY",15559,20.1-22
+56009,2015,Wyoming,WY,56,"Converse County, WY",14236,10.1-12
+56011,2015,Wyoming,WY,56,"Crook County, WY",7444,12.1-14
+56013,2015,Wyoming,WY,56,"Fremont County, WY",40315,18.1-20
+56015,2015,Wyoming,WY,56,"Goshen County, WY",13383,14.1-16
+56017,2015,Wyoming,WY,56,"Hot Springs County, WY",4741,18.1-20
+56019,2015,Wyoming,WY,56,"Johnson County, WY",8585,14.1-16
+56021,2015,Wyoming,WY,56,"Laramie County, WY",97121,16.1-18
+56023,2015,Wyoming,WY,56,"Lincoln County, WY",18722,18.1-20
+56025,2015,Wyoming,WY,56,"Natrona County, WY",82178,16.1-18
+56027,2015,Wyoming,WY,56,"Niobrara County, WY",2542,14.1-16
+56029,2015,Wyoming,WY,56,"Park County, WY",29228,14.1-16
+56031,2015,Wyoming,WY,56,"Platte County, WY",8812,20.1-22
+56033,2015,Wyoming,WY,56,"Sheridan County, WY",30009,12.1-14
+56035,2015,Wyoming,WY,56,"Sublette County, WY",9899,8.1-10
+56037,2015,Wyoming,WY,56,"Sweetwater County, WY",44626,18.1-20
+56039,2015,Wyoming,WY,56,"Teton County, WY",23125,8.1-10
+56041,2015,Wyoming,WY,56,"Uinta County, WY",20822,18.1-20
+56043,2015,Wyoming,WY,56,"Washakie County, WY",8328,16.1-18
+56045,2015,Wyoming,WY,56,"Weston County, WY",7234,18.1-20

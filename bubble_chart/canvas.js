@@ -1,25 +1,25 @@
 console.log('hello world from canvas!');
 
 // create dimensions of canvas
-var width = 700;
-var height = 700;
+var width = 600;
+var height = 600;
 
 var ratio = window.devicePixelRatio || 1;
 
 var canvas = d3.select('canvas');
-canvas.attr('width', width * ratio)
-	.attr('height', height * ratio)
+canvas.attr('width', width )
+	.attr('height', height)
 	.style('width', width + 'px')
 	.style('height', height + 'px');
 
 // we draw on canvas using context
 // use .node() to get the DOM element and the DOM element has the getContext
 var ctx = canvas.node().getContext('2d');
-ctx.scale(ratio, ratio);
+// ctx.scale(ratio, ratio);
 
 // squareroot scale
 var area = d3.scaleSqrt()
-	.range([2, 50]);	// the min and max size of bubbles
+	.range([2, 40]);	// the min and max size of bubbles
 
 // color scale
 var color = d3.scaleLinear()

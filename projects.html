@@ -31,48 +31,81 @@
 		</div>
 		<div id="content">
 			<div class='entry'>
-
 				<div class="columnRight" id="gitlet_desc">
-					<a href="https://bitbucket.org/jyrhee/gitlet" class="link"><h2>Gitlet //  <b>Java</b></h2></a>
+					<h2><a href="https://bitbucket.org/jyrhee/gitlet" class="bitbucket">Gitlet //  <b>Java</b></a></h2>
+					<p>Access to code available upon request.</p>
 					<p>Gitlet is a mini version control system that essentially acts as a back up system for files. Much like Git, Gitlet is able to commit, checkout, log, remove, reset, merge, and push, and pull files saved on the computer.</p>
 					<p>The program uses object serialization to save and recover files from inside a hidden folder and allows the user to keep a record of changes that they may wish to come back to anytime.</p>
 					<p>Gitlet was tested using JUnit Testing.</p>
 				</div>
 				<div class="columnRight" id="sliding_blocks_puzzle">
-					<a href="https://bitbucket.org/jyrhee/sliding-blocks" class="link"><h2>Sliding Blocks Puzzle // <b>Java</b></h2></a>
+					<h2><a href="https://bitbucket.org/jyrhee/sliding-blocks" class="bitbucket">Sliding Blocks Puzzle // <b>Java</b></a></h2>
+					<p>Access to code available upon request.</p>
 					<p>Given a tray filled with rectangular blocks, Sliding Blocks Puzzle iterates through a tree of possible moves to return a list of moves that will make the given puzzle configuration match the given goal configuration.</p>
 					<p>Given the large number of possible moves, the program uses heuristics and priority queues to traverse through the tree in order to avoid repetitive moves and to reduce search time.</p>
 				</div>
+
+
 				<div class="columnRight" id="dorling_cartogram">
-					<a href="/dorling_cartogram/index.html" class="link"><h2>Dorling Cartogram // <b>D3.js, GeoJSON, CSV, Javascript, CSS3, HTML5, Web APIs</b></h2></a>
+					<h2>Dorling Cartogram // <b>D3.js, GeoJSON, CSV, Javascript, CSS3, HTML5, Web APIs</b></h2>
 					<p>Created a Dorling Cartogram using the U.S. Census data and GeoJSON representing the centroids of U.S. states.</p>
 					<p>The cartogram allows toggling between two data for each state: total population and median income.</p>
 					<p>The size and color of the circles representing each state changes according to the data of each category.</p>
 					<p>Used d3.geoAlbersUsa(), d3.scaleSqrt(), d3.scaleQuantize(), d3-legend, and d3-force to load the GeoJSON and CSV data </p>
 				</div>
+				<iframe
+					src="/dorling_cartogram/index.html" class="d3_graph" scrolling="no">
+				</iframe>
+
+
 				<div class="columnRight" id="choropleth_map">
-					<a href="/choropleth_map/index.html" class="link"><h2>Choropleth Map // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></h2></a>
+					<h2>Choropleth Map // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></h2>
 					<p>Created a map visualizing the number of drug overdose deaths in 2015 per 100,000 people based on every county in the U.S.</p>
 					<p>Took death rate data from a CSV file, geospatial data from a TopoJSON file generated using QGIS, and color scales from d3 to create a gradient depicting the various overdose rates.</p>
 				</div>
+				<iframe
+					src="/choropleth_map/index.html" class="d3_graph" scrolling="no">
+				</iframe>
+
+
 				<div class="columnRight" id="bubble_chart">
-					<a href="/bubble_chart/index.html" class="link"><h2>Bubble Chart // <b>D3.js, Javascript, Canvas, CSS3, HTML5, Web APIs</b></h2></a>
+					<h2>Bubble Chart // <b>D3.js, Javascript, Canvas, CSS3, HTML5, Web APIs</b></h2>
 					<p>Created a bubble chart visualizing the average GDP per country by joining two datasets based on abbreviated country codes.</p>
 					<p>d3-force was used to create a force layout that spread from the center and each bubble's size and color was made to correspond with the average GDP of the specified country.</p>
 					<p>A tooltip was created to display the full country name and the average GDP next to the cursor when the cursor hovers over a country's bubble.</p>
 				</div>
+				<iframe
+					src="/bubble_chart/index.html" class="d3_graph" id="bubble_chart_iframe_sgv" scrolling="no">
+				</iframe>
+				<iframe
+					src="/bubble_chart/index_canvas.html" class="d3_graph" id="bubble_chart_iframe_canvas" scrolling="no">
+				</iframe>
+
+
+
 				<div class="columnRight" id="scatterplot">
-					<a href="/scatterplot/index.html" class="link"><h2>Scatterplot // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></h2></a>
+					<h2>Scatterplot // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></h2>
 					<p>Created a transitioning scatterplot given a dataset of various car specifications (MPG, cylinders, displacement, horsepower, weight, acceleration, year, origin, and name).</p>
 					<p>Selected variables (acceleration and displacement) for each axis and changed the y-axis variable to displacement after 3 seconds and the x-axis variable to weight after 6 seconds.</p>
 					<p>For each transition, the change in the x-scale, y-scale, axis labels, and the dots were animated using d3.transition() and the color of each dot was assigned after every update based on the cars' country of origin.</p>
 				</div>
+				<iframe
+					src="/scatterplot/index.html" class="d3_graph" id="scatterplot_iframe" scrolling="no">
+				</iframe>
+
+
 				<div class="columnRight" id="line_chart">
-					<a href="/line_chart/index.html" class="link"><h2>Line Chart // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></h2></a>
+					<h2>Line Chart // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></h2>
 					<p>Created a line chart depicting the predicted height in feet of tides in San Francisco, CA.</p>
 					<p>Parsed the date, time, and prediction to readable formats and created a filled line chart to depict the actual rise and fall of tides.</p>
 					<p>A tooltip was created to display the date, time, and height of the tides in an empty white space based on where on the x-axis the cursor was located.</p>
 				</div>
+				<iframe
+					src="/line_chart/index.html" class="d3_graph" id="line_chart_iframe" scrolling="no">
+				</iframe>
+
+
+
 			</div>
 		</div>
 		<div id="footer">

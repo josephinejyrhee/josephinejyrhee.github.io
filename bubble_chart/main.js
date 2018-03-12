@@ -7,7 +7,7 @@ var svg = d3.select('svg'),
 
 // squareroot scale
 var area = d3.scaleSqrt()
-	.range([2, 50]);	// the min and max size of bubbles
+	.range([2, 40]);	// the min and max size of bubbles
 
 // color scale
 var color = d3.scaleLinear()

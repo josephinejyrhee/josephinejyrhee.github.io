@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>Josephine Rhee</title>
+	<meta name="author" content="Josephine Rhee">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- FYI this is an HTML comment, it will be ignored by the browser -->
+	<!-- load the d3 library locally -->
+	<!-- we could load the non-minified version, plain old "d3.js", for debugging purposes instead if desired -->
+	<script src="./lib/d3.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="frontpage.js"></script>
+	<link rel="stylesheet" href="contact.css" type="text/css"></link>
+	<script src="http://code.jquery.com/jquery-1.9.1.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$(function () {
+			$('.btnSendEmail').click(function (event) {
+				var email = 'josephinejyrhee@gmail.com';
+				var subject = '';
+				var emailBody = '';
+				window.location = 'mailto:' + email + '?subject=' + subject + '&body=' + emailBody;
+			});
+		});
+	</script>
+</head>
+
+
+<body>
+<!-- webpage content goes here in the body -->
+	<div id="page">
+		<div id="header">
+			<h1>Josephine Rhee</h1>
+			<div id="nav">
+				<ul>
+					<li><a href="/about.html" class="link">About</a></li>
+					<li><a href="/projects.html" class="link">Projects</a></li>
+					<li><a href="/Jung_Yun_Josephine_Rhee_Resume.pdf" class="link">Resume</a></li>
+					<li><a href="/photography/" class="link">Photography</a></li>
+					<li><a href="/contact.html" class="active-link">Contact</a></li>
+				</ul>   
+			</div>
+		</div>
+
+		<div class="text">
+			<p>Find me here!</p>
+		</div>
+		<div id="content">
+			<div class="contact" id="linked-in">
+				<a href="https://linkedin.com/in/josephinejyrhee"><img src="linked-in-logo.png" alt="LinkedIn"></a>
+			</div>
+
+			<div class="contact" id="github">
+				<a href="https://github.com/josephinejyrhee"><img src="github-logo.png" alt="Github"></a>
+			</div>
+
+			<div class="contact" id="gmail">
+				<a href="mailto:josephinejyrhee@gmail.com?subject=&body="><img src="gmail-logo.png" alt="Gmail"></a>
+			</div>
+
+
+
+		</div>
+
+
+
+
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank" class="link">Josephine Rhee</a>
+			</p>
+		</div>
+	</div>
+</body>

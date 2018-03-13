@@ -133,7 +133,7 @@ body{
 	margin: 0 auto;
 	display: block;
 }
-#bubble_chart_iframe_sgv{
+#bubble_chart_iframe_svg{
 	width: 43%;
 	height: 600px;
 	display: inline;

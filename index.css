@@ -16,9 +16,9 @@ h1{
 	font-size: 8em;
 	font-family: Shorthalt;
 }
-	h1:hover{
+	/*h1:hover{
 		color: #8b8b8b;
-	}
+	}*/
 
 
 h2{
@@ -42,9 +42,9 @@ ul {
 	color: black;
 	text-decoration: none;
 }
-	.link:hover{
+	/*.link:hover{
 		color: #a7cee5;
-	}
+	}*/
 .bitbucket{
 	color: #a7cee5;
 	text-decoration: none;

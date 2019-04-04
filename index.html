@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html> -->
+<!DOCTYPE html>
 <head>
 	<meta charset="utf-8">
 	<title>Josephine Rhee</title>
@@ -10,22 +10,90 @@
 	<script src="./lib/d3.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="frontpage.js"></script>
-	<link rel="stylesheet" href="frontpage.css" type="text/css"></link>
+	<link rel="stylesheet" href="index.css" type="text/css"></link>
 </head>
 
 
 <body>
 <!-- webpage content goes here in the body -->
-	<a href="about.html">
-		<div id="page">
-			<h1>HI, I'M</h1>
-			<h2>Josephine Rhee</h2>
-			<p>WELCOME TO MY PAGE!</p>
-			<!-- <div id="footer">
-				<p>
-					Webpage made by <a href="/" target="_blank">Josephine Rhee</a>
-				</p>
-			</div> -->
+	<div id="page">
+		<div id="header">
+			<h1>Josephine Rhee</h1>
+			<div id="nav">
+				<ul>
+					<li><a href="/index.html" class="active-link">Projects</a></li>
+				</ul>   
+			</div>
 		</div>
-	</a>
+		<div id="content">
+			<div class='entry'>
+
+
+				<div class="columnRight" id="scatterplot">
+					<h2><a href="https://github.com/josephinejyrhee/scatterplot" class="bitbucket">Scatterplot // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></a></h2>
+					<p>Created a transitioning scatterplot given a dataset of various car specifications (MPG, cylinders, displacement, horsepower, weight, acceleration, year, origin, and name).</p>
+					<p>Selected variables (acceleration and displacement) for each axis and changed the y-axis variable to displacement after 3 seconds and the x-axis variable to weight after 6 seconds.</p>
+					<p>For each transition, the change in the x-scale, y-scale, axis labels, and the dots were animated using d3.transition() and the color of each dot was assigned after every update based on the cars' country of origin.</p>
+				</div>
+				<iframe
+					src="/scatterplot/index.html" class="d3_graph" id="scatterplot_iframe" scrolling="no">
+				</iframe>
+
+
+				<div class="columnRight" id="dorling_cartogram">
+					<h2><a href="https://github.com/josephinejyrhee/dorling_cartogram" class="bitbucket">Dorling Cartogram // <b>D3.js, GeoJSON, CSV, Javascript, CSS3, HTML5, Web APIs</b></a></h2>
+					<p>Created a Dorling Cartogram using the U.S. Census data and GeoJSON representing the centroids of U.S. states.</p>
+					<p>The cartogram allows toggling between two data for each state: total population and median income.</p>
+					<p>The size and color of the circles representing each state changes according to the data of each category.</p>
+					<p>Used d3.geoAlbersUsa(), d3.scaleSqrt(), d3.scaleQuantize(), d3-legend, and d3-force to load the GeoJSON and CSV data </p>
+				</div>
+				<iframe
+					src="/dorling_cartogram/index.html" class="d3_graph" scrolling="no">
+				</iframe>
+
+
+				<div class="columnRight" id="choropleth_map">
+					<h2><a href="https://github.com/josephinejyrhee/geospatial_viz_with_d3" class="bitbucket">Choropleth Map // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></a></h2>
+					<p>Created a map visualizing the number of drug overdose deaths in 2015 per 100,000 people based on every county in the U.S.</p>
+					<p>Took death rate data from a CSV file, geospatial data from a TopoJSON file generated using QGIS, and color scales from d3 to create a gradient depicting the various overdose rates.</p>
+				</div>
+				<iframe
+					src="/choropleth_map/index.html" class="d3_graph" scrolling="no">
+				</iframe>
+
+
+				<div class="columnRight" id="bubble_chart">
+					<h2><a href="https://github.com/josephinejyrhee/use_the_d3_force" class="bitbucket">Bubble Chart // <b>D3.js, Javascript, Canvas, CSS3, HTML5, Web APIs</b></a></h2>
+					<p>Created a bubble chart visualizing the average GDP per country by joining two datasets based on abbreviated country codes.</p>
+					<p>d3-force was used to create a force layout that spread from the center and each bubble's size and color was made to correspond with the average GDP of the specified country.</p>
+					<p>A tooltip was created to display the full country name and the average GDP next to the cursor when the cursor hovers over a country's bubble.</p>
+				</div>
+				<iframe
+					src="/bubble_chart/index.html" class="d3_graph" id="bubble_chart_iframe_svg" scrolling="no">
+				</iframe>
+				<iframe
+					src="/bubble_chart/index_canvas.html" class="d3_graph" id="bubble_chart_iframe_canvas" scrolling="no">
+				</iframe>
+
+
+				<div class="columnRight" id="line_chart">
+					<h2><a href="https://github.com/josephinejyrhee/interactivity" class="bitbucket">Line Chart // <b>D3.js, Javascript, CSS3, HTML5, Web APIs</b></a></h2>
+					<p>Created a line chart depicting the predicted height in feet of tides in San Francisco, CA.</p>
+					<p>Parsed the date, time, and prediction to readable formats and created a filled line chart to depict the actual rise and fall of tides.</p>
+					<p>A tooltip was created to display the date, time, and height of the tides in an empty white space based on where on the x-axis the cursor was located.</p>
+				</div>
+				<iframe
+					src="/line_chart/index.html" class="d3_graph" id="line_chart_iframe" scrolling="no">
+				</iframe>
+
+
+
+			</div>
+		</div>
+		<div id="footer">
+			<p>
+				Made by <a href="/" target="_blank" class="link">Josephine Rhee</a>
+			</p>
+		</div>
+	</div>
 </body>
